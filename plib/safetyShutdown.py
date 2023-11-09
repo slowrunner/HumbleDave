@@ -102,17 +102,31 @@ def main():
   egpg = EasyGoPiGo3(use_mutex=True,noinit=True)
 
   batteryLowCount = 0
+  last_leg_count = 0
   warning_led_on = False
+  leds.wifi_blinker_off(egpg)
 
   try:
     while True:
         printStatus()
         if (battery.too_low(egpg)):
             batteryLowCount += 1
-        else: batteryLowCount = 0
+        else: 
+            batteryLowCount = 0
+            if (warning_led_on == True) and (battery.on_last_leg(egpg) == False):
+                last_leg_count -= 1
+                if last_leg_count < 1:
+                    last_leg_count = 0
+                    warning_led_on = False
+                    leds.wifi_blinker_off(egpg)
+                    os.system("/home/ubuntu/HumbleDave/logMaintenance.py 'safetyShutdown: voltage warning blinker deactivated '")
         if (warning_led_on == False) and battery.on_last_leg(egpg):
-            warning_led_on = True
-            leds.wifi_blinker_on(egpg,color=leds.ORANGE)
+            last_leg_count += 1
+            if last_leg_count > 4:
+                warning_led_on = True
+                leds.wifi_blinker_on(egpg,color=leds.ORANGE)
+                os.system("/home/ubuntu/HumbleDave/logMaintenance.py 'safetyShutdown: voltage warning blinker activated '")
+
         if (batteryLowCount > 3):
           vBatt,_ = battery.vBatt_vReading(egpg)
           print ("WARNING, WARNING, SHUTTING DOWN NOW")
