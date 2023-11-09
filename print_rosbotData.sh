@@ -1,3 +1,3 @@
 #!/bin/bash
 
-/home/pi/rosbot-on-gopigo3/utils/print_rosbotDataJson.py
+/home/ubuntu/HumbleDave/utils/print_rosbotDataJson.py

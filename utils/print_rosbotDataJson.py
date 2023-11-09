@@ -1,7 +1,7 @@
 #!/usr/bin/env  python3
 
 import sys
-sys.path.insert(1,"/home/pi/rosbot-on-gopigo3/plib")
+sys.path.insert(1,"/home/ubuntu/HumbleDave/plib")
 
 import rosbotDataJson
 

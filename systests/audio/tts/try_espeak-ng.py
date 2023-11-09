@@ -16,7 +16,7 @@ text = text.replace("'","")
 text = text.replace('"',' quote ')
 
 #Calls the espeak TTS Engine to read aloud a Text
-os.system("espeak-ng -w samples/espeak-ng.wav \""+text+"\"")
+os.system("espeak-ng -w espeak-ng.wav \""+text+"\"")
 
 # os.system("aplay samples/espeak-ng.wav 2>/dev/null")
-os.system("ffplay  -nodisp -autoexit samples/espeak-ng.wav 2>/dev/null")
+os.system("ffplay  -nodisp -autoexit espeak-ng.wav 2>/dev/null")
