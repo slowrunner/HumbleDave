@@ -55,3 +55,5 @@ tmp/
 ros2ws/build/
 ros2ws/log/
 ros2ws/install/
+nohup.out
+wheel.log
