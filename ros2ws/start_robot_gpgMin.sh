@@ -5,11 +5,11 @@
 
 echo -e "\n\n******** STARTING ROBOT GPGMIN ********"
 
-echo -e "\n*** Switching to ~/ros2ws"
-cd ~/ros2ws
+echo -e "\n*** Switching to ~/HumbleDave/ros2ws"
+cd ~/HumbleDave/ros2ws
 
 echo -e "\n*** Sourcing install/setup.bash"
-. ~/ros2ws/install/setup.bash
+. ~/HumbleDave/ros2ws/install/setup.bash
 
 echo -e "\n*** Start ROS2 GoPiGo3 node"
 echo "*** ros2 run ros2_gopigo3_node gopigo3_node --ros-args -p S1LPW:=2094 -p S1RPW:=750 -p S1SECTOR:=2.443 &"

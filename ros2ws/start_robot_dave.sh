@@ -2,7 +2,7 @@
 
 echo -e "\n\n******** STARTING ROBOT DAVE ********"
 
-echo -e "\n*** Switching to ~/ros2ws"
+echo -e "\n*** Switching to ~/HumbleDave/ros2ws"
 cd ~/HumbleDave/ros2ws
 
 echo -e "\n*** Sourcing install/setup.bash"

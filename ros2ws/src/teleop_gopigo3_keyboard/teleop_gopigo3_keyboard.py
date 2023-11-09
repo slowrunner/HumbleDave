@@ -54,6 +54,11 @@ Moving around:
    j    k    l
    m    ,    .
 
+  and arrow keys:
+
+        ^
+  <--   v  -->
+
 anything else : stop
 
 q/z : increase/decrease max speeds by 10%
@@ -72,6 +77,10 @@ moveBindings = {
     ',': (-1, 0, 0, 0),
     '.': (-1, 0, 0, 1),
     'm': (-1, 0, 0, -1),
+    'A': (1, 0, 0, 0),
+    'B': (-1, 0, 0, 0),
+    'D': (0, 0, 0, 1),
+    'C': (0, 0, 0, -1),
 }
 
 speedBindings = {
@@ -134,6 +143,12 @@ def main():
         print(vels(speed, turn))
         while True:
             key = getKey(settings)
+            # print("key pressed: ", key, " : ", key.encode('utf-8').hex())
+            if key.encode('utf-8').hex() == '1b':
+                key = getKey(settings)
+                # print("and: ", key, " : ", key.encode('utf-8').hex())
+                key = getKey(settings)
+                # print("and: ", key, " : ", key.encode('utf-8').hex())
             if key in moveBindings.keys():
                 x = moveBindings[key][0]
                 y = moveBindings[key][1]
