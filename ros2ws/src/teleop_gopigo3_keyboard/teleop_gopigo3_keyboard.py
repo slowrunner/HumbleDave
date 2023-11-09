@@ -1,3 +1,11 @@
+# FILE: teleop_gopigo3_keyboard.py
+#
+# PURPOSE:  Customized teleop_twist_keyboard for the GoPiGo3 robot
+#           including keyboard arrow keys for 
+#           fwd, bkwd, spin left, spin right
+
+# MODIFIED FOR ROS2 GOPIGO3 ROBOT
+
 # Copyright 2011 Brown University Robotics.
 # Copyright 2017 Open Source Robotics Foundation, Inc.
 # All rights reserved.
@@ -31,7 +39,6 @@
 # ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 # POSSIBILITY OF SUCH DAMAGE.
 
-# MODIFIED FOR ROS2 GOPIGO3 ROBOT
 
 import sys
 
