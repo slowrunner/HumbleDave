@@ -76,9 +76,9 @@ Indicators
    Other	3x Multi-Color WS2812B LED
 	2x Red LED
 
-Processor	Raspberry Pi 3 Model B+
-* 1.4GHz Four-core Cortex-A53
-* 1 GB RAM
+Processor	Raspberry Pi 4
+* 1.8GHz Four-core Cortex-A72
+* 2 GB RAM
 * 32GB SD card / ~8GB used 
 * 600ma idle - 1.34A full load
 
@@ -93,4 +93,4 @@ equiv. 500mA at 5v
 Active Current Draw ( Motors, Camera, Sensors, Servo )	800 mA - 2A
 Run Time	4-5 h (~30Wh), 
 
-Extended ROSbot Cost	$304 June 2021
+Extended ROSbot Cost	$??? Nov 2023
