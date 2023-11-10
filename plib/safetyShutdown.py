@@ -126,7 +126,7 @@ def main():
                 warning_led_on = True
                 leds.wifi_blinker_on(egpg,color=leds.ORANGE)
                 os.system("/home/ubuntu/HumbleDave/logMaintenance.py 'safetyShutdown: voltage warning blinker activated '")
-
+                last_leg_count = 15  # allow plenty of bouncing around the low mark
         if (batteryLowCount > 3):
           vBatt,_ = battery.vBatt_vReading(egpg)
           print ("WARNING, WARNING, SHUTTING DOWN NOW")
