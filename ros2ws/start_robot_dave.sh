@@ -34,19 +34,21 @@ ros2 launch ros2_gopigo3_node ros2_dave_state_and_joint.launch.py &
 # echo "*** ros2 run ros2_gopigo3_node distance_sensor &"
 # ros2 run ros2_gopigo3_node distance_sensor &
 
-echo -e "\n*** Start GoPiGo3 ultrasonic sensor node"
-echo "*** ros2 run ros2_gopigo3_node ultrasonic_ranger &"
-ros2 run ros2_gopigo3_node ultrasonic_ranger &
+# echo -e "\n*** Start GoPiGo3 ultrasonic sensor node"
+# echo "*** ros2 run ros2_gopigo3_node ultrasonic_ranger &"
+# ros2 run ros2_gopigo3_node ultrasonic_ranger &
 
-echo -e "\n*** Start GoPiGo3 IMU sensor node"
-echo "*** ros2 run ros2_gopigo3_node imu_sensor &"
-ros2 run ros2_gopigo3_node imu_sensor &
+echo -e "\n** NOT STARTING GoPiGo3 IMU SENSOR NODE"
+# echo -e "\n*** Start GoPiGo3 IMU sensor node"
+# echo "*** ros2 run ros2_gopigo3_node imu_sensor &"
+# ros2 run ros2_gopigo3_node imu_sensor &
 
-echo -e "\n*** Start SNES gamepad node"
+echo -e "\n*** NOT STATING SNES GAMEPAD NODE"
+# echo -e "\n*** Start SNES gamepad node"
 # echo '*** nohup ros2 launch teleop_twist_joy teleop-launch.py joy_config:="snes" &'
 # nohup ros2 launch teleop_twist_joy teleop-launch.py joy_config:="snes" &
-echo '*** nohup ros2 launch teleop_twist_joy teleop-launch.py joy_config:="snes_slow" &'
-nohup ros2 launch teleop_twist_joy teleop-launch.py joy_config:="snes_slow" &
+# echo '*** nohup ros2 launch teleop_twist_joy teleop-launch.py joy_config:="snes_slow" &'
+# nohup ros2 launch teleop_twist_joy teleop-launch.py joy_config:="snes_slow" &
 
 echo -e "\n*** STARTUP SLEEP 5s BEFORE STARTING LIDAR"
 sleep 1
@@ -67,13 +69,13 @@ nohup ros2 launch ydlidar_ros2_driver ydlidar_launch.py &
 
 
 # Uncomment the following instead of using start_image_pub.sh
-echo -e "\n*** Start Camera /Image topic publisher Node"
-echo "*** nohup ros2 run ros2_libcamera_pub libcamera_jpg_pub &"
-nohup ros2 run ros2_libcamera_pub libcamera_jpg_pub &
+# echo -e "\n*** Start Camera /Image topic publisher Node"
+# echo "*** nohup ros2 run ros2_libcamera_pub libcamera_jpg_pub &"
+# nohup ros2 run ros2_libcamera_pub libcamera_jpg_pub &
 
 
 # Uncomment the following instead of using start_slam_toobox.sh
-echo -e "\n*** STARTING ROS2 SLAM-TOOLBOX "
+echo -e "\n*** STARTING ROS2 SLAM-TOOLBOX - ASYNC MAPPING"
 echo "*** Drive GoPiGo3 around room, generating /map topics"
 echo "*** (Async: Best-effort processing, online - navigating on limited CPU)"
 echo "*** nohup ros2 launch slam_toolbox online_async_launch.py 'slam_params_file:=./my_mapper_params_online_async.yaml' &"
