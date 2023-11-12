@@ -100,4 +100,4 @@ echo "*** ros2 run ros2_gopigo3_node odometer &"
 ros2 run ros2_gopigo3_node odometer &
 
 
-echo -e "\n*********DONE start_robot_dave_nomap.sh DONE *******\n"
+echo -e "\n*********DONE start_robot_dave_noSLAM.sh DONE *******\n"
