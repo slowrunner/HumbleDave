@@ -29,24 +29,28 @@ ros2 launch ros2_gopigo3_node ros2_dave_state_and_joint.launch.py &
 # echo "*** with URDF file: finmark.urdf"
 # ros2 launch ros2_gopigo3_node ros2_finmark_state_and_joint.launch.py &
 
+echo -e "\n*** NOT STARTING DISTANCE SENSOR"
 # Uncomment to publish /distance_sensor/distance topic
 # echo -e "\n*** Start GoPiGo3 distance sensor node"
 # echo "*** ros2 run ros2_gopigo3_node distance_sensor &"
 # ros2 run ros2_gopigo3_node distance_sensor &
 
+echo -e "\n*** NOT STARTING ULTRASONIC SENSOR"
 # echo -e "\n*** Start GoPiGo3 ultrasonic sensor node"
 # echo "*** ros2 run ros2_gopigo3_node ultrasonic_ranger &"
 # ros2 run ros2_gopigo3_node ultrasonic_ranger &
 
-echo -e "\n*** Start GoPiGo3 IMU sensor node"
-echo "*** ros2 run ros2_gopigo3_node imu_sensor &"
-ros2 run ros2_gopigo3_node imu_sensor &
+echo -e "\n*** NOT STARTING IMU NODE"
+# echo -e "\n*** Start GoPiGo3 IMU sensor node"
+# echo "*** ros2 run ros2_gopigo3_node imu_sensor &"
+# ros2 run ros2_gopigo3_node imu_sensor &
 
-echo -e "\n*** Start SNES gamepad node"
+echo -e "\n*** NOT STARTING SNES GAMEPAD NODE"
+# echo -e "\n*** Start SNES gamepad node"
 # echo '*** nohup ros2 launch teleop_twist_joy teleop-launch.py joy_config:="snes" &'
 # nohup ros2 launch teleop_twist_joy teleop-launch.py joy_config:="snes" &
-echo '*** nohup ros2 launch teleop_twist_joy teleop-launch.py joy_config:="snes_slow" &'
-nohup ros2 launch teleop_twist_joy teleop-launch.py joy_config:="snes_slow" &
+# echo '*** nohup ros2 launch teleop_twist_joy teleop-launch.py joy_config:="snes_slow" &'
+# nohup ros2 launch teleop_twist_joy teleop-launch.py joy_config:="snes_slow" &
 
 echo -e "\n*** STARTUP SLEEP 5s BEFORE STARTING LIDAR"
 sleep 1
@@ -66,12 +70,14 @@ echo "*** nohup ros2 launch ydlidar_ros2_driver ydlidar_launch.py &"
 nohup ros2 launch ydlidar_ros2_driver ydlidar_launch.py &
 
 
+echo -e "\n*** NOT STARTING CAMERA NODE"
 # Uncomment the following instead of using start_image_pub.sh
-echo -e "\n*** Start Camera /Image topic publisher Node"
-echo "*** nohup ros2 run ros2_libcamera_pub libcamera_jpg_pub &"
-nohup ros2 run ros2_libcamera_pub libcamera_jpg_pub &
+# echo -e "\n*** Start Camera /Image topic publisher Node"
+# echo "*** nohup ros2 run ros2_libcamera_pub libcamera_jpg_pub &"
+# nohup ros2 run ros2_libcamera_pub libcamera_jpg_pub &
 
 
+echo -e "\n*** NOT STARTING SLAM-TOOLBOX"
 # echo -e "\n*** STARTING ROS2 SLAM-TOOLBOX "
 # echo "*** Drive GoPiGo3 around room, generating /map topics"
 
