@@ -58,3 +58,4 @@ ros2ws/install/
 nohup.out
 wheel.log
 ros2ws/xyzzy.map.*
+ros2ws/maps
