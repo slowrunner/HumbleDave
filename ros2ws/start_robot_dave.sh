@@ -65,7 +65,10 @@ sleep 1
 
 echo -e "\n*** Start YDLidar X4 node"
 echo "*** nohup ros2 launch ydlidar_ros2_driver ydlidar_launch.py &"
-nohup ros2 launch ydlidar_ros2_driver ydlidar_launch.py &
+# with nohup.out logging
+# nohup ros2 launch ydlidar_ros2_driver ydlidar_launch.py &
+# without logging (if call stop_scan service the nohup.out grows quickly)
+ros2 launch ydlidar_ros2_driver ydlidar_launch.py &
 
 
 # Uncomment the following instead of using start_image_pub.sh
@@ -79,7 +82,10 @@ echo -e "\n*** STARTING ROS2 SLAM-TOOLBOX - ASYNC MAPPING"
 echo "*** Drive GoPiGo3 around room, generating /map topics"
 echo "*** (Async: Best-effort processing, online - navigating on limited CPU)"
 echo "*** nohup ros2 launch slam_toolbox online_async_launch.py 'slam_params_file:=./my_mapper_params_online_async.yaml' &"
+# with logging to nohup.out
 nohup ros2 launch slam_toolbox online_async_launch.py 'slam_params_file:=./my_mapper_params_online_async.yaml' &
+# without logging 
+ros2 launch slam_toolbox online_async_launch.py 'slam_params_file:=./my_mapper_params_online_async.yaml' &
 
 
 echo -e "\n*** Publishing servo one center position (0.0)"
