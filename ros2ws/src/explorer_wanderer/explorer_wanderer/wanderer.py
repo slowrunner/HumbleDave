@@ -38,6 +38,9 @@ i_right = int(NUM_RANGES/4)
 i_right_forward = int((i_forward + i_right)/2)  # half way between forward and right
 i_back = NUM_RANGES - 1
 
+# Start slowing down at two times distance from wall
+SLOWING_FACTOR = (2.0 * distance_from_wall) / MAX_SPEED  # (2*0.35)/0.1 = 7
+
 class Subscriber(Node):
 
     def __init__(self):
@@ -195,7 +198,8 @@ def go_forward_until_obstacle(subscriber, publisher, command):
     # check_ranges() returns (obstacle: true/false, distance)
     while check_ranges(subscriber)[0]:  # while obstacles are not present go forward
         # rclpy.spin_once(subscriber)
-        speed = check_ranges(subscriber)[1] / 2.5  # robot speed depends on distance to closest obstacle
+        # speed = check_ranges(subscriber)[1] / 5  # robot speed depends on distance to closest obstacle
+        speed = check_ranges(subscriber)[1] / SLOWING_FACTOR  # robot speed depends on distance to closest obstacle
         if speed > MAX_SPEED:  # max speed
             speed = MAX_SPEED
         command.linear.x = speed
