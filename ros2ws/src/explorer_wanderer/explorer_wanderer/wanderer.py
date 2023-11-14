@@ -22,12 +22,13 @@ from rclpy.qos import qos_profile_sensor_data
 from sensor_msgs.msg import LaserScan
 from geometry_msgs.msg import Twist
 from statistics import mean
+import subprocess
 
 # slowrunner: changed from 0.8 meters
-distance_from_wall = 0.300
+distance_from_wall = 0.350
 
 # Average each range over NUM_READINGS of non-zero scans
-NUM_READINGS = 14
+NUM_READINGS = 3      # at 9Hz looking for 3 non-zero readings
 NUM_RANGES = 560
 MAX_SPEED = 0.1 # m/s
 i_forward = int(NUM_RANGES/2)-1  # may not be exact front if even number of ranges
@@ -46,15 +47,15 @@ class Subscriber(Node):
         # self.subscription = self.create_subscription(LaserScan, 'scan', self.listener_callback, 10)
         self.subscription = self.create_subscription(LaserScan, 'scan', self.listener_callback, qos_profile_sensor_data)
         self.subscription
-        self.ranges = [0.0] * 180
+        # self.ranges = [0.0] * 180  # can't see where used
 
         # slowrunner changed before scan distances 
-        self.forward_distance = 1000.0
-        self.left_forward_distance = 0.0
-        self.right_forward_distance = 0.0
-        self.left_distance = 0.0
-        self.back_distance = 0.0
-        self.right_distance = 0.0
+        self.forward_distance = 5.0
+        self.left_forward_distance = 5.0
+        self.right_forward_distance = 5.0
+        self.left_distance = 5.0
+        self.back_distance = 5.0
+        self.right_distance = 5.0
 
         # Create arrays to hold non-zero scan values
         self.forward = []
@@ -65,11 +66,11 @@ class Subscriber(Node):
         self.right = []
 
     def listener_callback(self, msg):
-        print("number of ranges in scan: " + str(len(msg.ranges)))
-        print("Forward distance: " + str(msg.ranges[0]))
-        print("Left distance: " + str(msg.ranges[90]))
-        print("Back distance: " + str(msg.ranges[180]))
-        print("Right distance: " + str(msg.ranges[270]))
+        # subscriber.get_logger().info("number of ranges in scan: " + str(len(msg.ranges)))
+        # subscriber.get_logger().info("Forward distance: " + str(msg.ranges[0]))
+        # subscriber.get_logger().info("Left distance: " + str(msg.ranges[90]))
+        # subscriber.get_logger().info("Back distance: " + str(msg.ranges[180]))
+        # subscriber.get_logger().info("Right distance: " + str(msg.ranges[270]))
 
         if  msg.ranges[i_forward] > 0:
             self.forward += [msg.ranges[i_forward]]
@@ -140,32 +141,47 @@ def check_ranges(subscriber):
     :return: boolean value of whether the bot is clear to go forward
     :return: float value of the smallest sensor reading
     """
-    rclpy.spin_once(subscriber)
+
+    for i in range(3):  # collect average of three readings
+        rclpy.spin_once(subscriber)
     readings = [subscriber.forward_distance, subscriber.left_forward_distance, subscriber.right_forward_distance]
-    print("readings: left {:2.3f}  lft_fwd {:2.3f}  fwd {:2.3f}   rt_fwd {:2.3f}   right {:2.3f}  back {:2.3f}".format( \
-             subscriber.left_distance, subscriber.left_forward_distance, subscriber.forward_distance, subscriber.right_forward_distance, \
-             subscriber.right_distance, subscriber.back_distance))
+    subscriber.get_logger().info("readings: left {:2.3f}  lft_fwd {:2.3f}  fwd {:2.3f}   rt_fwd {:2.3f}   right {:2.3f}  back {:2.3f}".format( \
+                 subscriber.left_distance, subscriber.left_forward_distance, subscriber.forward_distance, subscriber.right_forward_distance, \
+                 subscriber.right_distance, subscriber.back_distance))
     min_value = min(readings)
-    if (min_value > 0) and (subscriber.forward_distance < distance_from_wall):  # if there is a wall in front, dont go forward
-          print("\n*** forward obstacle at {:.3f} meters".format(subscriber.forward_distance))
-          subscriber.get_logger().info("Forward Obstacle detected")
+
+    if (subscriber.forward_distance < distance_from_wall):  # if there is a wall in front, dont go forward
+          # subscriber.get_logger().info("\n*** forward obstacle at {:.3f} meters".format(subscriber.forward_distance))
+          phrase="Forward obstacle {:.3f} meters".format(subscriber.forward_distance)
+          subscriber.get_logger().info(phrase)
           return False, min_value
+
+    elif (subscriber.right_forward_distance > distance_from_wall and
+          subscriber.left_forward_distance > distance_from_wall):  # if theres no wall close to the sides,
+          # subscriber.get_logger().info("\n*** no walls close in front")
+          # If left or right distance will not allow turn, we could be in trouble and not know it
+          if (subscriber.right_distance < distance_from_wall or
+              subscriber.left_distance  < distance_from_wall):
+              phrase="Close on Left {:.3f} or right {:.3f} meters".format( \
+                  subscriber.left_distance, subscriber.right_distance)
+              subscriber.get_logger().info(phrase)
+              return False, min_value
+          else:
+              # go forward
+              phrase="No Obstacles"
+              subscriber.get_logger().info(phrase)
+              return True, min_value
+    #elif (subscriber.left_forward_distance > subscriber.left_distance or  # if the robot is aiming away from
+    #     # the wall, go forward
+    #     subscriber.right_forward_distance > subscriber.right_distance):
+    #     #subscriber.get_logger().info("\n*** going away from a wall") 
+    #     # say("Moving away from wall")
+    #     return True, min_value
     else:
-        if (subscriber.right_forward_distance > distance_from_wall and
-                subscriber.left_forward_distance > distance_from_wall):  # if theres no wall close to the sides,
-            print("\n*** no walls close in front")
-            # go forward
-            return True, min_value
-        else:
-            if (subscriber.left_forward_distance > subscriber.left_distance or  # if the robot is aiming away from
-                    # the wall, go forward
-                    subscriber.right_forward_distance > subscriber.right_distance):
-                print("\n*** going away from a wall") 
-                return True, min_value
-            else:
-                subscriber.get_logger().info("Obstacle detected")
-                print("\n*** Obstacle detected")
-                return False, min_value
+        phrase="Forward left {:.3f} or right obstacle {:.3f} meters".format( \
+                  subscriber.left_forward_distance, subscriber.right_forward_distance)
+        subscriber.get_logger().info(phrase)
+        return False, min_value
 
 def go_forward_until_obstacle(subscriber, publisher, command):
     """
@@ -177,18 +193,17 @@ def go_forward_until_obstacle(subscriber, publisher, command):
     command = reset_commands(command)
 
     # check_ranges() returns (obstacle: true/false, distance)
-    while check_ranges(subscriber)[0]:  # while obstacles are not present or robot is aiming away from wall, go forward
-        rclpy.spin_once(subscriber)
+    while check_ranges(subscriber)[0]:  # while obstacles are not present go forward
+        # rclpy.spin_once(subscriber)
         speed = check_ranges(subscriber)[1] / 2.5  # robot speed depends on distance to closest obstacle
         if speed > MAX_SPEED:  # max speed
             speed = MAX_SPEED
         command.linear.x = speed
-        publisher.get_logger().info('*** Going forward at %s m/s.' % round(speed, 2))
+        publisher.get_logger().info('*** Command fwd at %s m/s.' % round(speed, 2))
         publisher.publisher_.publish(command)
 
     command = reset_commands(command)
     publisher.publisher_.publish(command)
-
 
 def rotate_until_clear(subscriber, publisher, command):
     """
@@ -199,27 +214,50 @@ def rotate_until_clear(subscriber, publisher, command):
     """
 
     command = reset_commands(command)
-    rclpy.spin_once(subscriber)
+    for i in range(3):  # collect average of three readings
+        rclpy.spin_once(subscriber)
 
-    if subscriber.left_forward_distance < subscriber.right_forward_distance:  # if the robot has the wall to his left
-        while subscriber.left_forward_distance < subscriber.left_distance or subscriber.forward_distance < distance_from_wall:
+    publisher.get_logger().info("rotate: readings: left {:2.3f}  lft_fwd {:2.3f}  fwd {:2.3f}   rt_fwd {:2.3f}   right {:2.3f}  back {:2.3f}".format( \
+                 subscriber.left_distance, subscriber.left_forward_distance, subscriber.forward_distance, subscriber.right_forward_distance, \
+                 subscriber.right_distance, subscriber.back_distance))
+
+    # if the robot has the wall to his left
+    if subscriber.left_forward_distance < subscriber.right_forward_distance or subscriber.left_distance < distance_from_wall: 
+        #while subscriber.left_forward_distance < subscriber.left_distance or subscriber.forward_distance < distance_from_wall:
+        while subscriber.left_forward_distance < distance_from_wall or subscriber.left_distance < distance_from_wall \
+                or subscriber.forward_distance < distance_from_wall:
             rclpy.spin_once(subscriber)
             command.angular.z = -1.1 + (random()*0.3)
             publisher.publisher_.publish(command)
             publisher.get_logger().info("Rotating right...")
-            print("*** Rotating right...")
+            # say("Rotating right")
+            #subscriber.get_logger().info("*** Rotating right...")
     else:
-        while subscriber.right_forward_distance < subscriber.right_distance or subscriber.forward_distance < distance_from_wall:
+        #while subscriber.right_forward_distance < subscriber.right_distance or subscriber.forward_distance < distance_from_wall:
+        while subscriber.right_forward_distance < distance_from_wall or subscriber.right_distance < distance_from_wall \
+               or subscriber.forward_distance < distance_from_wall:
             rclpy.spin_once(subscriber)
             command.angular.z = 1.1 - (random()*0.3)
             publisher.publisher_.publish(command)
             publisher.get_logger().info("Rotating left...")
-            print("*** Rotating left...")
+            #subscriber.get_logger().info("*** Rotating left...")
+            # say("Rotating left")
 
-    subscriber.get_logger().info("\n*** Clear.")
+    publisher.get_logger().info("\n*** Clear.")
 
     command = reset_commands(command)
     publisher.publisher_.publish(command)
+
+
+def say(phrase,vol=100):
+
+    phrase = phrase.replace("I'm","I m")
+    phrase = phrase.replace("'","")
+    phrase = phrase.replace('"',' quote ')
+    phrase = phrase.replace('*',"")
+
+    # subprocess.check_output(['espeak-ng -s150 -ven-us+f5 -a'+str(vol)+' "%s"' % phrase], stderr=subprocess.STDOUT, shell=True)
+    subprocess.check_output(['espeak-ng -s300 -a'+str(vol)+' "%s"' % phrase], stderr=subprocess.STDOUT, shell=True)
 
 
 def main(args=None):
@@ -229,11 +267,13 @@ def main(args=None):
     publisher = Publisher()
     command = Twist()
 
+    say("I'm Humble Dave. Starting Ross 2 wanderer")
+
     while 1:  # main loop. The robot goes forward until obstacle, and then turns until its free to advance, repeatedly.
         go_forward_until_obstacle(subscriber, publisher, command)
         rotate_until_clear(subscriber, publisher, command)
 
-    rclpy.spin(subscriber)
+    # rclpy.spin(subscriber)
     # Destroy the node explicitly
     # (optional - otherwise it will be done automatically
     # when the garbage collector destroys the node object)
