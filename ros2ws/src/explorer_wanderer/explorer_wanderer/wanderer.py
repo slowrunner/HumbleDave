@@ -4,12 +4,14 @@
 # REF: https://github.com/DaniGarciaLopez/ros2_explorer/tree/main
 # HISTORY:  
 #  - Originally written by Enrique Fernández-Laguilhoat Sánchez-Biezma
-#  - Nov 2023: slowrunner: Modified 
+#  - Nov 2023: slowrunner: Modified:
 #    - scan range[0] faces back on GoPiGo3 robot Dave
 #    - to average /scan ranges to tolerate LIDAR returning ocaisional zero values
-#    - QoS profile to depth 10 with BEST_EFFORT
-#    - Lowered allowed distance from obstacles to 200mm (GoPiGo3 safe turning circle is 140mm)
-#    - Lowered max_speed to 0.15m/s to prevent tip-over when stopping GoPiGo3 robot HumbleDave
+#    - replaced explicit qos profile of "10" with qos_profile_sensor_data, which is 10 with BEST_EFFORT
+#    - Lowered allowed distance from obstacles to 350mm (GoPiGo3 safe turning circle is 140mm)
+#    - Lowered max_speed to 0.1m/s to prevent tip-over when stopping GoPiGo3 robot HumbleDave
+#    - Change algorithm to lower speed when closer than twice the minimum obstacle distance_to_wall
+
 
 from random import random
 
