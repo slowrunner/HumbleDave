@@ -31,7 +31,7 @@ distance_from_wall = 0.350
 
 # Average each range over NUM_READINGS of non-zero scans
 NUM_READINGS = 3      # at 9Hz looking for 3 non-zero readings
-NUM_RANGES = 560
+NUM_RANGES = 561
 MAX_SPEED = 0.1 # m/s
 i_forward = int(NUM_RANGES/2)-1  # may not be exact front if even number of ranges
 i_left = int(NUM_RANGES * 0.75) 
