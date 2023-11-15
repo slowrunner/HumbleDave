@@ -1,0 +1,87 @@
+2023-08-22 00:00|[logMaintenance.py.main]******************** END OF October 2023 LIFE ******************************************
+2023-08-22 00:00|[logMaintenance.py.main]** END OF October 2023 LIFE -  Estimated Total Life  750 hrs 0 Dockings  **
+2023-08-22 00:00|[logMaintenance.py.main]** END OF October 2023 LIFE -  Year 311 Sessions (booted) **
+2023-08-22 00:00|lifelog.dEmain execution: 750.0
+2023-03-22 00:26|[logMaintenance.py.main]** NEW BATTERY at 0 dockings, 0 hrs, on 2021-06-21 **
+2023-08-22 00:00|[logMaintenance.py.main]******************** END OF October 2023 LIFE ******************************************
+2023-11-08 23:09|------------ boot ------------
+2023-11-08 23:09|Current Battery 10.94v EasyGoPiGo3 Reading 10.12v
+2023-11-09 00:27|lifelogger.dEmain execution: 1.30
+2023-11-09 00:29|[logMaintenance.py.main]** Routine Reboot **
+2023-11-09 00:29|[logMaintenance.py.main]** 'Current Battery 12.46v EasyGoPiGo3 Reading 11.65v' **
+2023-11-09 00:34|------------ boot ------------
+2023-11-09 00:34|Current Battery 12.51v EasyGoPiGo3 Reading 11.70v
+2023-11-09 09:16|[logMaintenance.py.main]** After unrecorded housrs of booting nearly every OS available for the Raspberry Pi, and each version of those **
+2023-11-09 09:17|[logMaintenance.py.main]** uncounted hours running ROS Kinetic, then **
+2023-11-09 09:17|[logMaintenance.py.main]** 'running' a 1k in ROS 2 Foxy **
+2023-11-09 09:18|[logMaintenance.py.main]** working through the Hands On ROS book in ROS2 Galactic, then **
+2023-11-09 09:18|[logMaintenance.py.main]** exploring SLAM in Humble, and **
+2023-11-09 09:18|[logMaintenance.py.main]** 10 days in Oct 2023 running ROS Noetic **
+2023-11-09 09:19|[logMaintenance.py.main]** Humble Dave is officially a 24/7 robot maintaining life, wheel, and ROS 2 odometry logs. **
+2023-11-09 20:06|[logMaintenance.py.main]** Another Test of last leg LED **
+2023-11-09 20:09|[logMaintenance.py.main]** safetyShutdown: voltage warning blinker activated  **
+2023-11-09 20:42|[logMaintenance.py.main]** safetyShutdown: voltage warning blinker deactivated  **
+2023-11-09 21:17|[logMaintenance.py.main]** Another Test of last leg LED **
+2023-11-09 21:28|[logMaintenance.py.main]** safetyShutdown: voltage warning blinker activated  **
+2023-11-09 21:40|[logMaintenance.py.main]** safetyShutdown: voltage warning blinker deactivated  **
+2023-11-10 11:06|[logMaintenance.py.main]** Off dock, start_robot_dave.sh begins **
+2023-11-10 11:07|[logMaintenance.py.main]** started moving without command for some reason **
+2023-11-10 11:21|[logMaintenance.py.main]** After driving twice around the room, odometry claims x: 1.4m y: -1.6m, should be 0,0,0  **
+2023-11-10 11:23|[logMaintenance.py.main]** After driving twice around the room, with LIDAR-Mapping-everything, 15 minutes vBatt 11.0-11.1v **
+2023-11-10 11:32|[logMaintenance.py.main]** After driving four times around the room, odometry claims x: 2.4m y: -1.3m, should be 0,0,0 vBatt 10.9v **
+2023-11-10 12:14|[logMaintenance.py.main]** Been stopped but running everything - vBatt 10.3v **
+2023-11-10 12:28|[logMaintenance.py.main]** safetyShutdown: voltage warning blinker activated  **
+2023-11-10 12:44|[logMaintenance.py.main]** Last Leg Warning LED activated when driving vbatt=10.0 **
+2023-11-10 12:45|[logMaintenance.py.main]** Drawing 7W all running vbatt=10.0 **
+2023-11-10 13:13|[logMaintenance.py.main]** Drawing 7W stopped all running vbatt=9.9v **
+2023-11-10 13:14|[logMaintenance.py.main]** Drawing 8.3W spinning all running vbatt=9.9v **
+2023-11-10 13:28|[logMaintenance.py.main]** SAFETY SHUTDOWN - BATTERY LOW **
+2023-11-10 13:28|[logMaintenance.py.main]** Current Battery 9.7v EasyGoPiGo3 Reading 8.82v **
+2023-11-10 13:29|lifelogger.dEmain execution: 36.90
+2023-11-10 13:36|------------ boot ------------
+2023-11-10 13:36|Current Battery 11.9v EasyGoPiGo3 Reading 11.01v
+2023-11-10 19:55|[logMaintenance.py.main]** Charged - vBatt 12.3v reding 11.8v **
+2023-11-10 21:53|[logMaintenance.py.main]** Set safetyShutdown last leg counter to 150 to prevent early LED off **
+2023-11-11 09:49|[logMaintenance.py.main]** Starting ROS2 GoPiGo3 on dock 12.4v reported **
+2023-11-11 09:51|[logMaintenance.py.main]** Off dock 11.5v load 1.05 reported **
+2023-11-11 09:53|[logMaintenance.py.main]** Odom: 1.4,0  Pose: 1.0,-0.1 **
+2023-11-11 09:57|[logMaintenance.py.main]** Back on dock: Odom: 0,-0.1  Pose: 0,0 Used 500MB Mem reporting 12.4v **
+2023-11-11 10:06|[logMaintenance.py.main]** Around the room and Back on dock: Odom: 0.3,-1,39deg  Pose: 0.056,0.009,2deg reported 11.3v before docking 12.4v docked **
+2023-11-11 11:51|[logMaintenance.py.main]** Off Dock Battery: 11.4v **
+2023-11-11 11:56|[logMaintenance.py.main]** Spinning 7.5W 11.2v **
+2023-11-11 12:09|[logMaintenance.py.main]** Stopped Spinning 6.5W 11.1v **
+2023-11-11 12:12|[logMaintenance.py.main]** Docked 6.5W 10.7v while driving, 12.4v once docked **
+2023-11-11 13:09|[logMaintenance.py.main]** Exited all ROS2 processes - back on dock, mem used 250MB load 0.3 **
+2023-11-11 20:56|[logMaintenance.py.main]** off dock 11.5v - start spin **
+2023-11-11 21:57|[logMaintenance.py.main]** safetyShutdown: voltage warning blinker activated  **
+2023-11-11 21:59|[logMaintenance.py.main]** SAFETY SHUTDOWN - BATTERY LOW **
+2023-11-11 21:59|[logMaintenance.py.main]** Current Battery 10.2v EasyGoPiGo3 Reading 9.32v **
+2023-11-11 22:01|[logMaintenance.py.main]** False safety shutdown, bot spun into a wall and stalled motors **
+2023-11-11 22:01|lifelogger.dEmain execution: 32.40
+2023-11-11 22:14|------------ boot ------------
+2023-11-11 22:14|Current Battery 10.8v EasyGoPiGo3 Reading 9.86v
+2023-11-12 00:35|[logMaintenance.py.main]** call_stop_scan saves 0.7W **
+2023-11-12 01:12|[logMaintenance.py.main]** Leaving ROS 2 Robot Dave running with lidar scan stopped - Mem: 525Mi load 1.5 **
+2023-11-12 07:47|[logMaintenance.py.main]** ROS 2 Robot Dave still running with lidar scan stopped - Mem: 1.0G load 1.5 **
+2023-11-13 14:45|lifelogger.dEmain execution: 40.50
+2023-11-13 14:51|[logMaintenance.py.main]** Stalled Motors During Wanderer Killed Session **
+2023-11-13 14:52|------------ boot ------------
+2023-11-13 14:52|Current Battery 12.3v EasyGoPiGo3 Reading 11.73v
+2023-11-13 15:37|lifelogger.dEmain execution: 0.75
+2023-11-13 15:40|[logMaintenance.py.main]** Stalled Motors During Wanderer Killed Session **
+2023-11-13 18:22|------------ boot ------------
+2023-11-13 18:22|Current Battery 10.6v EasyGoPiGo3 Reading 9.71v
+2023-11-14 14:53|[logMaintenance.py.main]** Running wanderer **
+2023-11-14 14:53|[logMaintenance.py.main]** safetyShutdown: voltage warning blinker activated  **
+2023-11-14 14:53|[logMaintenance.py.main]** Running wanderer 29 minutes **
+2023-11-14 14:57|[logMaintenance.py.main]** wanderer terminated at 33 minutes **
+2023-11-14 15:18|[logMaintenance.py.main]** safetyShutdown: voltage warning blinker deactivated  **
+2023-11-15 10:20|[logMaintenance.py.main]** Wanderer Test Begins **
+2023-11-15 10:57|[logMaintenance.py.main]** Wanderer stuck not commanding any action with Close on Left 0.845 or right 0.291 meters **
+2023-11-15 11:26|[logMaintenance.py.main]** safetyShutdown: voltage warning blinker activated  **
+2023-11-15 11:34|[logMaintenance.py.main]** Wanderer stopped to prevent safety shutdown **
+2023-11-15 11:42|[logMaintenance.py.main]** Wandered 268.4 meters in 1h14m **
+2023-11-15 11:54|[logMaintenance.py.main]** safetyShutdown: voltage warning blinker deactivated  **
+2023-11-15 11:54|[logMaintenance.py.main]** Added Dave's 2021 1k run and 2022 218m ROS travel to odometry.log **
+2023-11-15 11:57|[logMaintenance.py.main]** Docked at 10.3v **
+2023-11-15 12:05|lifelogger.dEmain execution: 41.70
