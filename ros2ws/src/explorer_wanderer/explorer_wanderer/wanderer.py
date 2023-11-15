@@ -25,6 +25,7 @@ from sensor_msgs.msg import LaserScan
 from geometry_msgs.msg import Twist
 from statistics import mean
 import subprocess
+import time
 
 # slowrunner: changed from 0.8 meters
 distance_from_wall = 0.350
@@ -149,7 +150,8 @@ def check_ranges(subscriber):
 
     for i in range(3):  # collect average of three readings
         rclpy.spin_once(subscriber)
-    readings = [subscriber.forward_distance, subscriber.left_forward_distance, subscriber.right_forward_distance]
+    # readings = [subscriber.forward_distance, subscriber.left_forward_distance, subscriber.right_forward_distance]
+    readings = [subscriber.forward_distance, subscriber.left_forward_distance, subscriber.left_distance, subscriber.right_forward_distance, subscriber.right_distance]
     subscriber.get_logger().info("readings: left {:2.3f}  lft_fwd {:2.3f}  fwd {:2.3f}   rt_fwd {:2.3f}   right {:2.3f}  back {:2.3f}".format( \
                  subscriber.left_distance, subscriber.left_forward_distance, subscriber.forward_distance, subscriber.right_forward_distance, \
                  subscriber.right_distance, subscriber.back_distance))
@@ -228,7 +230,8 @@ def rotate_until_clear(subscriber, publisher, command):
                  subscriber.right_distance, subscriber.back_distance))
 
     # if the robot has the wall to his left
-    if subscriber.left_forward_distance < subscriber.right_forward_distance or subscriber.left_distance < distance_from_wall: 
+    if subscriber.left_forward_distance < subscriber.right_forward_distance and (subscriber.left_forward_distance < distance_from_wall or \
+           subscriber.left_distance < distance_from_wall or subscriber.forward_distance < distance_from_wall ):  
         #while subscriber.left_forward_distance < subscriber.left_distance or subscriber.forward_distance < distance_from_wall:
         while subscriber.left_forward_distance < distance_from_wall or subscriber.left_distance < distance_from_wall \
                 or subscriber.forward_distance < distance_from_wall:
@@ -238,10 +241,11 @@ def rotate_until_clear(subscriber, publisher, command):
             publisher.get_logger().info("Rotating right...")
             # say("Rotating right")
             #subscriber.get_logger().info("*** Rotating right...")
-    else:
-        #while subscriber.right_forward_distance < subscriber.right_distance or subscriber.forward_distance < distance_from_wall:
+    else:  # wall is either exactly in front, or is on right, or on right and left!!  Catch all - turn till something opens up.
+        # while subscriber.right_forward_distance < subscriber.right_distance or subscriber.forward_distance < distance_from_wall:
         while subscriber.right_forward_distance < distance_from_wall or subscriber.right_distance < distance_from_wall \
-               or subscriber.forward_distance < distance_from_wall:
+               or subscriber.forward_distance < distance_from_wall \
+               or subscriber.left_distance < distance_from_wall or subscriber.left_forward_distance < distance_from_wall:
             rclpy.spin_once(subscriber)
             command.angular.z = 1.1 - (random()*0.3)
             publisher.publisher_.publish(command)
@@ -273,10 +277,13 @@ def main(args=None):
     publisher = Publisher()
     command = Twist()
 
-    say("I'm Humble Dave. Starting Ross 2 wanderer")
+    say("I'm Humble Dave. Starting Ross 2 wanderer",vol=200)
+    time.sleep(5)
 
     while 1:  # main loop. The robot goes forward until obstacle, and then turns until its free to advance, repeatedly.
+        say("Going forward",vol=50)
         go_forward_until_obstacle(subscriber, publisher, command)
+        say("Something too close", vol=50)
         rotate_until_clear(subscriber, publisher, command)
 
     # rclpy.spin(subscriber)
