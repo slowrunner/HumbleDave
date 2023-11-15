@@ -1,0 +1,1482 @@
+2023-11-15 10:20:51|start_point - x:  0.001 y:  0.000 z:  0.000 heading:    0
+2023-11-15 10:21:05|stop_point -  x:  1.229 y:  0.002 z:  0.000 heading:    0 - moved:  1.228 meters in 14.2s
+2023-11-15 10:21:06|start_point - x:  1.229 y:  0.002 z:  0.000 heading:    0
+2023-11-15 10:21:06|stop_point -  x:  1.229 y:  0.002 z:  0.000 heading:  -31 - moved:  0.003 meters in 0.6s
+2023-11-15 10:21:07|start_point - x:  1.229 y:  0.002 z:  0.000 heading:  -31
+2023-11-15 10:21:08|stop_point -  x:  1.229 y:  0.002 z:  0.000 heading:  -82 - moved:  0.003 meters in 1.0s
+2023-11-15 10:21:08|start_point - x:  1.229 y:  0.002 z:  0.000 heading:  -82
+2023-11-15 10:21:08|stop_point -  x:  1.229 y:  0.002 z:  0.000 heading:  -82 - moved:  0.000 meters in 0.1s
+2023-11-15 10:21:09|start_point - x:  1.229 y:  0.002 z:  0.000 heading:  -82
+2023-11-15 10:21:11|stop_point -  x:  1.250 y: -0.148 z:  0.000 heading:  -82 - moved:  0.151 meters in 2.5s
+2023-11-15 10:21:11|start_point - x:  1.250 y: -0.148 z:  0.000 heading:  -82
+2023-11-15 10:21:12|stop_point -  x:  1.250 y: -0.148 z:  0.000 heading: -128 - moved:  0.002 meters in 0.9s
+2023-11-15 10:21:13|start_point - x:  1.249 y: -0.148 z:  0.000 heading: -128
+2023-11-15 10:21:20|stop_point -  x:  0.860 y: -0.643 z:  0.000 heading: -128 - moved:  0.629 meters in 6.9s
+2023-11-15 10:21:20|start_point - x:  0.860 y: -0.643 z:  0.000 heading: -128
+2023-11-15 10:21:20|stop_point -  x:  0.850 y: -0.655 z:  0.000 heading: -128 - moved:  0.015 meters in 0.4s
+2023-11-15 10:21:21|start_point - x:  0.850 y: -0.655 z:  0.000 heading: -128
+2023-11-15 10:21:22|stop_point -  x:  0.850 y: -0.655 z:  0.000 heading:  177 - moved:  0.003 meters in 1.1s
+2023-11-15 10:21:22|start_point - x:  0.850 y: -0.655 z:  0.000 heading:  177
+2023-11-15 10:21:23|stop_point -  x:  0.851 y: -0.655 z:  0.000 heading:  128 - moved:  0.004 meters in 1.0s
+2023-11-15 10:21:24|start_point - x:  0.851 y: -0.655 z:  0.000 heading:  128
+2023-11-15 10:21:47|stop_point -  x: -0.436 y:  1.008 z:  0.000 heading:  128 - moved:  2.101 meters in 23.1s
+2023-11-15 10:21:47|start_point - x: -0.436 y:  1.008 z:  0.000 heading:  128
+2023-11-15 10:21:47|stop_point -  x: -0.438 y:  1.010 z:  0.000 heading:  128 - moved:  0.003 meters in 0.1s
+2023-11-15 10:21:48|start_point - x: -0.438 y:  1.010 z:  0.000 heading:  128
+2023-11-15 10:21:50|stop_point -  x: -0.438 y:  1.011 z:  0.000 heading: -128 - moved:  0.007 meters in 2.0s
+2023-11-15 10:21:50|start_point - x: -0.438 y:  1.011 z:  0.000 heading: -128
+2023-11-15 10:21:51|stop_point -  x: -0.501 y:  0.929 z:  0.000 heading: -128 - moved:  0.103 meters in 1.1s
+2023-11-15 10:21:52|start_point - x: -0.501 y:  0.929 z:  0.000 heading: -128
+2023-11-15 10:21:53|stop_point -  x: -0.501 y:  0.929 z:  0.000 heading:  -92 - moved:  0.003 meters in 0.8s
+2023-11-15 10:21:53|start_point - x: -0.501 y:  0.929 z:  0.000 heading:  -92
+2023-11-15 10:21:53|stop_point -  x: -0.501 y:  0.929 z:  0.000 heading:  -91 - moved:  0.000 meters in 0.1s
+2023-11-15 10:21:53|start_point - x: -0.501 y:  0.929 z:  0.000 heading:  -91
+2023-11-15 10:21:53|stop_point -  x: -0.501 y:  0.929 z:  0.000 heading:  -92 - moved:  0.000 meters in 0.1s
+2023-11-15 10:21:53|start_point - x: -0.501 y:  0.929 z:  0.000 heading:  -92
+2023-11-15 10:21:53|stop_point -  x: -0.501 y:  0.929 z:  0.000 heading:  -91 - moved:  0.000 meters in 0.1s
+2023-11-15 10:21:53|start_point - x: -0.501 y:  0.929 z:  0.000 heading:  -91
+2023-11-15 10:22:01|stop_point -  x: -0.509 y:  0.275 z:  0.000 heading:  -91 - moved:  0.654 meters in 8.0s
+2023-11-15 10:22:02|start_point - x: -0.509 y:  0.275 z:  0.000 heading:  -91
+2023-11-15 10:22:02|stop_point -  x: -0.509 y:  0.275 z:  0.000 heading:  -59 - moved:  0.003 meters in 0.7s
+2023-11-15 10:22:03|start_point - x: -0.509 y:  0.275 z:  0.000 heading:  -59
+2023-11-15 10:22:04|stop_point -  x: -0.509 y:  0.275 z:  0.000 heading:  -19 - moved:  0.001 meters in 0.8s
+2023-11-15 10:22:04|start_point - x: -0.509 y:  0.275 z:  0.000 heading:  -19
+2023-11-15 10:22:22|stop_point -  x:  1.010 y: -0.220 z:  0.000 heading:  -18 - moved:  1.598 meters in 17.6s
+2023-11-15 10:22:22|start_point - x:  1.010 y: -0.220 z:  0.000 heading:  -18
+2023-11-15 10:22:24|stop_point -  x:  1.010 y: -0.220 z:  0.000 heading:   84 - moved:  0.008 meters in 1.9s
+2023-11-15 10:22:25|start_point - x:  1.010 y: -0.220 z:  0.000 heading:   84
+2023-11-15 10:22:36|stop_point -  x:  1.100 y:  0.693 z:  0.000 heading:   84 - moved:  0.917 meters in 10.7s
+2023-11-15 10:22:36|start_point - x:  1.100 y:  0.693 z:  0.000 heading:   84
+2023-11-15 10:22:39|stop_point -  x:  1.100 y:  0.693 z:  0.000 heading: -131 - moved:  0.011 meters in 2.7s
+2023-11-15 10:22:39|start_point - x:  1.100 y:  0.693 z:  0.000 heading: -131
+2023-11-15 10:22:58|stop_point -  x: -0.064 y: -0.638 z:  0.000 heading: -131 - moved:  1.767 meters in 19.0s
+2023-11-15 10:22:59|start_point - x: -0.064 y: -0.638 z:  0.000 heading: -131
+2023-11-15 10:23:01|stop_point -  x: -0.064 y: -0.639 z:  0.000 heading:   96 - moved:  0.009 meters in 2.5s
+2023-11-15 10:23:02|start_point - x: -0.064 y: -0.638 z:  0.000 heading:   96
+2023-11-15 10:23:15|stop_point -  x: -0.177 y:  0.567 z:  0.000 heading:   95 - moved:  1.210 meters in 13.4s
+2023-11-15 10:23:16|start_point - x: -0.177 y:  0.567 z:  0.000 heading:   95
+2023-11-15 10:23:18|stop_point -  x: -0.177 y:  0.567 z:  0.000 heading:  -34 - moved:  0.009 meters in 2.5s
+2023-11-15 10:23:19|start_point - x: -0.177 y:  0.567 z:  0.000 heading:  -34
+2023-11-15 10:23:34|stop_point -  x:  1.004 y: -0.236 z:  0.000 heading:  -34 - moved:  1.428 meters in 15.6s
+2023-11-15 10:23:35|start_point - x:  1.004 y: -0.236 z:  0.000 heading:  -34
+2023-11-15 10:23:37|stop_point -  x:  1.004 y: -0.236 z:  0.000 heading: -154 - moved:  0.008 meters in 2.3s
+2023-11-15 10:23:38|start_point - x:  1.003 y: -0.236 z:  0.000 heading: -154
+2023-11-15 10:23:50|stop_point -  x:  0.043 y: -0.702 z:  0.000 heading: -154 - moved:  1.068 meters in 12.8s
+2023-11-15 10:23:51|start_point - x:  0.043 y: -0.702 z:  0.000 heading: -154
+2023-11-15 10:23:51|stop_point -  x:  0.043 y: -0.702 z:  0.000 heading:  178 - moved:  0.001 meters in 0.6s
+2023-11-15 10:23:52|start_point - x:  0.043 y: -0.702 z:  0.000 heading:  178
+2023-11-15 10:23:53|stop_point -  x:  0.043 y: -0.702 z:  0.000 heading:  131 - moved:  0.002 meters in 0.9s
+2023-11-15 10:23:54|start_point - x:  0.043 y: -0.702 z:  0.000 heading:  131
+2023-11-15 10:24:06|stop_point -  x: -0.659 y:  0.111 z:  0.000 heading:  131 - moved:  1.073 meters in 12.1s
+2023-11-15 10:24:06|start_point - x: -0.659 y:  0.111 z:  0.000 heading:  131
+2023-11-15 10:24:09|stop_point -  x: -0.659 y:  0.111 z:  0.000 heading:  -85 - moved:  0.012 meters in 2.7s
+2023-11-15 10:24:09|start_point - x: -0.659 y:  0.111 z:  0.000 heading:  -85
+2023-11-15 10:24:22|stop_point -  x: -0.567 y: -0.938 z:  0.000 heading:  -85 - moved:  1.053 meters in 12.8s
+2023-11-15 10:24:23|start_point - x: -0.567 y: -0.938 z:  0.000 heading:  -85
+2023-11-15 10:24:24|stop_point -  x: -0.567 y: -0.938 z:  0.000 heading: -134 - moved:  0.004 meters in 1.0s
+2023-11-15 10:24:24|start_point - x: -0.567 y: -0.938 z:  0.000 heading: -134
+2023-11-15 10:24:27|stop_point -  x: -0.707 y: -1.078 z:  0.000 heading: -135 - moved:  0.198 meters in 3.1s
+2023-11-15 10:24:28|start_point - x: -0.707 y: -1.078 z:  0.000 heading: -135
+2023-11-15 10:24:30|stop_point -  x: -0.707 y: -1.078 z:  0.000 heading:    5 - moved:  0.011 meters in 2.7s
+2023-11-15 10:24:31|start_point - x: -0.707 y: -1.078 z:  0.000 heading:    5
+2023-11-15 10:24:34|stop_point -  x: -0.559 y: -1.064 z:  0.000 heading:    5 - moved:  0.149 meters in 2.5s
+2023-11-15 10:24:34|start_point - x: -0.559 y: -1.064 z:  0.000 heading:    5
+2023-11-15 10:24:35|stop_point -  x: -0.559 y: -1.065 z:  0.000 heading:   44 - moved:  0.002 meters in 0.8s
+2023-11-15 10:24:35|start_point - x: -0.559 y: -1.065 z:  0.000 heading:   44
+2023-11-15 10:24:37|stop_point -  x: -0.558 y: -1.064 z:  0.000 heading:  145 - moved:  0.006 meters in 1.9s
+2023-11-15 10:24:38|start_point - x: -0.558 y: -1.064 z:  0.000 heading:  145
+2023-11-15 10:24:44|stop_point -  x: -0.869 y: -0.848 z:  0.000 heading:  145 - moved:  0.377 meters in 5.8s
+2023-11-15 10:24:44|start_point - x: -0.869 y: -0.848 z:  0.000 heading:  145
+2023-11-15 10:24:44|stop_point -  x: -0.872 y: -0.846 z:  0.000 heading:  145 - moved:  0.003 meters in 0.1s
+2023-11-15 10:24:44|start_point - x: -0.872 y: -0.846 z:  0.000 heading:  145
+2023-11-15 10:24:46|stop_point -  x: -0.872 y: -0.846 z:  0.000 heading:   29 - moved:  0.008 meters in 2.3s
+2023-11-15 10:24:47|start_point - x: -0.872 y: -0.846 z:  0.000 heading:   29
+2023-11-15 10:24:55|stop_point -  x: -0.349 y: -0.556 z:  0.000 heading:   29 - moved:  0.598 meters in 8.0s
+2023-11-15 10:24:55|start_point - x: -0.349 y: -0.556 z:  0.000 heading:   29
+2023-11-15 10:24:56|stop_point -  x: -0.350 y: -0.556 z:  0.000 heading:   65 - moved:  0.003 meters in 0.8s
+2023-11-15 10:24:57|start_point - x: -0.350 y: -0.556 z:  0.000 heading:   65
+2023-11-15 10:25:21|stop_point -  x:  0.544 y:  1.486 z:  0.000 heading:   66 - moved:  2.229 meters in 24.4s
+2023-11-15 10:25:22|start_point - x:  0.544 y:  1.486 z:  0.000 heading:   66
+2023-11-15 10:25:23|stop_point -  x:  0.544 y:  1.486 z:  0.000 heading:  154 - moved:  0.006 meters in 1.7s
+2023-11-15 10:25:24|start_point - x:  0.544 y:  1.486 z:  0.000 heading:  154
+2023-11-15 10:25:25|stop_point -  x:  0.497 y:  1.508 z:  0.000 heading:  155 - moved:  0.052 meters in 1.1s
+2023-11-15 10:25:25|start_point - x:  0.497 y:  1.508 z:  0.000 heading:  155
+2023-11-15 10:25:26|stop_point -  x:  0.497 y:  1.508 z:  0.000 heading: -163 - moved:  0.003 meters in 0.9s
+2023-11-15 10:25:27|start_point - x:  0.497 y:  1.508 z:  0.000 heading: -163
+2023-11-15 10:25:28|stop_point -  x:  0.497 y:  1.508 z:  0.000 heading: -111 - moved:  0.004 meters in 1.0s
+2023-11-15 10:25:29|start_point - x:  0.497 y:  1.508 z:  0.000 heading: -111
+2023-11-15 10:25:54|stop_point -  x: -0.322 y: -0.744 z:  0.000 heading: -110 - moved:  2.397 meters in 25.1s
+2023-11-15 10:25:54|start_point - x: -0.322 y: -0.744 z:  0.000 heading: -110
+2023-11-15 10:25:55|stop_point -  x: -0.322 y: -0.745 z:  0.000 heading:  -85 - moved:  0.001 meters in 0.5s
+2023-11-15 10:25:55|start_point - x: -0.322 y: -0.745 z:  0.000 heading:  -85
+2023-11-15 10:25:56|stop_point -  x: -0.315 y: -0.828 z:  0.000 heading:  -85 - moved:  0.083 meters in 1.1s
+2023-11-15 10:25:57|start_point - x: -0.315 y: -0.828 z:  0.000 heading:  -85
+2023-11-15 10:25:58|stop_point -  x: -0.315 y: -0.828 z:  0.000 heading:  -30 - moved:  0.003 meters in 1.1s
+2023-11-15 10:25:59|start_point - x: -0.315 y: -0.828 z:  0.000 heading:  -30
+2023-11-15 10:26:00|stop_point -  x: -0.315 y: -0.828 z:  0.000 heading:   19 - moved:  0.005 meters in 1.0s
+2023-11-15 10:26:00|start_point - x: -0.315 y: -0.828 z:  0.000 heading:   19
+2023-11-15 10:26:06|stop_point -  x:  0.204 y: -0.647 z:  0.000 heading:   19 - moved:  0.549 meters in 5.9s
+2023-11-15 10:26:07|start_point - x:  0.204 y: -0.647 z:  0.000 heading:   19
+2023-11-15 10:26:07|stop_point -  x:  0.204 y: -0.647 z:  0.000 heading:   55 - moved:  0.002 meters in 0.8s
+2023-11-15 10:26:08|start_point - x:  0.204 y: -0.647 z:  0.000 heading:   55
+2023-11-15 10:26:09|stop_point -  x:  0.249 y: -0.582 z:  0.000 heading:   56 - moved:  0.078 meters in 1.1s
+2023-11-15 10:26:09|start_point - x:  0.249 y: -0.582 z:  0.000 heading:   56
+2023-11-15 10:26:10|stop_point -  x:  0.249 y: -0.582 z:  0.000 heading:   94 - moved:  0.003 meters in 0.7s
+2023-11-15 10:26:11|start_point - x:  0.249 y: -0.582 z:  0.000 heading:   94
+2023-11-15 10:26:30|stop_point -  x:  0.126 y:  1.106 z:  0.000 heading:   94 - moved:  1.693 meters in 18.9s
+2023-11-15 10:26:30|start_point - x:  0.126 y:  1.106 z:  0.000 heading:   94
+2023-11-15 10:26:32|stop_point -  x:  0.126 y:  1.107 z:  0.000 heading: -167 - moved:  0.005 meters in 1.9s
+2023-11-15 10:26:33|start_point - x:  0.126 y:  1.107 z:  0.000 heading: -167
+2023-11-15 10:26:43|stop_point -  x: -0.683 y:  0.914 z:  0.000 heading: -167 - moved:  0.831 meters in 10.0s
+2023-11-15 10:26:43|start_point - x: -0.683 y:  0.914 z:  0.000 heading: -167
+2023-11-15 10:26:43|stop_point -  x: -0.683 y:  0.914 z:  0.000 heading: -142 - moved:  0.001 meters in 0.5s
+2023-11-15 10:26:44|start_point - x: -0.683 y:  0.914 z:  0.000 heading: -142
+2023-11-15 10:26:45|stop_point -  x: -0.697 y:  0.902 z:  0.000 heading: -142 - moved:  0.018 meters in 0.4s
+2023-11-15 10:26:45|start_point - x: -0.697 y:  0.902 z:  0.000 heading: -142
+2023-11-15 10:26:47|stop_point -  x: -0.697 y:  0.902 z:  0.000 heading:  -26 - moved:  0.007 meters in 2.1s
+2023-11-15 10:26:48|start_point - x: -0.697 y:  0.902 z:  0.000 heading:  -26
+2023-11-15 10:26:53|stop_point -  x: -0.222 y:  0.677 z:  0.000 heading:  -25 - moved:  0.525 meters in 5.3s
+2023-11-15 10:26:53|start_point - x: -0.222 y:  0.677 z:  0.000 heading:  -25
+2023-11-15 10:27:07|stop_point -  x:  0.901 y:  0.145 z:  0.000 heading:  -26 - moved:  1.243 meters in 13.6s
+2023-11-15 10:27:07|start_point - x:  0.901 y:  0.145 z:  0.000 heading:  -26
+2023-11-15 10:27:10|stop_point -  x:  0.901 y:  0.145 z:  0.000 heading: -168 - moved:  0.011 meters in 2.7s
+2023-11-15 10:27:10|start_point - x:  0.901 y:  0.145 z:  0.000 heading: -168
+2023-11-15 10:27:24|stop_point -  x: -0.279 y: -0.081 z:  0.000 heading: -169 - moved:  1.201 meters in 13.4s
+2023-11-15 10:27:24|start_point - x: -0.279 y: -0.081 z:  0.000 heading: -169
+2023-11-15 10:27:27|stop_point -  x: -0.279 y: -0.081 z:  0.000 heading:   54 - moved:  0.008 meters in 2.6s
+2023-11-15 10:27:27|start_point - x: -0.279 y: -0.081 z:  0.000 heading:   54
+2023-11-15 10:27:44|stop_point -  x:  0.624 y:  1.145 z:  0.000 heading:   54 - moved:  1.522 meters in 16.5s
+2023-11-15 10:27:44|start_point - x:  0.624 y:  1.145 z:  0.000 heading:   54
+2023-11-15 10:27:44|stop_point -  x:  0.628 y:  1.149 z:  0.000 heading:   54 - moved:  0.005 meters in 0.1s
+2023-11-15 10:27:44|start_point - x:  0.628 y:  1.149 z:  0.000 heading:   54
+2023-11-15 10:27:44|stop_point -  x:  0.633 y:  1.157 z:  0.000 heading:   54 - moved:  0.008 meters in 0.2s
+2023-11-15 10:27:45|start_point - x:  0.633 y:  1.157 z:  0.000 heading:   54
+2023-11-15 10:27:47|stop_point -  x:  0.633 y:  1.157 z:  0.000 heading:  -56 - moved:  0.008 meters in 2.2s
+2023-11-15 10:27:47|start_point - x:  0.633 y:  1.157 z:  0.000 heading:  -56
+2023-11-15 10:27:56|stop_point -  x:  1.025 y:  0.558 z:  0.000 heading:  -57 - moved:  0.714 meters in 9.0s
+2023-11-15 10:27:56|start_point - x:  1.025 y:  0.558 z:  0.000 heading:  -57
+2023-11-15 10:27:56|stop_point -  x:  1.028 y:  0.553 z:  0.000 heading:  -57 - moved:  0.005 meters in 0.1s
+2023-11-15 10:27:56|start_point - x:  1.028 y:  0.553 z:  0.000 heading:  -57
+2023-11-15 10:27:57|stop_point -  x:  1.031 y:  0.548 z:  0.000 heading:  -57 - moved:  0.005 meters in 0.1s
+2023-11-15 10:27:57|start_point - x:  1.031 y:  0.548 z:  0.000 heading:  -57
+2023-11-15 10:27:57|stop_point -  x:  1.031 y:  0.547 z:  0.000 heading:  -57 - moved:  0.000 meters in 0.1s
+2023-11-15 10:27:57|start_point - x:  1.031 y:  0.547 z:  0.000 heading:  -57
+2023-11-15 10:27:59|stop_point -  x:  1.031 y:  0.547 z:  0.000 heading: -160 - moved:  0.006 meters in 1.9s
+2023-11-15 10:28:00|start_point - x:  1.031 y:  0.547 z:  0.000 heading: -160
+2023-11-15 10:28:15|stop_point -  x: -0.290 y:  0.074 z:  0.000 heading: -161 - moved:  1.403 meters in 15.5s
+2023-11-15 10:28:15|start_point - x: -0.290 y:  0.074 z:  0.000 heading: -161
+2023-11-15 10:28:18|stop_point -  x: -0.290 y:  0.075 z:  0.000 heading:   60 - moved:  0.007 meters in 2.6s
+2023-11-15 10:28:19|start_point - x: -0.290 y:  0.075 z:  0.000 heading:   60
+2023-11-15 10:28:33|stop_point -  x:  0.383 y:  1.238 z:  0.000 heading:   60 - moved:  1.343 meters in 14.7s
+2023-11-15 10:28:34|start_point - x:  0.383 y:  1.238 z:  0.000 heading:   60
+2023-11-15 10:28:36|stop_point -  x:  0.383 y:  1.238 z:  0.000 heading:  -61 - moved:  0.006 meters in 2.2s
+2023-11-15 10:28:37|start_point - x:  0.383 y:  1.238 z:  0.000 heading:  -61
+2023-11-15 10:28:51|stop_point -  x:  0.975 y:  0.142 z:  0.000 heading:  -62 - moved:  1.245 meters in 14.7s
+2023-11-15 10:28:51|start_point - x:  0.975 y:  0.142 z:  0.000 heading:  -62
+2023-11-15 10:28:51|stop_point -  x:  0.975 y:  0.143 z:  0.000 heading:  -62 - moved:  0.000 meters in 0.1s
+2023-11-15 10:28:52|start_point - x:  0.975 y:  0.143 z:  0.000 heading:  -62
+2023-11-15 10:28:53|stop_point -  x:  0.975 y:  0.143 z:  0.000 heading: -149 - moved:  0.008 meters in 1.7s
+2023-11-15 10:28:54|start_point - x:  0.975 y:  0.143 z:  0.000 heading: -149
+2023-11-15 10:29:05|stop_point -  x:  0.125 y: -0.367 z:  0.000 heading: -149 - moved:  0.990 meters in 11.3s
+2023-11-15 10:29:05|start_point - x:  0.125 y: -0.367 z:  0.000 heading: -149
+2023-11-15 10:29:05|stop_point -  x:  0.125 y: -0.367 z:  0.000 heading: -149 - moved:  0.001 meters in 0.1s
+2023-11-15 10:29:06|start_point - x:  0.125 y: -0.367 z:  0.000 heading: -149
+2023-11-15 10:29:08|stop_point -  x:  0.125 y: -0.367 z:  0.000 heading:   76 - moved:  0.010 meters in 2.6s
+2023-11-15 10:29:09|start_point - x:  0.125 y: -0.367 z:  0.000 heading:   76
+2023-11-15 10:29:29|stop_point -  x:  0.580 y:  1.391 z:  0.000 heading:   75 - moved:  1.816 meters in 20.3s
+2023-11-15 10:29:30|start_point - x:  0.580 y:  1.391 z:  0.000 heading:   75
+2023-11-15 10:29:32|stop_point -  x:  0.581 y:  1.391 z:  0.000 heading:  -40 - moved:  0.007 meters in 2.3s
+2023-11-15 10:29:32|start_point - x:  0.581 y:  1.391 z:  0.000 heading:  -40
+2023-11-15 10:29:32|stop_point -  x:  0.581 y:  1.390 z:  0.000 heading:  -40 - moved:  0.000 meters in 0.1s
+2023-11-15 10:29:32|start_point - x:  0.581 y:  1.390 z:  0.000 heading:  -40
+2023-11-15 10:29:37|stop_point -  x:  0.812 y:  1.190 z:  0.000 heading:  -41 - moved:  0.305 meters in 4.9s
+2023-11-15 10:29:37|start_point - x:  0.812 y:  1.190 z:  0.000 heading:  -41
+2023-11-15 10:29:38|stop_point -  x:  0.822 y:  1.182 z:  0.000 heading:  -41 - moved:  0.012 meters in 0.3s
+2023-11-15 10:29:38|start_point - x:  0.822 y:  1.182 z:  0.000 heading:  -41
+2023-11-15 10:29:38|stop_point -  x:  0.822 y:  1.182 z:  0.000 heading:  -41 - moved:  0.000 meters in 0.1s
+2023-11-15 10:29:38|start_point - x:  0.822 y:  1.182 z:  0.000 heading:  -41
+2023-11-15 10:29:40|stop_point -  x:  0.822 y:  1.182 z:  0.000 heading: -137 - moved:  0.007 meters in 1.8s
+2023-11-15 10:29:40|start_point - x:  0.822 y:  1.182 z:  0.000 heading: -137
+2023-11-15 10:29:56|stop_point -  x: -0.294 y:  0.138 z:  0.000 heading: -137 - moved:  1.527 meters in 15.8s
+2023-11-15 10:29:56|start_point - x: -0.294 y:  0.138 z:  0.000 heading: -137
+2023-11-15 10:29:58|stop_point -  x: -0.364 y:  0.072 z:  0.000 heading: -137 - moved:  0.095 meters in 1.7s
+2023-11-15 10:29:58|start_point - x: -0.364 y:  0.072 z:  0.000 heading: -137
+2023-11-15 10:30:01|stop_point -  x: -0.364 y:  0.072 z:  0.000 heading:   81 - moved:  0.008 meters in 2.7s
+2023-11-15 10:30:02|start_point - x: -0.364 y:  0.072 z:  0.000 heading:   81
+2023-11-15 10:30:16|stop_point -  x: -0.159 y:  1.343 z:  0.000 heading:   81 - moved:  1.287 meters in 14.1s
+2023-11-15 10:30:16|start_point - x: -0.159 y:  1.343 z:  0.000 heading:   81
+2023-11-15 10:30:18|stop_point -  x: -0.159 y:  1.343 z:  0.000 heading:  -36 - moved:  0.007 meters in 2.2s
+2023-11-15 10:30:19|start_point - x: -0.159 y:  1.343 z:  0.000 heading:  -36
+2023-11-15 10:30:34|stop_point -  x:  0.872 y:  0.568 z:  0.000 heading:  -37 - moved:  1.288 meters in 15.2s
+2023-11-15 10:30:34|start_point - x:  0.872 y:  0.568 z:  0.000 heading:  -37
+2023-11-15 10:30:34|stop_point -  x:  0.880 y:  0.562 z:  0.000 heading:  -37 - moved:  0.009 meters in 0.2s
+2023-11-15 10:30:34|start_point - x:  0.880 y:  0.562 z:  0.000 heading:  -37
+2023-11-15 10:30:34|stop_point -  x:  0.880 y:  0.562 z:  0.000 heading:  -37 - moved:  0.000 meters in 0.1s
+2023-11-15 10:30:35|start_point - x:  0.880 y:  0.562 z:  0.000 heading:  -37
+2023-11-15 10:30:36|stop_point -  x:  0.880 y:  0.562 z:  0.000 heading: -123 - moved:  0.005 meters in 1.7s
+2023-11-15 10:30:37|start_point - x:  0.880 y:  0.562 z:  0.000 heading: -123
+2023-11-15 10:30:48|stop_point -  x:  0.358 y: -0.213 z:  0.000 heading: -124 - moved:  0.934 meters in 10.6s
+2023-11-15 10:30:48|start_point - x:  0.358 y: -0.213 z:  0.000 heading: -124
+2023-11-15 10:30:50|stop_point -  x:  0.358 y: -0.212 z:  0.000 heading:  110 - moved:  0.010 meters in 2.5s
+2023-11-15 10:30:51|start_point - x:  0.358 y: -0.212 z:  0.000 heading:  110
+2023-11-15 10:31:09|stop_point -  x: -0.167 y:  1.305 z:  0.000 heading:  109 - moved:  1.605 meters in 17.5s
+2023-11-15 10:31:09|start_point - x: -0.167 y:  1.305 z:  0.000 heading:  109
+2023-11-15 10:31:11|stop_point -  x: -0.167 y:  1.305 z:  0.000 heading:  -11 - moved:  0.007 meters in 2.2s
+2023-11-15 10:31:12|start_point - x: -0.167 y:  1.305 z:  0.000 heading:  -11
+2023-11-15 10:31:20|stop_point -  x:  0.539 y:  1.167 z:  0.000 heading:  -11 - moved:  0.718 meters in 8.6s
+2023-11-15 10:31:20|start_point - x:  0.539 y:  1.167 z:  0.000 heading:  -11
+2023-11-15 10:31:20|stop_point -  x:  0.538 y:  1.167 z:  0.000 heading:  -11 - moved:  0.000 meters in 0.1s
+2023-11-15 10:31:21|start_point - x:  0.538 y:  1.167 z:  0.000 heading:  -11
+2023-11-15 10:31:21|stop_point -  x:  0.538 y:  1.167 z:  0.000 heading:  -30 - moved:  0.001 meters in 0.4s
+2023-11-15 10:31:22|start_point - x:  0.538 y:  1.167 z:  0.000 heading:  -30
+2023-11-15 10:31:24|stop_point -  x:  0.650 y:  1.101 z:  0.000 heading:  -31 - moved:  0.129 meters in 2.5s
+2023-11-15 10:31:24|start_point - x:  0.650 y:  1.101 z:  0.000 heading:  -31
+2023-11-15 10:31:24|stop_point -  x:  0.650 y:  1.101 z:  0.000 heading:  -31 - moved:  0.001 meters in 0.1s
+2023-11-15 10:31:25|start_point - x:  0.650 y:  1.101 z:  0.000 heading:  -31
+2023-11-15 10:31:26|stop_point -  x:  0.650 y:  1.101 z:  0.000 heading: -102 - moved:  0.005 meters in 1.4s
+2023-11-15 10:31:27|start_point - x:  0.650 y:  1.101 z:  0.000 heading: -102
+2023-11-15 10:31:41|stop_point -  x:  0.370 y: -0.131 z:  0.000 heading: -103 - moved:  1.264 meters in 14.1s
+2023-11-15 10:31:41|start_point - x:  0.370 y: -0.131 z:  0.000 heading: -103
+2023-11-15 10:31:44|stop_point -  x:  0.370 y: -0.131 z:  0.000 heading:  122 - moved:  0.007 meters in 2.6s
+2023-11-15 10:31:44|start_point - x:  0.370 y: -0.131 z:  0.000 heading:  122
+2023-11-15 10:32:00|stop_point -  x: -0.403 y:  1.127 z:  0.000 heading:  121 - moved:  1.476 meters in 16.1s
+2023-11-15 10:32:01|start_point - x: -0.403 y:  1.127 z:  0.000 heading:  121
+2023-11-15 10:32:03|stop_point -  x: -0.402 y:  1.127 z:  0.000 heading:   -3 - moved:  0.010 meters in 2.4s
+2023-11-15 10:32:04|start_point - x: -0.402 y:  1.127 z:  0.000 heading:   -3
+2023-11-15 10:32:18|stop_point -  x:  0.764 y:  1.060 z:  0.000 heading:   -3 - moved:  1.168 meters in 14.0s
+2023-11-15 10:32:18|start_point - x:  0.764 y:  1.060 z:  0.000 heading:   -3
+2023-11-15 10:32:19|stop_point -  x:  0.765 y:  1.060 z:  0.000 heading:  -23 - moved:  0.003 meters in 0.5s
+2023-11-15 10:32:19|start_point - x:  0.765 y:  1.060 z:  0.000 heading:  -23
+2023-11-15 10:32:21|stop_point -  x:  0.764 y:  1.060 z:  0.000 heading:  -89 - moved:  0.005 meters in 1.3s
+2023-11-15 10:32:21|start_point - x:  0.764 y:  1.060 z:  0.000 heading:  -89
+2023-11-15 10:32:33|stop_point -  x:  0.769 y:  0.050 z:  0.000 heading:  -90 - moved:  1.010 meters in 11.3s
+2023-11-15 10:32:33|start_point - x:  0.769 y:  0.050 z:  0.000 heading:  -90
+2023-11-15 10:32:35|stop_point -  x:  0.769 y:  0.051 z:  0.000 heading:  143 - moved:  0.009 meters in 2.5s
+2023-11-15 10:32:36|start_point - x:  0.769 y:  0.051 z:  0.000 heading:  143
+2023-11-15 10:32:53|stop_point -  x: -0.465 y:  0.979 z:  0.000 heading:  143 - moved:  1.545 meters in 16.8s
+2023-11-15 10:32:53|start_point - x: -0.465 y:  0.979 z:  0.000 heading:  143
+2023-11-15 10:32:56|stop_point -  x: -0.465 y:  0.979 z:  0.000 heading:   25 - moved:  0.009 meters in 2.4s
+2023-11-15 10:32:56|start_point - x: -0.465 y:  0.979 z:  0.000 heading:   25
+2023-11-15 10:33:06|stop_point -  x:  0.238 y:  1.296 z:  0.000 heading:   25 - moved:  0.771 meters in 9.3s
+2023-11-15 10:33:06|start_point - x:  0.238 y:  1.296 z:  0.000 heading:   25
+2023-11-15 10:33:06|stop_point -  x:  0.237 y:  1.296 z:  0.000 heading:    7 - moved:  0.001 meters in 0.4s
+2023-11-15 10:33:07|start_point - x:  0.237 y:  1.296 z:  0.000 heading:    7
+2023-11-15 10:33:09|stop_point -  x:  0.329 y:  1.307 z:  0.000 heading:    7 - moved:  0.092 meters in 1.8s
+2023-11-15 10:33:09|start_point - x:  0.329 y:  1.307 z:  0.000 heading:    7
+2023-11-15 10:33:11|stop_point -  x:  0.329 y:  1.307 z:  0.000 heading:  -74 - moved:  0.006 meters in 1.6s
+2023-11-15 10:33:11|start_point - x:  0.329 y:  1.307 z:  0.000 heading:  -74
+2023-11-15 10:33:25|stop_point -  x:  0.677 y:  0.083 z:  0.000 heading:  -74 - moved:  1.272 meters in 14.0s
+2023-11-15 10:33:26|start_point - x:  0.677 y:  0.083 z:  0.000 heading:  -74
+2023-11-15 10:33:29|stop_point -  x:  0.677 y:  0.083 z:  0.000 heading:  117 - moved:  0.009 meters in 3.1s
+2023-11-15 10:33:29|start_point - x:  0.677 y:  0.083 z:  0.000 heading:  117
+2023-11-15 10:33:49|stop_point -  x: -0.065 y:  1.628 z:  0.000 heading:  116 - moved:  1.713 meters in 19.5s
+2023-11-15 10:33:49|start_point - x: -0.065 y:  1.628 z:  0.000 heading:  116
+2023-11-15 10:33:51|stop_point -  x: -0.065 y:  1.628 z:  0.000 heading: -158 - moved:  0.007 meters in 1.6s
+2023-11-15 10:33:52|start_point - x: -0.065 y:  1.628 z:  0.000 heading: -158
+2023-11-15 10:33:56|stop_point -  x: -0.319 y:  1.520 z:  0.000 heading: -157 - moved:  0.275 meters in 4.5s
+2023-11-15 10:33:56|start_point - x: -0.319 y:  1.520 z:  0.000 heading: -157
+2023-11-15 10:33:56|stop_point -  x: -0.319 y:  1.520 z:  0.000 heading: -157 - moved:  0.000 meters in 0.1s
+2023-11-15 10:33:56|start_point - x: -0.319 y:  1.520 z:  0.000 heading: -157
+2023-11-15 10:33:58|stop_point -  x: -0.319 y:  1.520 z:  0.000 heading:  -64 - moved:  0.005 meters in 1.8s
+2023-11-15 10:33:59|start_point - x: -0.319 y:  1.520 z:  0.000 heading:  -64
+2023-11-15 10:34:00|stop_point -  x: -0.273 y:  1.428 z:  0.000 heading:  -63 - moved:  0.102 meters in 1.1s
+2023-11-15 10:34:00|start_point - x: -0.273 y:  1.428 z:  0.000 heading:  -63
+2023-11-15 10:34:01|stop_point -  x: -0.273 y:  1.428 z:  0.000 heading:  -46 - moved:  0.001 meters in 0.4s
+2023-11-15 10:34:01|start_point - x: -0.273 y:  1.428 z:  0.000 heading:  -46
+2023-11-15 10:34:17|stop_point -  x:  0.806 y:  0.345 z:  0.000 heading:  -45 - moved:  1.528 meters in 16.0s
+2023-11-15 10:34:17|start_point - x:  0.806 y:  0.345 z:  0.000 heading:  -45
+2023-11-15 10:34:19|stop_point -  x:  0.857 y:  0.295 z:  0.000 heading:  -45 - moved:  0.072 meters in 1.4s
+2023-11-15 10:34:19|start_point - x:  0.857 y:  0.295 z:  0.000 heading:  -45
+2023-11-15 10:34:22|stop_point -  x:  0.857 y:  0.294 z:  0.000 heading:   92 - moved:  0.011 meters in 2.6s
+2023-11-15 10:34:22|start_point - x:  0.857 y:  0.294 z:  0.000 heading:   92
+2023-11-15 10:34:36|stop_point -  x:  0.812 y:  1.519 z:  0.000 heading:   92 - moved:  1.225 meters in 14.0s
+2023-11-15 10:34:37|start_point - x:  0.812 y:  1.519 z:  0.000 heading:   92
+2023-11-15 10:34:40|stop_point -  x:  0.812 y:  1.519 z:  0.000 heading:  -60 - moved:  0.009 meters in 2.8s
+2023-11-15 10:34:40|start_point - x:  0.812 y:  1.519 z:  0.000 heading:  -60
+2023-11-15 10:34:51|stop_point -  x:  1.253 y:  0.739 z:  0.000 heading:  -61 - moved:  0.896 meters in 10.6s
+2023-11-15 10:34:51|start_point - x:  1.253 y:  0.739 z:  0.000 heading:  -61
+2023-11-15 10:34:54|stop_point -  x:  1.253 y:  0.739 z:  0.000 heading:  152 - moved:  0.011 meters in 2.8s
+2023-11-15 10:34:55|start_point - x:  1.253 y:  0.739 z:  0.000 heading:  152
+2023-11-15 10:35:16|stop_point -  x: -0.474 y:  1.716 z:  0.000 heading:  150 - moved:  1.984 meters in 21.5s
+2023-11-15 10:35:17|start_point - x: -0.474 y:  1.716 z:  0.000 heading:  150
+2023-11-15 10:35:19|stop_point -  x: -0.474 y:  1.715 z:  0.000 heading:   20 - moved:  0.007 meters in 2.4s
+2023-11-15 10:35:20|start_point - x: -0.474 y:  1.715 z:  0.000 heading:   20
+2023-11-15 10:35:23|stop_point -  x: -0.263 y:  1.790 z:  0.000 heading:   19 - moved:  0.224 meters in 3.8s
+2023-11-15 10:35:24|start_point - x: -0.263 y:  1.790 z:  0.000 heading:   19
+2023-11-15 10:35:24|stop_point -  x: -0.263 y:  1.790 z:  0.000 heading:  -14 - moved:  0.003 meters in 0.7s
+2023-11-15 10:35:24|start_point - x: -0.263 y:  1.790 z:  0.000 heading:  -14
+2023-11-15 10:35:25|stop_point -  x: -0.263 y:  1.790 z:  0.000 heading:  -15 - moved:  0.000 meters in 0.1s
+2023-11-15 10:35:25|start_point - x: -0.263 y:  1.790 z:  0.000 heading:  -15
+2023-11-15 10:35:25|stop_point -  x: -0.263 y:  1.790 z:  0.000 heading:  -15 - moved:  0.000 meters in 0.1s
+2023-11-15 10:35:25|start_point - x: -0.263 y:  1.790 z:  0.000 heading:  -15
+2023-11-15 10:35:26|stop_point -  x: -0.263 y:  1.790 z:  0.000 heading:  -73 - moved:  0.003 meters in 1.1s
+2023-11-15 10:35:27|start_point - x: -0.263 y:  1.790 z:  0.000 heading:  -73
+2023-11-15 10:35:45|stop_point -  x:  0.214 y:  0.192 z:  0.000 heading:  -73 - moved:  1.668 meters in 18.1s
+2023-11-15 10:35:45|start_point - x:  0.214 y:  0.192 z:  0.000 heading:  -73
+2023-11-15 10:35:48|stop_point -  x:  0.214 y:  0.192 z:  0.000 heading:  149 - moved:  0.010 meters in 2.7s
+2023-11-15 10:35:49|start_point - x:  0.214 y:  0.192 z:  0.000 heading:  149
+2023-11-15 10:36:01|stop_point -  x: -0.761 y:  0.799 z:  0.000 heading:  148 - moved:  1.148 meters in 12.6s
+2023-11-15 10:36:02|start_point - x: -0.761 y:  0.799 z:  0.000 heading:  148
+2023-11-15 10:36:04|stop_point -  x: -0.761 y:  0.799 z:  0.000 heading:   24 - moved:  0.007 meters in 2.3s
+2023-11-15 10:36:05|start_point - x: -0.761 y:  0.799 z:  0.000 heading:   24
+2023-11-15 10:36:24|stop_point -  x:  0.840 y:  1.489 z:  0.000 heading:   23 - moved:  1.743 meters in 19.5s
+2023-11-15 10:36:25|start_point - x:  0.840 y:  1.489 z:  0.000 heading:   23
+2023-11-15 10:36:25|stop_point -  x:  0.839 y:  1.489 z:  0.000 heading:    0 - moved:  0.003 meters in 0.5s
+2023-11-15 10:36:26|start_point - x:  0.840 y:  1.489 z:  0.000 heading:    0
+2023-11-15 10:36:31|stop_point -  x:  1.244 y:  1.486 z:  0.000 heading:   -1 - moved:  0.403 meters in 5.2s
+2023-11-15 10:36:31|start_point - x:  1.244 y:  1.486 z:  0.000 heading:   -1
+2023-11-15 10:36:33|stop_point -  x:  1.244 y:  1.486 z:  0.000 heading:  121 - moved:  0.010 meters in 2.2s
+2023-11-15 10:36:34|start_point - x:  1.244 y:  1.486 z:  0.000 heading:  121
+2023-11-15 10:36:34|stop_point -  x:  1.244 y:  1.487 z:  0.000 heading:  121 - moved:  0.000 meters in 0.1s
+2023-11-15 10:36:34|start_point - x:  1.244 y:  1.487 z:  0.000 heading:  121
+2023-11-15 10:36:34|stop_point -  x:  1.244 y:  1.486 z:  0.000 heading:  121 - moved:  0.000 meters in 0.1s
+2023-11-15 10:36:34|start_point - x:  1.244 y:  1.486 z:  0.000 heading:  121
+2023-11-15 10:36:34|stop_point -  x:  1.243 y:  1.488 z:  0.000 heading:  121 - moved:  0.000 meters in 0.1s
+2023-11-15 10:36:34|start_point - x:  1.243 y:  1.488 z:  0.000 heading:  121
+2023-11-15 10:36:39|stop_point -  x:  1.042 y:  1.816 z:  0.000 heading:  121 - moved:  0.384 meters in 5.1s
+2023-11-15 10:36:40|start_point - x:  1.042 y:  1.816 z:  0.000 heading:  121
+2023-11-15 10:36:40|stop_point -  x:  1.042 y:  1.816 z:  0.000 heading:   93 - moved:  0.002 meters in 0.5s
+2023-11-15 10:36:41|start_point - x:  1.042 y:  1.816 z:  0.000 heading:   93
+2023-11-15 10:36:42|stop_point -  x:  1.042 y:  1.816 z:  0.000 heading:   29 - moved:  0.006 meters in 1.2s
+2023-11-15 10:36:43|start_point - x:  1.042 y:  1.816 z:  0.000 heading:   29
+2023-11-15 10:36:45|stop_point -  x:  1.171 y:  1.884 z:  0.000 heading:   28 - moved:  0.146 meters in 2.4s
+2023-11-15 10:36:46|start_point - x:  1.171 y:  1.884 z:  0.000 heading:   28
+2023-11-15 10:36:48|stop_point -  x:  1.172 y:  1.884 z:  0.000 heading:  166 - moved:  0.011 meters in 2.7s
+2023-11-15 10:36:49|start_point - x:  1.172 y:  1.884 z:  0.000 heading:  166
+2023-11-15 10:36:51|stop_point -  x:  1.037 y:  1.917 z:  0.000 heading:  167 - moved:  0.138 meters in 2.4s
+2023-11-15 10:36:51|start_point - x:  1.037 y:  1.917 z:  0.000 heading:  167
+2023-11-15 10:36:51|stop_point -  x:  1.038 y:  1.916 z:  0.000 heading:  166 - moved:  0.000 meters in 0.1s
+2023-11-15 10:36:52|start_point - x:  1.038 y:  1.916 z:  0.000 heading:  166
+2023-11-15 10:36:54|stop_point -  x:  1.037 y:  1.916 z:  0.000 heading:  -42 - moved:  0.010 meters in 2.8s
+2023-11-15 10:36:55|start_point - x:  1.037 y:  1.916 z:  0.000 heading:  -42
+2023-11-15 10:37:00|stop_point -  x:  1.267 y:  1.715 z:  0.000 heading:  -41 - moved:  0.306 meters in 5.2s
+2023-11-15 10:37:01|start_point - x:  1.267 y:  1.715 z:  0.000 heading:  -41
+2023-11-15 10:37:02|stop_point -  x:  1.267 y:  1.715 z:  0.000 heading: -105 - moved:  0.004 meters in 1.2s
+2023-11-15 10:37:02|start_point - x:  1.267 y:  1.714 z:  0.000 heading: -105
+2023-11-15 10:37:04|stop_point -  x:  1.241 y:  1.619 z:  0.000 heading: -105 - moved:  0.098 meters in 1.7s
+2023-11-15 10:37:05|start_point - x:  1.241 y:  1.619 z:  0.000 heading: -105
+2023-11-15 10:37:06|stop_point -  x:  1.241 y:  1.619 z:  0.000 heading: -156 - moved:  0.003 meters in 1.0s
+2023-11-15 10:37:06|start_point - x:  1.240 y:  1.619 z:  0.000 heading: -156
+2023-11-15 10:37:29|stop_point -  x: -0.668 y:  0.789 z:  0.000 heading: -157 - moved:  2.081 meters in 22.8s
+2023-11-15 10:37:29|start_point - x: -0.668 y:  0.789 z:  0.000 heading: -157
+2023-11-15 10:37:32|stop_point -  x: -0.668 y:  0.789 z:  0.000 heading:  -29 - moved:  0.010 meters in 2.3s
+2023-11-15 10:37:32|start_point - x: -0.668 y:  0.789 z:  0.000 heading:  -29
+2023-11-15 10:37:46|stop_point -  x:  0.376 y:  0.210 z:  0.000 heading:  -29 - moved:  1.193 meters in 13.3s
+2023-11-15 10:37:46|start_point - x:  0.376 y:  0.210 z:  0.000 heading:  -29
+2023-11-15 10:37:46|stop_point -  x:  0.377 y:  0.210 z:  0.000 heading:  -29 - moved:  0.000 meters in 0.1s
+2023-11-15 10:37:46|start_point - x:  0.377 y:  0.210 z:  0.000 heading:  -29
+2023-11-15 10:37:49|stop_point -  x:  0.377 y:  0.210 z:  0.000 heading:  113 - moved:  0.010 meters in 2.7s
+2023-11-15 10:37:49|start_point - x:  0.377 y:  0.210 z:  0.000 heading:  113
+2023-11-15 10:38:05|stop_point -  x: -0.199 y:  1.552 z:  0.000 heading:  113 - moved:  1.460 meters in 16.0s
+2023-11-15 10:38:06|start_point - x: -0.199 y:  1.552 z:  0.000 heading:  113
+2023-11-15 10:38:09|stop_point -  x: -0.199 y:  1.552 z:  0.000 heading:  -98 - moved:  0.011 meters in 2.8s
+2023-11-15 10:38:09|start_point - x: -0.199 y:  1.552 z:  0.000 heading:  -98
+2023-11-15 10:38:28|stop_point -  x: -0.409 y: -0.126 z:  0.000 heading:  -97 - moved:  1.691 meters in 18.7s
+2023-11-15 10:38:28|start_point - x: -0.409 y: -0.126 z:  0.000 heading:  -97
+2023-11-15 10:38:29|stop_point -  x: -0.409 y: -0.126 z:  0.000 heading:  -79 - moved:  0.001 meters in 0.4s
+2023-11-15 10:38:29|start_point - x: -0.409 y: -0.126 z:  0.000 heading:  -79
+2023-11-15 10:38:33|stop_point -  x: -0.361 y: -0.374 z:  0.000 heading:  -79 - moved:  0.254 meters in 3.8s
+2023-11-15 10:38:34|start_point - x: -0.361 y: -0.374 z:  0.000 heading:  -79
+2023-11-15 10:38:36|stop_point -  x: -0.361 y: -0.374 z:  0.000 heading:  159 - moved:  0.010 meters in 2.4s
+2023-11-15 10:38:37|start_point - x: -0.361 y: -0.374 z:  0.000 heading:  159
+2023-11-15 10:38:38|stop_point -  x: -0.446 y: -0.340 z:  0.000 heading:  158 - moved:  0.091 meters in 1.7s
+2023-11-15 10:38:39|start_point - x: -0.446 y: -0.340 z:  0.000 heading:  158
+2023-11-15 10:38:39|stop_point -  x: -0.446 y: -0.340 z:  0.000 heading:  119 - moved:  0.004 meters in 0.8s
+2023-11-15 10:38:40|start_point - x: -0.446 y: -0.340 z:  0.000 heading:  119
+2023-11-15 10:38:41|stop_point -  x: -0.446 y: -0.340 z:  0.000 heading:   68 - moved:  0.003 meters in 1.0s
+2023-11-15 10:38:42|start_point - x: -0.446 y: -0.340 z:  0.000 heading:   68
+2023-11-15 10:39:07|stop_point -  x:  0.496 y:  1.945 z:  0.000 heading:   68 - moved:  2.472 meters in 25.5s
+2023-11-15 10:39:08|start_point - x:  0.496 y:  1.945 z:  0.000 heading:   68
+2023-11-15 10:39:09|stop_point -  x:  0.497 y:  1.945 z:  0.000 heading:  129 - moved:  0.005 meters in 1.2s
+2023-11-15 10:39:10|start_point - x:  0.497 y:  1.945 z:  0.000 heading:  129
+2023-11-15 10:39:11|stop_point -  x:  0.496 y:  1.945 z:  0.000 heading:  178 - moved:  0.004 meters in 1.0s
+2023-11-15 10:39:11|start_point - x:  0.496 y:  1.945 z:  0.000 heading:  178
+2023-11-15 10:39:11|stop_point -  x:  0.497 y:  1.945 z:  0.000 heading:  178 - moved:  0.000 meters in 0.1s
+2023-11-15 10:39:11|start_point - x:  0.497 y:  1.945 z:  0.000 heading:  178
+2023-11-15 10:39:11|stop_point -  x:  0.496 y:  1.945 z:  0.000 heading:  178 - moved:  0.000 meters in 0.1s
+2023-11-15 10:39:11|start_point - x:  0.496 y:  1.945 z:  0.000 heading:  178
+2023-11-15 10:39:11|stop_point -  x:  0.497 y:  1.945 z:  0.000 heading:  178 - moved:  0.000 meters in 0.1s
+2023-11-15 10:39:11|start_point - x:  0.497 y:  1.945 z:  0.000 heading:  178
+2023-11-15 10:39:11|stop_point -  x:  0.496 y:  1.945 z:  0.000 heading:  178 - moved:  0.000 meters in 0.1s
+2023-11-15 10:39:11|start_point - x:  0.496 y:  1.945 z:  0.000 heading:  178
+2023-11-15 10:39:16|stop_point -  x:  0.111 y:  1.952 z:  0.000 heading:  179 - moved:  0.385 meters in 5.1s
+2023-11-15 10:39:17|start_point - x:  0.111 y:  1.952 z:  0.000 heading:  179
+2023-11-15 10:39:17|stop_point -  x:  0.111 y:  1.952 z:  0.000 heading: -151 - moved:  0.001 meters in 0.6s
+2023-11-15 10:39:17|start_point - x:  0.111 y:  1.952 z:  0.000 heading: -151
+2023-11-15 10:39:17|stop_point -  x:  0.110 y:  1.951 z:  0.000 heading: -151 - moved:  0.000 meters in 0.1s
+2023-11-15 10:39:18|start_point - x:  0.110 y:  1.951 z:  0.000 heading: -151
+2023-11-15 10:39:19|stop_point -  x:  0.059 y:  1.923 z:  0.000 heading: -150 - moved:  0.058 meters in 1.0s
+2023-11-15 10:39:19|start_point - x:  0.059 y:  1.923 z:  0.000 heading: -150
+2023-11-15 10:39:19|stop_point -  x:  0.059 y:  1.923 z:  0.000 heading: -151 - moved:  0.000 meters in 0.1s
+2023-11-15 10:39:19|start_point - x:  0.059 y:  1.923 z:  0.000 heading: -151
+2023-11-15 10:39:20|stop_point -  x:  0.059 y:  1.922 z:  0.000 heading: -108 - moved:  0.002 meters in 0.9s
+2023-11-15 10:39:21|start_point - x:  0.059 y:  1.922 z:  0.000 heading: -108
+2023-11-15 10:39:22|stop_point -  x:  0.059 y:  1.922 z:  0.000 heading:  -45 - moved:  0.004 meters in 1.2s
+2023-11-15 10:39:23|start_point - x:  0.060 y:  1.921 z:  0.000 heading:  -45
+2023-11-15 10:39:34|stop_point -  x:  0.724 y:  1.259 z:  0.000 heading:  -45 - moved:  0.936 meters in 11.0s
+2023-11-15 10:39:34|start_point - x:  0.724 y:  1.259 z:  0.000 heading:  -45
+2023-11-15 10:39:34|stop_point -  x:  0.732 y:  1.252 z:  0.000 heading:  -45 - moved:  0.010 meters in 0.2s
+2023-11-15 10:39:34|start_point - x:  0.732 y:  1.252 z:  0.000 heading:  -45
+2023-11-15 10:39:35|stop_point -  x:  0.731 y:  1.252 z:  0.000 heading:  -61 - moved:  0.001 meters in 0.4s
+2023-11-15 10:39:35|start_point - x:  0.731 y:  1.252 z:  0.000 heading:  -61
+2023-11-15 10:39:37|stop_point -  x:  0.756 y:  1.206 z:  0.000 heading:  -62 - moved:  0.052 meters in 1.1s
+2023-11-15 10:39:37|start_point - x:  0.756 y:  1.206 z:  0.000 heading:  -62
+2023-11-15 10:39:38|stop_point -  x:  0.756 y:  1.207 z:  0.000 heading: -133 - moved:  0.005 meters in 1.3s
+2023-11-15 10:39:39|start_point - x:  0.756 y:  1.206 z:  0.000 heading: -133
+2023-11-15 10:39:54|stop_point -  x: -0.220 y:  0.182 z:  0.000 heading: -134 - moved:  1.415 meters in 15.4s
+2023-11-15 10:39:55|start_point - x: -0.220 y:  0.182 z:  0.000 heading: -134
+2023-11-15 10:39:55|stop_point -  x: -0.220 y:  0.182 z:  0.000 heading: -166 - moved:  0.002 meters in 0.6s
+2023-11-15 10:39:56|start_point - x: -0.220 y:  0.182 z:  0.000 heading: -166
+2023-11-15 10:39:58|stop_point -  x: -0.220 y:  0.182 z:  0.000 heading:   89 - moved:  0.006 meters in 2.0s
+2023-11-15 10:39:59|start_point - x: -0.220 y:  0.182 z:  0.000 heading:   89
+2023-11-15 10:40:15|stop_point -  x: -0.193 y:  1.580 z:  0.000 heading:   89 - moved:  1.398 meters in 16.0s
+2023-11-15 10:40:15|start_point - x: -0.193 y:  1.580 z:  0.000 heading:   89
+2023-11-15 10:40:16|stop_point -  x: -0.193 y:  1.580 z:  0.000 heading:   57 - moved:  0.001 meters in 0.7s
+2023-11-15 10:40:16|start_point - x: -0.193 y:  1.580 z:  0.000 heading:   57
+2023-11-15 10:40:17|stop_point -  x: -0.193 y:  1.580 z:  0.000 heading:   11 - moved:  0.003 meters in 0.9s
+2023-11-15 10:40:18|start_point - x: -0.192 y:  1.580 z:  0.000 heading:   11
+2023-11-15 10:40:28|stop_point -  x:  0.640 y:  1.744 z:  0.000 heading:   11 - moved:  0.847 meters in 9.9s
+2023-11-15 10:40:28|start_point - x:  0.640 y:  1.744 z:  0.000 heading:   11
+2023-11-15 10:40:31|stop_point -  x:  0.640 y:  1.744 z:  0.000 heading: -135 - moved:  0.008 meters in 2.7s
+2023-11-15 10:40:31|start_point - x:  0.640 y:  1.744 z:  0.000 heading: -135
+2023-11-15 10:40:31|stop_point -  x:  0.640 y:  1.743 z:  0.000 heading: -135 - moved:  0.000 meters in 0.1s
+2023-11-15 10:40:31|start_point - x:  0.640 y:  1.743 z:  0.000 heading: -135
+2023-11-15 10:40:53|stop_point -  x: -0.763 y:  0.374 z:  0.000 heading: -136 - moved:  1.959 meters in 21.2s
+2023-11-15 10:40:53|start_point - x: -0.763 y:  0.374 z:  0.000 heading: -136
+2023-11-15 10:40:53|stop_point -  x: -0.769 y:  0.369 z:  0.000 heading: -136 - moved:  0.007 meters in 0.2s
+2023-11-15 10:40:53|start_point - x: -0.769 y:  0.369 z:  0.000 heading: -136
+2023-11-15 10:40:56|stop_point -  x: -0.768 y:  0.369 z:  0.000 heading:   59 - moved:  0.014 meters in 3.1s
+2023-11-15 10:40:57|start_point - x: -0.768 y:  0.369 z:  0.000 heading:   59
+2023-11-15 10:41:00|stop_point -  x: -0.674 y:  0.523 z:  0.000 heading:   58 - moved:  0.181 meters in 3.1s
+2023-11-15 10:41:00|start_point - x: -0.674 y:  0.523 z:  0.000 heading:   58
+2023-11-15 10:41:01|stop_point -  x: -0.674 y:  0.523 z:  0.000 heading:   42 - moved:  0.001 meters in 0.4s
+2023-11-15 10:41:01|start_point - x: -0.674 y:  0.523 z:  0.000 heading:   42
+2023-11-15 10:41:03|stop_point -  x: -0.617 y:  0.572 z:  0.000 heading:   41 - moved:  0.074 meters in 1.4s
+2023-11-15 10:41:03|start_point - x: -0.617 y:  0.572 z:  0.000 heading:   41
+2023-11-15 10:41:03|stop_point -  x: -0.606 y:  0.582 z:  0.000 heading:   41 - moved:  0.014 meters in 0.3s
+2023-11-15 10:41:03|start_point - x: -0.606 y:  0.582 z:  0.000 heading:   41
+2023-11-15 10:41:03|stop_point -  x: -0.606 y:  0.582 z:  0.000 heading:   41 - moved:  0.000 meters in 0.1s
+2023-11-15 10:41:04|start_point - x: -0.606 y:  0.582 z:  0.000 heading:   41
+2023-11-15 10:41:05|stop_point -  x: -0.607 y:  0.582 z:  0.000 heading:  -23 - moved:  0.004 meters in 1.3s
+2023-11-15 10:41:06|start_point - x: -0.607 y:  0.582 z:  0.000 heading:  -23
+2023-11-15 10:41:24|stop_point -  x:  0.907 y: -0.120 z:  0.000 heading:  -25 - moved:  1.669 meters in 18.1s
+2023-11-15 10:41:24|start_point - x:  0.907 y: -0.120 z:  0.000 heading:  -25
+2023-11-15 10:41:24|stop_point -  x:  0.907 y: -0.120 z:  0.000 heading:  -25 - moved:  0.000 meters in 0.1s
+2023-11-15 10:41:24|start_point - x:  0.907 y: -0.120 z:  0.000 heading:  -25
+2023-11-15 10:41:27|stop_point -  x:  0.908 y: -0.120 z:  0.000 heading: -173 - moved:  0.013 meters in 2.9s
+2023-11-15 10:41:27|start_point - x:  0.907 y: -0.120 z:  0.000 heading: -173
+2023-11-15 10:41:41|stop_point -  x: -0.296 y: -0.259 z:  0.000 heading: -174 - moved:  1.211 meters in 13.3s
+2023-11-15 10:41:41|start_point - x: -0.296 y: -0.259 z:  0.000 heading: -174
+2023-11-15 10:41:44|stop_point -  x: -0.296 y: -0.259 z:  0.000 heading:   49 - moved:  0.011 meters in 2.8s
+2023-11-15 10:41:44|start_point - x: -0.296 y: -0.259 z:  0.000 heading:   49
+2023-11-15 10:42:03|stop_point -  x:  0.817 y:  0.989 z:  0.000 heading:   48 - moved:  1.672 meters in 18.7s
+2023-11-15 10:42:04|start_point - x:  0.817 y:  0.989 z:  0.000 heading:   48
+2023-11-15 10:42:04|stop_point -  x:  0.817 y:  0.989 z:  0.000 heading:   19 - moved:  0.002 meters in 0.6s
+2023-11-15 10:42:05|start_point - x:  0.817 y:  0.989 z:  0.000 heading:   19
+2023-11-15 10:42:10|stop_point -  x:  1.197 y:  1.115 z:  0.000 heading:   18 - moved:  0.400 meters in 5.1s
+2023-11-15 10:42:10|start_point - x:  1.197 y:  1.115 z:  0.000 heading:   18
+2023-11-15 10:42:13|stop_point -  x:  1.197 y:  1.115 z:  0.000 heading: -136 - moved:  0.012 meters in 3.0s
+2023-11-15 10:42:14|start_point - x:  1.197 y:  1.115 z:  0.000 heading: -136
+2023-11-15 10:42:35|stop_point -  x: -0.214 y: -0.208 z:  0.000 heading: -137 - moved:  1.933 meters in 20.7s
+2023-11-15 10:42:35|start_point - x: -0.214 y: -0.208 z:  0.000 heading: -137
+2023-11-15 10:42:38|stop_point -  x: -0.214 y: -0.209 z:  0.000 heading:   -1 - moved:  0.007 meters in 2.6s
+2023-11-15 10:42:38|start_point - x: -0.214 y: -0.209 z:  0.000 heading:   -1
+2023-11-15 10:42:52|stop_point -  x:  1.055 y: -0.217 z:  0.000 heading:   -0 - moved:  1.270 meters in 14.0s
+2023-11-15 10:42:52|start_point - x:  1.055 y: -0.217 z:  0.000 heading:   -0
+2023-11-15 10:42:55|stop_point -  x:  1.056 y: -0.217 z:  0.000 heading:  131 - moved:  0.009 meters in 2.4s
+2023-11-15 10:42:56|start_point - x:  1.056 y: -0.217 z:  0.000 heading:  131
+2023-11-15 10:43:10|stop_point -  x:  0.190 y:  0.763 z:  0.000 heading:  131 - moved:  1.307 meters in 14.3s
+2023-11-15 10:43:10|start_point - x:  0.190 y:  0.763 z:  0.000 heading:  131
+2023-11-15 10:43:10|stop_point -  x:  0.180 y:  0.774 z:  0.000 heading:  131 - moved:  0.015 meters in 0.4s
+2023-11-15 10:43:11|start_point - x:  0.180 y:  0.774 z:  0.000 heading:  131
+2023-11-15 10:43:13|stop_point -  x:  0.180 y:  0.774 z:  0.000 heading:  -11 - moved:  0.011 meters in 2.8s
+2023-11-15 10:43:14|start_point - x:  0.181 y:  0.774 z:  0.000 heading:  -11
+2023-11-15 10:43:25|stop_point -  x:  1.087 y:  0.583 z:  0.000 heading:  -12 - moved:  0.926 meters in 10.5s
+2023-11-15 10:43:25|start_point - x:  1.087 y:  0.583 z:  0.000 heading:  -12
+2023-11-15 10:43:25|stop_point -  x:  1.087 y:  0.583 z:  0.000 heading:  -12 - moved:  0.000 meters in 0.1s
+2023-11-15 10:43:25|start_point - x:  1.087 y:  0.583 z:  0.000 heading:  -12
+2023-11-15 10:43:27|stop_point -  x:  1.086 y:  0.583 z:  0.000 heading: -144 - moved:  0.008 meters in 2.5s
+2023-11-15 10:43:28|start_point - x:  1.086 y:  0.583 z:  0.000 heading: -144
+2023-11-15 10:43:47|stop_point -  x: -0.344 y: -0.419 z:  0.000 heading: -145 - moved:  1.746 meters in 18.7s
+2023-11-15 10:43:47|start_point - x: -0.344 y: -0.419 z:  0.000 heading: -145
+2023-11-15 10:43:47|stop_point -  x: -0.344 y: -0.419 z:  0.000 heading: -145 - moved:  0.000 meters in 0.1s
+2023-11-15 10:43:47|start_point - x: -0.344 y: -0.419 z:  0.000 heading: -145
+2023-11-15 10:43:48|stop_point -  x: -0.343 y: -0.419 z:  0.000 heading: -171 - moved:  0.001 meters in 0.6s
+2023-11-15 10:43:48|start_point - x: -0.343 y: -0.419 z:  0.000 heading: -171
+2023-11-15 10:43:50|stop_point -  x: -0.437 y: -0.433 z:  0.000 heading: -171 - moved:  0.094 meters in 1.8s
+2023-11-15 10:43:50|start_point - x: -0.437 y: -0.433 z:  0.000 heading: -171
+2023-11-15 10:43:50|stop_point -  x: -0.436 y: -0.433 z:  0.000 heading: -172 - moved:  0.000 meters in 0.1s
+2023-11-15 10:43:50|start_point - x: -0.436 y: -0.433 z:  0.000 heading: -172
+2023-11-15 10:43:51|stop_point -  x: -0.436 y: -0.434 z:  0.000 heading:  153 - moved:  0.005 meters in 0.8s
+2023-11-15 10:43:52|start_point - x: -0.436 y: -0.434 z:  0.000 heading:  153
+2023-11-15 10:43:52|stop_point -  x: -0.437 y: -0.433 z:  0.000 heading:  152 - moved:  0.000 meters in 0.1s
+2023-11-15 10:43:52|start_point - x: -0.437 y: -0.433 z:  0.000 heading:  152
+2023-11-15 10:43:53|stop_point -  x: -0.486 y: -0.407 z:  0.000 heading:  152 - moved:  0.055 meters in 1.0s
+2023-11-15 10:43:53|start_point - x: -0.486 y: -0.407 z:  0.000 heading:  152
+2023-11-15 10:43:54|stop_point -  x: -0.486 y: -0.408 z:  0.000 heading:   96 - moved:  0.003 meters in 1.1s
+2023-11-15 10:43:55|start_point - x: -0.486 y: -0.408 z:  0.000 heading:   96
+2023-11-15 10:44:00|stop_point -  x: -0.513 y: -0.080 z:  0.000 heading:   95 - moved:  0.329 meters in 5.2s
+2023-11-15 10:44:01|start_point - x: -0.513 y: -0.080 z:  0.000 heading:   95
+2023-11-15 10:44:01|stop_point -  x: -0.514 y: -0.080 z:  0.000 heading:   67 - moved:  0.003 meters in 0.7s
+2023-11-15 10:44:02|start_point - x: -0.514 y: -0.080 z:  0.000 heading:   67
+2023-11-15 10:44:03|stop_point -  x: -0.514 y: -0.080 z:  0.000 heading:   11 - moved:  0.003 meters in 1.1s
+2023-11-15 10:44:04|start_point - x: -0.514 y: -0.080 z:  0.000 heading:   11
+2023-11-15 10:44:21|stop_point -  x:  1.064 y:  0.210 z:  0.000 heading:   11 - moved:  1.604 meters in 17.4s
+2023-11-15 10:44:21|start_point - x:  1.064 y:  0.210 z:  0.000 heading:   11
+2023-11-15 10:44:24|stop_point -  x:  1.064 y:  0.210 z:  0.000 heading: -140 - moved:  0.010 meters in 2.8s
+2023-11-15 10:44:25|start_point - x:  1.064 y:  0.210 z:  0.000 heading: -140
+2023-11-15 10:44:38|stop_point -  x:  0.096 y: -0.586 z:  0.000 heading: -140 - moved:  1.252 meters in 13.8s
+2023-11-15 10:44:38|start_point - x:  0.096 y: -0.586 z:  0.000 heading: -140
+2023-11-15 10:44:39|stop_point -  x:  0.092 y: -0.590 z:  0.000 heading: -140 - moved:  0.005 meters in 0.1s
+2023-11-15 10:44:39|start_point - x:  0.092 y: -0.590 z:  0.000 heading: -140
+2023-11-15 10:44:41|stop_point -  x:  0.092 y: -0.590 z:  0.000 heading:   94 - moved:  0.009 meters in 2.5s
+2023-11-15 10:44:42|start_point - x:  0.092 y: -0.590 z:  0.000 heading:   94
+2023-11-15 10:44:58|stop_point -  x:  0.017 y:  0.796 z:  0.000 heading:   93 - moved:  1.388 meters in 16.0s
+2023-11-15 10:44:58|start_point - x:  0.017 y:  0.796 z:  0.000 heading:   93
+2023-11-15 10:44:59|stop_point -  x:  0.017 y:  0.796 z:  0.000 heading:   67 - moved:  0.001 meters in 0.5s
+2023-11-15 10:45:00|start_point - x:  0.017 y:  0.796 z:  0.000 heading:   67
+2023-11-15 10:45:01|stop_point -  x:  0.016 y:  0.796 z:  0.000 heading:   19 - moved:  0.003 meters in 1.0s
+2023-11-15 10:45:01|start_point - x:  0.016 y:  0.796 z:  0.000 heading:   19
+2023-11-15 10:45:11|stop_point -  x:  0.827 y:  1.052 z:  0.000 heading:   18 - moved:  0.850 meters in 9.9s
+2023-11-15 10:45:12|start_point - x:  0.827 y:  1.052 z:  0.000 heading:   18
+2023-11-15 10:45:14|stop_point -  x:  0.828 y:  1.052 z:  0.000 heading: -128 - moved:  0.007 meters in 2.7s
+2023-11-15 10:45:15|start_point - x:  0.828 y:  1.052 z:  0.000 heading: -128
+2023-11-15 10:45:36|stop_point -  x: -0.391 y: -0.487 z:  0.000 heading: -128 - moved:  1.963 meters in 21.4s
+2023-11-15 10:45:37|start_point - x: -0.391 y: -0.487 z:  0.000 heading: -128
+2023-11-15 10:45:39|stop_point -  x: -0.391 y: -0.487 z:  0.000 heading:  106 - moved:  0.010 meters in 2.4s
+2023-11-15 10:45:40|start_point - x: -0.391 y: -0.487 z:  0.000 heading:  106
+2023-11-15 10:45:41|stop_point -  x: -0.415 y: -0.401 z:  0.000 heading:  106 - moved:  0.089 meters in 1.7s
+2023-11-15 10:45:42|start_point - x: -0.415 y: -0.401 z:  0.000 heading:  106
+2023-11-15 10:45:44|stop_point -  x: -0.415 y: -0.401 z:  0.000 heading:   15 - moved:  0.007 meters in 1.8s
+2023-11-15 10:45:44|start_point - x: -0.415 y: -0.401 z:  0.000 heading:   15
+2023-11-15 10:46:03|stop_point -  x:  1.275 y:  0.019 z:  0.000 heading:   14 - moved:  1.741 meters in 18.7s
+2023-11-15 10:46:03|start_point - x:  1.275 y:  0.019 z:  0.000 heading:   14
+2023-11-15 10:46:06|stop_point -  x:  1.275 y:  0.018 z:  0.000 heading: -120 - moved:  0.009 meters in 2.5s
+2023-11-15 10:46:06|start_point - x:  1.275 y:  0.018 z:  0.000 heading: -120
+2023-11-15 10:46:12|stop_point -  x:  1.012 y: -0.431 z:  0.000 heading: -120 - moved:  0.520 meters in 5.2s
+2023-11-15 10:46:12|start_point - x:  1.012 y: -0.431 z:  0.000 heading: -120
+2023-11-15 10:46:18|stop_point -  x:  0.743 y: -0.891 z:  0.000 heading: -120 - moved:  0.532 meters in 6.7s
+2023-11-15 10:46:19|start_point - x:  0.743 y: -0.891 z:  0.000 heading: -120
+2023-11-15 10:46:21|stop_point -  x:  0.743 y: -0.891 z:  0.000 heading:  100 - moved:  0.009 meters in 2.7s
+2023-11-15 10:46:22|start_point - x:  0.743 y: -0.891 z:  0.000 heading:  100
+2023-11-15 10:46:43|stop_point -  x:  0.402 y:  1.104 z:  0.000 heading:  100 - moved:  2.024 meters in 21.4s
+2023-11-15 10:46:44|start_point - x:  0.402 y:  1.104 z:  0.000 heading:  100
+2023-11-15 10:46:46|stop_point -  x:  0.402 y:  1.104 z:  0.000 heading:    3 - moved:  0.006 meters in 1.8s
+2023-11-15 10:46:46|start_point - x:  0.402 y:  1.104 z:  0.000 heading:    3
+2023-11-15 10:46:47|stop_point -  x:  0.402 y:  1.104 z:  0.000 heading:  -46 - moved:  0.003 meters in 1.0s
+2023-11-15 10:46:48|start_point - x:  0.402 y:  1.104 z:  0.000 heading:  -46
+2023-11-15 10:47:05|stop_point -  x:  1.444 y: -0.026 z:  0.000 heading:  -47 - moved:  1.536 meters in 16.9s
+2023-11-15 10:47:05|start_point - x:  1.444 y: -0.026 z:  0.000 heading:  -47
+2023-11-15 10:47:12|stop_point -  x:  1.797 y: -0.409 z:  0.000 heading:  -47 - moved:  0.519 meters in 6.9s
+2023-11-15 10:47:12|start_point - x:  1.797 y: -0.409 z:  0.000 heading:  -47
+2023-11-15 10:47:12|stop_point -  x:  1.803 y: -0.415 z:  0.000 heading:  -47 - moved:  0.009 meters in 0.2s
+2023-11-15 10:47:12|start_point - x:  1.803 y: -0.415 z:  0.000 heading:  -47
+2023-11-15 10:47:12|stop_point -  x:  1.803 y: -0.415 z:  0.000 heading:  -47 - moved:  0.000 meters in 0.1s
+2023-11-15 10:47:12|start_point - x:  1.803 y: -0.415 z:  0.000 heading:  -47
+2023-11-15 10:47:12|stop_point -  x:  1.803 y: -0.415 z:  0.000 heading:  -47 - moved:  0.000 meters in 0.1s
+2023-11-15 10:47:12|start_point - x:  1.803 y: -0.415 z:  0.000 heading:  -47
+2023-11-15 10:47:13|stop_point -  x:  1.803 y: -0.415 z:  0.000 heading:  -85 - moved:  0.001 meters in 0.7s
+2023-11-15 10:47:14|start_point - x:  1.803 y: -0.415 z:  0.000 heading:  -85
+2023-11-15 10:47:15|stop_point -  x:  1.803 y: -0.415 z:  0.000 heading: -132 - moved:  0.003 meters in 1.0s
+2023-11-15 10:47:15|start_point - x:  1.803 y: -0.415 z:  0.000 heading: -132
+2023-11-15 10:47:21|stop_point -  x:  1.448 y: -0.802 z:  0.000 heading: -133 - moved:  0.524 meters in 5.6s
+2023-11-15 10:47:21|start_point - x:  1.448 y: -0.802 z:  0.000 heading: -133
+2023-11-15 10:47:23|stop_point -  x:  1.368 y: -0.890 z:  0.000 heading: -132 - moved:  0.117 meters in 1.9s
+2023-11-15 10:47:23|start_point - x:  1.368 y: -0.890 z:  0.000 heading: -132
+2023-11-15 10:47:23|stop_point -  x:  1.366 y: -0.892 z:  0.000 heading: -132 - moved:  0.002 meters in 0.1s
+2023-11-15 10:47:23|start_point - x:  1.365 y: -0.893 z:  0.000 heading: -132
+2023-11-15 10:47:23|stop_point -  x:  1.360 y: -0.898 z:  0.000 heading: -133 - moved:  0.007 meters in 0.2s
+2023-11-15 10:47:24|start_point - x:  1.360 y: -0.898 z:  0.000 heading: -133
+2023-11-15 10:47:26|stop_point -  x:  1.360 y: -0.898 z:  0.000 heading:  112 - moved:  0.006 meters in 2.2s
+2023-11-15 10:47:26|start_point - x:  1.360 y: -0.898 z:  0.000 heading:  112
+2023-11-15 10:47:44|stop_point -  x:  0.806 y:  0.522 z:  0.000 heading:  111 - moved:  1.524 meters in 17.3s
+2023-11-15 10:47:45|start_point - x:  0.806 y:  0.522 z:  0.000 heading:  111
+2023-11-15 10:47:46|stop_point -  x:  0.787 y:  0.569 z:  0.000 heading:  111 - moved:  0.050 meters in 1.0s
+2023-11-15 10:47:46|start_point - x:  0.787 y:  0.569 z:  0.000 heading:  111
+2023-11-15 10:47:46|stop_point -  x:  0.788 y:  0.569 z:  0.000 heading:  111 - moved:  0.000 meters in 0.1s
+2023-11-15 10:47:46|start_point - x:  0.788 y:  0.569 z:  0.000 heading:  111
+2023-11-15 10:47:48|stop_point -  x:  0.787 y:  0.570 z:  0.000 heading: -147 - moved:  0.006 meters in 1.9s
+2023-11-15 10:47:49|start_point - x:  0.787 y:  0.570 z:  0.000 heading: -147
+2023-11-15 10:47:59|stop_point -  x:  0.024 y:  0.063 z:  0.000 heading: -146 - moved:  0.915 meters in 10.3s
+2023-11-15 10:47:59|start_point - x:  0.024 y:  0.063 z:  0.000 heading: -146
+2023-11-15 10:47:59|stop_point -  x:  0.017 y:  0.058 z:  0.000 heading: -147 - moved:  0.007 meters in 0.2s
+2023-11-15 10:47:59|start_point - x:  0.017 y:  0.058 z:  0.000 heading: -147
+2023-11-15 10:47:59|stop_point -  x:  0.017 y:  0.058 z:  0.000 heading: -146 - moved:  0.000 meters in 0.1s
+2023-11-15 10:48:00|start_point - x:  0.017 y:  0.058 z:  0.000 heading: -146
+2023-11-15 10:48:00|stop_point -  x:  0.017 y:  0.058 z:  0.000 heading: -178 - moved:  0.002 meters in 0.7s
+2023-11-15 10:48:01|start_point - x:  0.017 y:  0.058 z:  0.000 heading: -178
+2023-11-15 10:48:02|stop_point -  x: -0.038 y:  0.057 z:  0.000 heading: -178 - moved:  0.055 meters in 1.1s
+2023-11-15 10:48:02|start_point - x: -0.038 y:  0.057 z:  0.000 heading: -178
+2023-11-15 10:48:03|stop_point -  x: -0.039 y:  0.057 z:  0.000 heading:  138 - moved:  0.005 meters in 0.9s
+2023-11-15 10:48:04|start_point - x: -0.039 y:  0.057 z:  0.000 heading:  138
+2023-11-15 10:48:05|stop_point -  x: -0.038 y:  0.056 z:  0.000 heading:   95 - moved:  0.003 meters in 0.8s
+2023-11-15 10:48:05|start_point - x: -0.038 y:  0.056 z:  0.000 heading:   95
+2023-11-15 10:48:12|stop_point -  x: -0.079 y:  0.620 z:  0.000 heading:   94 - moved:  0.565 meters in 7.2s
+2023-11-15 10:48:13|start_point - x: -0.079 y:  0.620 z:  0.000 heading:   94
+2023-11-15 10:48:15|stop_point -  x: -0.079 y:  0.620 z:  0.000 heading:  -32 - moved:  0.008 meters in 2.4s
+2023-11-15 10:48:15|start_point - x: -0.079 y:  0.620 z:  0.000 heading:  -32
+2023-11-15 10:48:15|stop_point -  x: -0.079 y:  0.620 z:  0.000 heading:  -32 - moved:  0.000 meters in 0.1s
+2023-11-15 10:48:16|start_point - x: -0.079 y:  0.620 z:  0.000 heading:  -32
+2023-11-15 10:48:37|stop_point -  x:  1.619 y: -0.478 z:  0.000 heading:  -33 - moved:  2.021 meters in 21.3s
+2023-11-15 10:48:38|start_point - x:  1.619 y: -0.478 z:  0.000 heading:  -33
+2023-11-15 10:48:40|stop_point -  x:  1.619 y: -0.478 z:  0.000 heading:   85 - moved:  0.008 meters in 2.2s
+2023-11-15 10:48:41|start_point - x:  1.619 y: -0.478 z:  0.000 heading:   85
+2023-11-15 10:48:51|stop_point -  x:  1.685 y:  0.441 z:  0.000 heading:   86 - moved:  0.922 meters in 10.6s
+2023-11-15 10:48:51|start_point - x:  1.685 y:  0.441 z:  0.000 heading:   86
+2023-11-15 10:48:54|stop_point -  x:  1.685 y:  0.441 z:  0.000 heading: -140 - moved:  0.007 meters in 2.6s
+2023-11-15 10:48:55|start_point - x:  1.685 y:  0.441 z:  0.000 heading: -140
+2023-11-15 10:49:13|stop_point -  x:  0.375 y: -0.697 z:  0.000 heading: -139 - moved:  1.736 meters in 18.6s
+2023-11-15 10:49:14|start_point - x:  0.375 y: -0.697 z:  0.000 heading: -139
+2023-11-15 10:49:16|stop_point -  x:  0.375 y: -0.697 z:  0.000 heading:   79 - moved:  0.009 meters in 2.7s
+2023-11-15 10:49:16|start_point - x:  0.375 y: -0.697 z:  0.000 heading:   79
+2023-11-15 10:49:16|stop_point -  x:  0.375 y: -0.697 z:  0.000 heading:   79 - moved:  0.000 meters in 0.1s
+2023-11-15 10:49:17|start_point - x:  0.375 y: -0.697 z:  0.000 heading:   79
+2023-11-15 10:49:29|stop_point -  x:  0.591 y:  0.362 z:  0.000 heading:   78 - moved:  1.081 meters in 11.9s
+2023-11-15 10:49:29|start_point - x:  0.591 y:  0.362 z:  0.000 heading:   78
+2023-11-15 10:49:29|stop_point -  x:  0.591 y:  0.362 z:  0.000 heading:   79 - moved:  0.000 meters in 0.1s
+2023-11-15 10:49:29|start_point - x:  0.591 y:  0.362 z:  0.000 heading:   79
+2023-11-15 10:49:32|stop_point -  x:  0.591 y:  0.362 z:  0.000 heading:  -44 - moved:  0.006 meters in 2.3s
+2023-11-15 10:49:32|start_point - x:  0.591 y:  0.362 z:  0.000 heading:  -44
+2023-11-15 10:49:43|stop_point -  x:  1.330 y: -0.368 z:  0.000 heading:  -45 - moved:  1.037 meters in 10.4s
+2023-11-15 10:49:43|start_point - x:  1.330 y: -0.368 z:  0.000 heading:  -45
+2023-11-15 10:49:48|stop_point -  x:  1.601 y: -0.636 z:  0.000 heading:  -45 - moved:  0.380 meters in 5.0s
+2023-11-15 10:49:48|start_point - x:  1.601 y: -0.636 z:  0.000 heading:  -45
+2023-11-15 10:49:48|stop_point -  x:  1.610 y: -0.644 z:  0.000 heading:  -45 - moved:  0.011 meters in 0.2s
+2023-11-15 10:49:48|start_point - x:  1.610 y: -0.644 z:  0.000 heading:  -45
+2023-11-15 10:49:48|stop_point -  x:  1.614 y: -0.649 z:  0.000 heading:  -45 - moved:  0.005 meters in 0.1s
+2023-11-15 10:49:48|start_point - x:  1.614 y: -0.649 z:  0.000 heading:  -45
+2023-11-15 10:49:48|stop_point -  x:  1.620 y: -0.655 z:  0.000 heading:  -45 - moved:  0.008 meters in 0.2s
+2023-11-15 10:49:49|start_point - x:  1.620 y: -0.655 z:  0.000 heading:  -45
+2023-11-15 10:49:51|stop_point -  x:  1.620 y: -0.654 z:  0.000 heading:  180 - moved:  0.009 meters in 2.5s
+2023-11-15 10:49:52|start_point - x:  1.620 y: -0.654 z:  0.000 heading:  180
+2023-11-15 10:50:10|stop_point -  x:  0.033 y: -0.650 z:  0.000 heading: -180 - moved:  1.588 meters in 18.1s
+2023-11-15 10:50:10|start_point - x:  0.033 y: -0.650 z:  0.000 heading: -180
+2023-11-15 10:50:10|stop_point -  x:  0.033 y: -0.650 z:  0.000 heading: -179 - moved:  0.000 meters in 0.1s
+2023-11-15 10:50:10|start_point - x:  0.033 y: -0.650 z:  0.000 heading: -179
+2023-11-15 10:50:10|stop_point -  x:  0.033 y: -0.650 z:  0.000 heading:  154 - moved:  0.002 meters in 0.6s
+2023-11-15 10:50:11|start_point - x:  0.033 y: -0.650 z:  0.000 heading:  154
+2023-11-15 10:50:16|stop_point -  x: -0.327 y: -0.474 z:  0.000 heading:  154 - moved:  0.401 meters in 5.1s
+2023-11-15 10:50:16|start_point - x: -0.327 y: -0.474 z:  0.000 heading:  154
+2023-11-15 10:50:16|stop_point -  x: -0.327 y: -0.474 z:  0.000 heading:  153 - moved:  0.000 meters in 0.1s
+2023-11-15 10:50:17|start_point - x: -0.327 y: -0.474 z:  0.000 heading:  153
+2023-11-15 10:50:17|stop_point -  x: -0.327 y: -0.474 z:  0.000 heading: -176 - moved:  0.003 meters in 0.6s
+2023-11-15 10:50:18|start_point - x: -0.327 y: -0.474 z:  0.000 heading: -176
+2023-11-15 10:50:19|stop_point -  x: -0.327 y: -0.474 z:  0.000 heading: -128 - moved:  0.004 meters in 1.0s
+2023-11-15 10:50:20|start_point - x: -0.327 y: -0.474 z:  0.000 heading: -128
+2023-11-15 10:50:21|stop_point -  x: -0.327 y: -0.474 z:  0.000 heading:  -75 - moved:  0.004 meters in 1.0s
+2023-11-15 10:50:21|start_point - x: -0.327 y: -0.474 z:  0.000 heading:  -75
+2023-11-15 10:50:25|stop_point -  x: -0.233 y: -0.804 z:  0.000 heading:  -74 - moved:  0.343 meters in 3.8s
+2023-11-15 10:50:25|start_point - x: -0.233 y: -0.804 z:  0.000 heading:  -74
+2023-11-15 10:50:26|stop_point -  x: -0.233 y: -0.804 z:  0.000 heading: -112 - moved:  0.003 meters in 0.7s
+2023-11-15 10:50:27|start_point - x: -0.234 y: -0.805 z:  0.000 heading: -112
+2023-11-15 10:50:28|stop_point -  x: -0.267 y: -0.889 z:  0.000 heading: -112 - moved:  0.090 meters in 1.7s
+2023-11-15 10:50:29|start_point - x: -0.267 y: -0.889 z:  0.000 heading: -112
+2023-11-15 10:50:30|stop_point -  x: -0.268 y: -0.889 z:  0.000 heading: -173 - moved:  0.005 meters in 1.2s
+2023-11-15 10:50:31|start_point - x: -0.268 y: -0.889 z:  0.000 heading: -173
+2023-11-15 10:50:34|stop_point -  x: -0.462 y: -0.910 z:  0.000 heading: -174 - moved:  0.196 meters in 3.1s
+2023-11-15 10:50:34|start_point - x: -0.462 y: -0.910 z:  0.000 heading: -174
+2023-11-15 10:50:37|stop_point -  x: -0.463 y: -0.910 z:  0.000 heading:  -36 - moved:  0.009 meters in 2.6s
+2023-11-15 10:50:37|start_point - x: -0.463 y: -0.910 z:  0.000 heading:  -36
+2023-11-15 10:50:39|stop_point -  x: -0.359 y: -0.982 z:  0.000 heading:  -35 - moved:  0.125 meters in 2.1s
+2023-11-15 10:50:39|start_point - x: -0.359 y: -0.982 z:  0.000 heading:  -35
+2023-11-15 10:50:40|stop_point -  x: -0.350 y: -0.989 z:  0.000 heading:  -35 - moved:  0.010 meters in 0.2s
+2023-11-15 10:50:40|start_point - x: -0.349 y: -0.989 z:  0.000 heading:  -35
+2023-11-15 10:50:43|stop_point -  x: -0.349 y: -0.989 z:  0.000 heading:  111 - moved:  0.011 meters in 2.8s
+2023-11-15 10:50:44|start_point - x: -0.349 y: -0.989 z:  0.000 heading:  111
+2023-11-15 10:50:49|stop_point -  x: -0.482 y: -0.664 z:  0.000 heading:  112 - moved:  0.352 meters in 5.8s
+2023-11-15 10:50:50|start_point - x: -0.482 y: -0.664 z:  0.000 heading:  112
+2023-11-15 10:50:52|stop_point -  x: -0.482 y: -0.664 z:  0.000 heading:  -13 - moved:  0.007 meters in 2.3s
+2023-11-15 10:50:53|start_point - x: -0.482 y: -0.664 z:  0.000 heading:  -13
+2023-11-15 10:51:00|stop_point -  x:  0.028 y: -0.790 z:  0.000 heading:  -14 - moved:  0.526 meters in 7.2s
+2023-11-15 10:51:00|start_point - x:  0.028 y: -0.790 z:  0.000 heading:  -14
+2023-11-15 10:51:01|stop_point -  x:  0.028 y: -0.790 z:  0.000 heading:   34 - moved:  0.004 meters in 1.0s
+2023-11-15 10:51:02|start_point - x:  0.028 y: -0.790 z:  0.000 heading:   34
+2023-11-15 10:51:23|stop_point -  x:  1.506 y:  0.212 z:  0.000 heading:   35 - moved:  1.785 meters in 21.4s
+2023-11-15 10:51:24|start_point - x:  1.506 y:  0.212 z:  0.000 heading:   35
+2023-11-15 10:51:25|stop_point -  x:  1.506 y:  0.212 z:  0.000 heading:  -35 - moved:  0.004 meters in 1.4s
+2023-11-15 10:51:25|start_point - x:  1.506 y:  0.212 z:  0.000 heading:  -35
+2023-11-15 10:51:35|stop_point -  x:  2.221 y: -0.294 z:  0.000 heading:  -36 - moved:  0.876 meters in 9.8s
+2023-11-15 10:51:36|start_point - x:  2.221 y: -0.294 z:  0.000 heading:  -36
+2023-11-15 10:51:37|stop_point -  x:  2.221 y: -0.294 z:  0.000 heading:   16 - moved:  0.005 meters in 1.0s
+2023-11-15 10:51:37|start_point - x:  2.221 y: -0.294 z:  0.000 heading:   16
+2023-11-15 10:51:38|stop_point -  x:  2.221 y: -0.294 z:  0.000 heading:   64 - moved:  0.005 meters in 1.0s
+2023-11-15 10:51:39|start_point - x:  2.221 y: -0.294 z:  0.000 heading:   64
+2023-11-15 10:51:40|stop_point -  x:  2.221 y: -0.294 z:  0.000 heading:   94 - moved:  0.003 meters in 0.7s
+2023-11-15 10:51:40|start_point - x:  2.221 y: -0.294 z:  0.000 heading:   94
+2023-11-15 10:51:45|stop_point -  x:  2.197 y:  0.004 z:  0.000 heading:   95 - moved:  0.299 meters in 4.5s
+2023-11-15 10:51:45|start_point - x:  2.197 y:  0.004 z:  0.000 heading:   95
+2023-11-15 10:51:47|stop_point -  x:  2.198 y:  0.004 z:  0.000 heading: -145 - moved:  0.007 meters in 2.3s
+2023-11-15 10:51:48|start_point - x:  2.198 y:  0.004 z:  0.000 heading: -145
+2023-11-15 10:52:17|stop_point -  x:  0.029 y: -1.588 z:  0.000 heading: -144 - moved:  2.690 meters in 29.4s
+2023-11-15 10:52:18|start_point - x:  0.029 y: -1.588 z:  0.000 heading: -144
+2023-11-15 10:52:18|stop_point -  x:  0.029 y: -1.588 z:  0.000 heading: -118 - moved:  0.002 meters in 0.5s
+2023-11-15 10:52:19|start_point - x:  0.029 y: -1.588 z:  0.000 heading: -118
+2023-11-15 10:52:20|stop_point -  x:  0.029 y: -1.588 z:  0.000 heading:  -70 - moved:  0.003 meters in 1.0s
+2023-11-15 10:52:21|start_point - x:  0.029 y: -1.588 z:  0.000 heading:  -70
+2023-11-15 10:52:25|stop_point -  x:  0.123 y: -1.844 z:  0.000 heading:  -70 - moved:  0.272 meters in 4.4s
+2023-11-15 10:52:26|start_point - x:  0.123 y: -1.844 z:  0.000 heading:  -70
+2023-11-15 10:52:27|stop_point -  x:  0.124 y: -1.844 z:  0.000 heading:  -11 - moved:  0.005 meters in 1.2s
+2023-11-15 10:52:27|start_point - x:  0.124 y: -1.844 z:  0.000 heading:  -11
+2023-11-15 10:52:27|stop_point -  x:  0.123 y: -1.844 z:  0.000 heading:  -12 - moved:  0.000 meters in 0.1s
+2023-11-15 10:52:27|start_point - x:  0.123 y: -1.844 z:  0.000 heading:  -12
+2023-11-15 10:52:27|stop_point -  x:  0.124 y: -1.844 z:  0.000 heading:  -11 - moved:  0.001 meters in 0.1s
+2023-11-15 10:52:27|start_point - x:  0.124 y: -1.844 z:  0.000 heading:  -11
+2023-11-15 10:52:27|stop_point -  x:  0.123 y: -1.844 z:  0.000 heading:  -12 - moved:  0.000 meters in 0.1s
+2023-11-15 10:52:27|start_point - x:  0.123 y: -1.844 z:  0.000 heading:  -12
+2023-11-15 10:52:27|stop_point -  x:  0.124 y: -1.844 z:  0.000 heading:  -11 - moved:  0.000 meters in 0.1s
+2023-11-15 10:52:27|start_point - x:  0.124 y: -1.844 z:  0.000 heading:  -11
+2023-11-15 10:52:30|stop_point -  x:  0.261 y: -1.870 z:  0.000 heading:  -10 - moved:  0.138 meters in 2.4s
+2023-11-15 10:52:30|start_point - x:  0.261 y: -1.870 z:  0.000 heading:  -10
+2023-11-15 10:52:30|stop_point -  x:  0.260 y: -1.870 z:  0.000 heading:  -11 - moved:  0.000 meters in 0.1s
+2023-11-15 10:52:30|start_point - x:  0.260 y: -1.870 z:  0.000 heading:  -11
+2023-11-15 10:52:33|stop_point -  x:  0.261 y: -1.870 z:  0.000 heading:  140 - moved:  0.011 meters in 2.9s
+2023-11-15 10:52:34|start_point - x:  0.261 y: -1.870 z:  0.000 heading:  140
+2023-11-15 10:52:39|stop_point -  x: -0.012 y: -1.648 z:  0.000 heading:  141 - moved:  0.351 meters in 5.6s
+2023-11-15 10:52:39|start_point - x: -0.012 y: -1.648 z:  0.000 heading:  141
+2023-11-15 10:52:39|stop_point -  x: -0.020 y: -1.642 z:  0.000 heading:  141 - moved:  0.009 meters in 0.2s
+2023-11-15 10:52:40|start_point - x: -0.020 y: -1.642 z:  0.000 heading:  141
+2023-11-15 10:52:42|stop_point -  x: -0.019 y: -1.642 z:  0.000 heading:   17 - moved:  0.008 meters in 2.4s
+2023-11-15 10:52:43|start_point - x: -0.019 y: -1.642 z:  0.000 heading:   17
+2023-11-15 10:52:47|stop_point -  x:  0.297 y: -1.547 z:  0.000 heading:   17 - moved:  0.330 meters in 4.4s
+2023-11-15 10:52:48|start_point - x:  0.297 y: -1.547 z:  0.000 heading:   17
+2023-11-15 10:52:48|stop_point -  x:  0.298 y: -1.547 z:  0.000 heading:   54 - moved:  0.001 meters in 0.8s
+2023-11-15 10:52:49|start_point - x:  0.298 y: -1.547 z:  0.000 heading:   54
+2023-11-15 10:52:50|stop_point -  x:  0.357 y: -1.465 z:  0.000 heading:   54 - moved:  0.102 meters in 1.1s
+2023-11-15 10:58:38|start_point - x:  0.358 y: -1.464 z:  0.000 heading:   54
+2023-11-15 10:58:55|stop_point -  x:  1.310 y: -0.142 z:  0.000 heading:   54 - moved:  1.628 meters in 17.1s
+2023-11-15 10:58:55|start_point - x:  1.310 y: -0.142 z:  0.000 heading:   54
+2023-11-15 10:58:58|stop_point -  x:  1.452 y:  0.055 z:  0.000 heading:   54 - moved:  0.241 meters in 3.5s
+2023-11-15 10:58:59|start_point - x:  1.452 y:  0.055 z:  0.000 heading:   54
+2023-11-15 10:58:59|stop_point -  x:  1.452 y:  0.055 z:  0.000 heading:   78 - moved:  0.001 meters in 0.5s
+2023-11-15 10:59:00|start_point - x:  1.452 y:  0.055 z:  0.000 heading:   78
+2023-11-15 10:59:02|stop_point -  x:  1.477 y:  0.179 z:  0.000 heading:   79 - moved:  0.127 meters in 2.4s
+2023-11-15 10:59:03|start_point - x:  1.477 y:  0.179 z:  0.000 heading:   79
+2023-11-15 10:59:04|stop_point -  x:  1.477 y:  0.180 z:  0.000 heading:  156 - moved:  0.007 meters in 1.5s
+2023-11-15 10:59:05|start_point - x:  1.477 y:  0.180 z:  0.000 heading:  156
+2023-11-15 10:59:06|stop_point -  x:  1.431 y:  0.200 z:  0.000 heading:  157 - moved:  0.051 meters in 1.1s
+2023-11-15 10:59:06|start_point - x:  1.431 y:  0.200 z:  0.000 heading:  157
+2023-11-15 10:59:08|stop_point -  x:  1.430 y:  0.201 z:  0.000 heading: -115 - moved:  0.008 meters in 1.7s
+2023-11-15 10:59:09|start_point - x:  1.430 y:  0.201 z:  0.000 heading: -115
+2023-11-15 10:59:35|stop_point -  x:  0.472 y: -1.908 z:  0.000 heading: -115 - moved:  2.316 meters in 26.0s
+2023-11-15 10:59:35|start_point - x:  0.472 y: -1.908 z:  0.000 heading: -115
+2023-11-15 10:59:35|stop_point -  x:  0.472 y: -1.908 z:  0.000 heading: -114 - moved:  0.000 meters in 0.1s
+2023-11-15 10:59:35|start_point - x:  0.472 y: -1.908 z:  0.000 heading: -114
+2023-11-15 10:59:37|stop_point -  x:  0.472 y: -1.908 z:  0.000 heading:  -14 - moved:  0.005 meters in 1.9s
+2023-11-15 10:59:37|start_point - x:  0.472 y: -1.908 z:  0.000 heading:  -14
+2023-11-15 10:59:45|stop_point -  x:  1.113 y: -2.060 z:  0.000 heading:  -13 - moved:  0.658 meters in 7.8s
+2023-11-15 10:59:46|start_point - x:  1.113 y: -2.060 z:  0.000 heading:  -13
+2023-11-15 10:59:46|stop_point -  x:  1.113 y: -2.060 z:  0.000 heading:   19 - moved:  0.002 meters in 0.7s
+2023-11-15 10:59:47|start_point - x:  1.114 y: -2.059 z:  0.000 heading:   19
+2023-11-15 10:59:49|stop_point -  x:  1.222 y: -2.022 z:  0.000 heading:   19 - moved:  0.113 meters in 1.7s
+2023-11-15 10:59:49|start_point - x:  1.222 y: -2.022 z:  0.000 heading:   19
+2023-11-15 10:59:50|stop_point -  x:  1.222 y: -2.022 z:  0.000 heading:   70 - moved:  0.004 meters in 1.0s
+2023-11-15 10:59:51|start_point - x:  1.222 y: -2.022 z:  0.000 heading:   70
+2023-11-15 10:59:52|stop_point -  x:  1.222 y: -2.022 z:  0.000 heading:  118 - moved:  0.002 meters in 1.0s
+2023-11-15 10:59:52|start_point - x:  1.222 y: -2.022 z:  0.000 heading:  118
+2023-11-15 11:00:09|stop_point -  x:  0.476 y: -0.679 z:  0.000 heading:  119 - moved:  1.535 meters in 16.6s
+2023-11-15 11:00:09|start_point - x:  0.476 y: -0.679 z:  0.000 heading:  119
+2023-11-15 11:00:13|stop_point -  x:  0.365 y: -0.481 z:  0.000 heading:  119 - moved:  0.227 meters in 4.0s
+2023-11-15 11:00:13|start_point - x:  0.365 y: -0.481 z:  0.000 heading:  119
+2023-11-15 11:00:14|stop_point -  x:  0.366 y: -0.481 z:  0.000 heading:  100 - moved:  0.001 meters in 0.4s
+2023-11-15 11:00:14|start_point - x:  0.366 y: -0.481 z:  0.000 heading:  100
+2023-11-15 11:00:15|stop_point -  x:  0.366 y: -0.481 z:  0.000 heading:   49 - moved:  0.003 meters in 1.0s
+2023-11-15 11:00:16|start_point - x:  0.366 y: -0.480 z:  0.000 heading:   49
+2023-11-15 11:00:26|stop_point -  x:  0.942 y:  0.176 z:  0.000 heading:   49 - moved:  0.874 meters in 9.9s
+2023-11-15 11:00:26|start_point - x:  0.942 y:  0.176 z:  0.000 heading:   49
+2023-11-15 11:00:26|stop_point -  x:  0.942 y:  0.176 z:  0.000 heading:   49 - moved:  0.000 meters in 0.1s
+2023-11-15 11:00:26|start_point - x:  0.942 y:  0.176 z:  0.000 heading:   49
+2023-11-15 11:00:27|stop_point -  x:  0.942 y:  0.176 z:  0.000 heading:   79 - moved:  0.002 meters in 0.7s
+2023-11-15 11:00:28|start_point - x:  0.942 y:  0.176 z:  0.000 heading:   79
+2023-11-15 11:00:29|stop_point -  x:  0.951 y:  0.226 z:  0.000 heading:   79 - moved:  0.052 meters in 1.1s
+2023-11-15 11:00:29|start_point - x:  0.951 y:  0.226 z:  0.000 heading:   79
+2023-11-15 11:00:29|stop_point -  x:  0.951 y:  0.227 z:  0.000 heading:   79 - moved:  0.000 meters in 0.1s
+2023-11-15 11:00:29|start_point - x:  0.951 y:  0.227 z:  0.000 heading:   79
+2023-11-15 11:00:31|stop_point -  x:  0.951 y:  0.227 z:  0.000 heading: -170 - moved:  0.008 meters in 2.2s
+2023-11-15 11:00:32|start_point - x:  0.951 y:  0.227 z:  0.000 heading: -170
+2023-11-15 11:00:35|stop_point -  x:  0.723 y:  0.182 z:  0.000 heading: -169 - moved:  0.232 meters in 3.8s
+2023-11-15 11:00:36|start_point - x:  0.723 y:  0.182 z:  0.000 heading: -169
+2023-11-15 11:00:36|stop_point -  x:  0.723 y:  0.182 z:  0.000 heading: -138 - moved:  0.002 meters in 0.6s
+2023-11-15 11:00:37|start_point - x:  0.723 y:  0.182 z:  0.000 heading: -138
+2023-11-15 11:00:38|stop_point -  x:  0.723 y:  0.182 z:  0.000 heading:  -82 - moved:  0.003 meters in 1.1s
+2023-11-15 11:00:39|start_point - x:  0.723 y:  0.182 z:  0.000 heading:  -82
+2023-11-15 11:01:04|stop_point -  x:  1.043 y: -2.051 z:  0.000 heading:  -82 - moved:  2.255 meters in 24.6s
+2023-11-15 11:01:04|start_point - x:  1.043 y: -2.051 z:  0.000 heading:  -82
+2023-11-15 11:01:05|stop_point -  x:  1.043 y: -2.052 z:  0.000 heading:  -38 - moved:  0.003 meters in 0.9s
+2023-11-15 11:02:39|start_point - x:  1.043 y: -2.052 z:  0.000 heading:  -38
+2023-11-15 11:02:40|stop_point -  x:  1.043 y: -2.051 z:  0.000 heading:    8 - moved:  0.002 meters in 0.9s
+2023-11-15 11:02:41|start_point - x:  1.043 y: -2.051 z:  0.000 heading:    8
+2023-11-15 11:02:42|stop_point -  x:  1.144 y: -2.036 z:  0.000 heading:    8 - moved:  0.102 meters in 1.1s
+2023-11-15 11:02:42|start_point - x:  1.144 y: -2.036 z:  0.000 heading:    8
+2023-11-15 11:02:42|stop_point -  x:  1.144 y: -2.037 z:  0.000 heading:    9 - moved:  0.000 meters in 0.1s
+2023-11-15 11:02:42|start_point - x:  1.144 y: -2.037 z:  0.000 heading:    9
+2023-11-15 11:02:43|stop_point -  x:  1.144 y: -2.037 z:  0.000 heading:   47 - moved:  0.002 meters in 0.8s
+2023-11-15 11:02:44|start_point - x:  1.144 y: -2.036 z:  0.000 heading:   47
+2023-11-15 11:02:51|stop_point -  x:  1.561 y: -1.585 z:  0.000 heading:   47 - moved:  0.613 meters in 7.1s
+2023-11-15 11:02:51|start_point - x:  1.561 y: -1.585 z:  0.000 heading:   47
+2023-11-15 11:02:51|stop_point -  x:  1.561 y: -1.585 z:  0.000 heading:   47 - moved:  0.000 meters in 0.1s
+2023-11-15 11:02:51|start_point - x:  1.561 y: -1.585 z:  0.000 heading:   47
+2023-11-15 11:02:52|stop_point -  x:  1.561 y: -1.585 z:  0.000 heading:   77 - moved:  0.003 meters in 0.6s
+2023-11-15 11:02:53|start_point - x:  1.561 y: -1.585 z:  0.000 heading:   77
+2023-11-15 11:02:54|stop_point -  x:  1.575 y: -1.517 z:  0.000 heading:   78 - moved:  0.070 meters in 1.1s
+2023-11-15 11:02:54|start_point - x:  1.575 y: -1.517 z:  0.000 heading:   78
+2023-11-15 11:02:55|stop_point -  x:  1.575 y: -1.516 z:  0.000 heading:  112 - moved:  0.004 meters in 0.7s
+2023-11-15 11:02:55|start_point - x:  1.575 y: -1.516 z:  0.000 heading:  112
+2023-11-15 11:03:10|stop_point -  x:  1.048 y: -0.275 z:  0.000 heading:  113 - moved:  1.348 meters in 14.6s
+2023-11-15 11:03:10|start_point - x:  1.048 y: -0.275 z:  0.000 heading:  113
+2023-11-15 11:03:13|stop_point -  x:  1.048 y: -0.274 z:  0.000 heading: -123 - moved:  0.006 meters in 2.3s
+2023-11-15 11:03:13|start_point - x:  1.048 y: -0.274 z:  0.000 heading: -123
+2023-11-15 11:03:27|stop_point -  x:  0.382 y: -1.335 z:  0.000 heading: -122 - moved:  1.253 meters in 14.0s
+2023-11-15 11:03:28|start_point - x:  0.382 y: -1.335 z:  0.000 heading: -122
+2023-11-15 11:03:30|stop_point -  x:  0.382 y: -1.335 z:  0.000 heading:   18 - moved:  0.010 meters in 2.6s
+2023-11-15 11:03:31|start_point - x:  0.382 y: -1.335 z:  0.000 heading:   18
+2023-11-15 11:03:46|stop_point -  x:  1.708 y: -0.898 z:  0.000 heading:   18 - moved:  1.396 meters in 15.3s
+2023-11-15 11:03:46|start_point - x:  1.708 y: -0.898 z:  0.000 heading:   18
+2023-11-15 11:03:49|stop_point -  x:  1.708 y: -0.898 z:  0.000 heading:  158 - moved:  0.011 meters in 2.7s
+2023-11-15 11:03:50|start_point - x:  1.708 y: -0.898 z:  0.000 heading:  158
+2023-11-15 11:04:05|stop_point -  x:  0.495 y: -0.424 z:  0.000 heading:  159 - moved:  1.301 meters in 15.2s
+2023-11-15 11:04:05|start_point - x:  0.495 y: -0.424 z:  0.000 heading:  159
+2023-11-15 11:04:07|stop_point -  x:  0.495 y: -0.424 z:  0.000 heading: -120 - moved:  0.005 meters in 1.5s
+2023-11-15 11:04:07|start_point - x:  0.495 y: -0.424 z:  0.000 heading: -120
+2023-11-15 11:04:07|stop_point -  x:  0.495 y: -0.424 z:  0.000 heading: -120 - moved:  0.000 meters in 0.1s
+2023-11-15 11:04:07|start_point - x:  0.495 y: -0.424 z:  0.000 heading: -120
+2023-11-15 11:04:18|stop_point -  x:  0.043 y: -1.218 z:  0.000 heading: -120 - moved:  0.914 meters in 10.6s
+2023-11-15 11:04:18|start_point - x:  0.043 y: -1.218 z:  0.000 heading: -120
+2023-11-15 11:04:21|stop_point -  x:  0.043 y: -1.218 z:  0.000 heading:   20 - moved:  0.008 meters in 2.7s
+2023-11-15 11:04:22|start_point - x:  0.043 y: -1.218 z:  0.000 heading:   20
+2023-11-15 11:04:41|stop_point -  x:  1.714 y: -0.596 z:  0.000 heading:   20 - moved:  1.783 meters in 19.3s
+2023-11-15 11:04:41|start_point - x:  1.714 y: -0.596 z:  0.000 heading:   20
+2023-11-15 11:04:44|stop_point -  x:  1.714 y: -0.596 z:  0.000 heading: -112 - moved:  0.007 meters in 2.6s
+2023-11-15 11:04:44|start_point - x:  1.714 y: -0.596 z:  0.000 heading: -112
+2023-11-15 11:04:57|stop_point -  x:  1.266 y: -1.639 z:  0.000 heading: -113 - moved:  1.134 meters in 12.5s
+2023-11-15 11:04:57|start_point - x:  1.266 y: -1.639 z:  0.000 heading: -113
+2023-11-15 11:05:00|stop_point -  x:  1.266 y: -1.638 z:  0.000 heading:  124 - moved:  0.005 meters in 2.3s
+2023-11-15 11:05:00|start_point - x:  1.266 y: -1.638 z:  0.000 heading:  124
+2023-11-15 11:05:16|stop_point -  x:  0.453 y: -0.422 z:  0.000 heading:  124 - moved:  1.462 meters in 15.9s
+2023-11-15 11:05:17|start_point - x:  0.453 y: -0.422 z:  0.000 heading:  124
+2023-11-15 11:05:19|stop_point -  x:  0.453 y: -0.422 z:  0.000 heading:  -11 - moved:  0.008 meters in 2.6s
+2023-11-15 11:05:20|start_point - x:  0.453 y: -0.422 z:  0.000 heading:  -11
+2023-11-15 11:05:34|stop_point -  x:  1.628 y: -0.653 z:  0.000 heading:  -11 - moved:  1.197 meters in 14.6s
+2023-11-15 11:05:35|start_point - x:  1.628 y: -0.653 z:  0.000 heading:  -11
+2023-11-15 11:05:37|stop_point -  x:  1.628 y: -0.653 z:  0.000 heading: -109 - moved:  0.006 meters in 1.9s
+2023-11-15 11:05:37|start_point - x:  1.627 y: -0.653 z:  0.000 heading: -109
+2023-11-15 11:05:50|stop_point -  x:  1.256 y: -1.683 z:  0.000 heading: -110 - moved:  1.095 meters in 12.5s
+2023-11-15 11:05:50|start_point - x:  1.256 y: -1.683 z:  0.000 heading: -110
+2023-11-15 11:05:52|stop_point -  x:  1.256 y: -1.682 z:  0.000 heading:  129 - moved:  0.007 meters in 2.4s
+2023-11-15 11:05:53|start_point - x:  1.256 y: -1.682 z:  0.000 heading:  129
+2023-11-15 11:06:09|stop_point -  x:  0.357 y: -0.548 z:  0.000 heading:  128 - moved:  1.447 meters in 15.9s
+2023-11-15 11:06:09|start_point - x:  0.357 y: -0.548 z:  0.000 heading:  128
+2023-11-15 11:06:12|stop_point -  x:  0.357 y: -0.548 z:  0.000 heading:    3 - moved:  0.010 meters in 2.4s
+2023-11-15 11:06:12|start_point - x:  0.357 y: -0.548 z:  0.000 heading:    3
+2023-11-15 11:06:28|stop_point -  x:  1.672 y: -0.514 z:  0.000 heading:    1 - moved:  1.315 meters in 15.9s
+2023-11-15 11:06:28|start_point - x:  1.672 y: -0.514 z:  0.000 heading:    1
+2023-11-15 11:06:28|stop_point -  x:  1.672 y: -0.514 z:  0.000 heading:    1 - moved:  0.000 meters in 0.1s
+2023-11-15 11:06:29|start_point - x:  1.672 y: -0.514 z:  0.000 heading:    1
+2023-11-15 11:06:30|stop_point -  x:  1.672 y: -0.515 z:  0.000 heading:  -77 - moved:  0.005 meters in 1.5s
+2023-11-15 11:06:31|start_point - x:  1.672 y: -0.515 z:  0.000 heading:  -77
+2023-11-15 11:06:41|stop_point -  x:  1.850 y: -1.364 z:  0.000 heading:  -78 - moved:  0.868 meters in 9.8s
+2023-11-15 11:06:41|start_point - x:  1.850 y: -1.364 z:  0.000 heading:  -78
+2023-11-15 11:06:41|stop_point -  x:  1.850 y: -1.365 z:  0.000 heading:  -78 - moved:  0.001 meters in 0.1s
+2023-11-15 11:06:41|start_point - x:  1.850 y: -1.365 z:  0.000 heading:  -78
+2023-11-15 11:06:43|stop_point -  x:  1.850 y: -1.364 z:  0.000 heading:  151 - moved:  0.009 meters in 2.5s
+2023-11-15 11:06:44|start_point - x:  1.850 y: -1.364 z:  0.000 heading:  151
+2023-11-15 11:07:01|stop_point -  x:  0.448 y: -0.577 z:  0.000 heading:  151 - moved:  1.608 meters in 17.3s
+2023-11-15 11:07:02|start_point - x:  0.448 y: -0.577 z:  0.000 heading:  151
+2023-11-15 11:07:04|stop_point -  x:  0.448 y: -0.577 z:  0.000 heading:   24 - moved:  0.009 meters in 2.3s
+2023-11-15 11:07:05|start_point - x:  0.449 y: -0.576 z:  0.000 heading:   24
+2023-11-15 11:07:15|stop_point -  x:  1.237 y: -0.242 z:  0.000 heading:   23 - moved:  0.856 meters in 10.5s
+2023-11-15 11:07:16|start_point - x:  1.237 y: -0.242 z:  0.000 heading:   23
+2023-11-15 11:07:17|stop_point -  x:  1.237 y: -0.243 z:  0.000 heading:  -58 - moved:  0.005 meters in 1.5s
+2023-11-15 11:07:18|start_point - x:  1.237 y: -0.243 z:  0.000 heading:  -58
+2023-11-15 11:07:31|stop_point -  x:  1.869 y: -1.263 z:  0.000 heading:  -58 - moved:  1.200 meters in 13.2s
+2023-11-15 11:07:31|start_point - x:  1.869 y: -1.263 z:  0.000 heading:  -58
+2023-11-15 11:07:32|stop_point -  x:  1.870 y: -1.263 z:  0.000 heading:  -21 - moved:  0.003 meters in 0.7s
+2023-11-15 11:07:33|start_point - x:  1.870 y: -1.263 z:  0.000 heading:  -21
+2023-11-15 11:07:35|stop_point -  x:  1.870 y: -1.263 z:  0.000 heading:   77 - moved:  0.006 meters in 1.9s
+2023-11-15 11:07:35|start_point - x:  1.870 y: -1.263 z:  0.000 heading:   77
+2023-11-15 11:07:52|stop_point -  x:  2.163 y:  0.059 z:  0.000 heading:   77 - moved:  1.354 meters in 16.6s
+2023-11-15 11:07:52|start_point - x:  2.163 y:  0.059 z:  0.000 heading:   77
+2023-11-15 11:07:54|stop_point -  x:  2.163 y:  0.059 z:  0.000 heading:  178 - moved:  0.006 meters in 2.0s
+2023-11-15 11:07:55|start_point - x:  2.162 y:  0.059 z:  0.000 heading:  178
+2023-11-15 11:07:56|stop_point -  x:  2.071 y:  0.062 z:  0.000 heading:  179 - moved:  0.091 meters in 1.7s
+2023-11-15 11:07:57|start_point - x:  2.071 y:  0.062 z:  0.000 heading:  179
+2023-11-15 11:08:00|stop_point -  x:  2.071 y:  0.062 z:  0.000 heading:  -37 - moved:  0.009 meters in 2.7s
+2023-11-15 11:08:00|start_point - x:  2.071 y:  0.062 z:  0.000 heading:  -37
+2023-11-15 11:08:05|stop_point -  x:  2.290 y: -0.101 z:  0.000 heading:  -37 - moved:  0.272 meters in 4.4s
+2023-11-15 11:08:05|start_point - x:  2.290 y: -0.101 z:  0.000 heading:  -37
+2023-11-15 11:08:05|stop_point -  x:  2.290 y: -0.101 z:  0.000 heading:  -37 - moved:  0.000 meters in 0.1s
+2023-11-15 11:08:05|start_point - x:  2.290 y: -0.101 z:  0.000 heading:  -37
+2023-11-15 11:08:06|stop_point -  x:  2.290 y: -0.101 z:  0.000 heading:  -86 - moved:  0.003 meters in 1.0s
+2023-11-15 11:08:07|start_point - x:  2.290 y: -0.101 z:  0.000 heading:  -86
+2023-11-15 11:08:12|stop_point -  x:  2.309 y: -0.414 z:  0.000 heading:  -86 - moved:  0.314 meters in 5.1s
+2023-11-15 11:08:12|start_point - x:  2.309 y: -0.414 z:  0.000 heading:  -86
+2023-11-15 11:08:13|stop_point -  x:  2.309 y: -0.414 z:  0.000 heading: -134 - moved:  0.005 meters in 1.0s
+2023-11-15 11:08:14|start_point - x:  2.309 y: -0.415 z:  0.000 heading: -134
+2023-11-15 11:08:37|stop_point -  x:  0.780 y: -1.961 z:  0.000 heading: -134 - moved:  2.174 meters in 23.3s
+2023-11-15 11:08:37|start_point - x:  0.780 y: -1.961 z:  0.000 heading: -134
+2023-11-15 11:08:37|stop_point -  x:  0.780 y: -1.961 z:  0.000 heading: -135 - moved:  0.000 meters in 0.1s
+2023-11-15 11:08:37|start_point - x:  0.780 y: -1.961 z:  0.000 heading: -135
+2023-11-15 11:08:39|stop_point -  x:  0.780 y: -1.961 z:  0.000 heading:  -47 - moved:  0.005 meters in 1.7s
+2023-11-15 11:08:40|start_point - x:  0.780 y: -1.961 z:  0.000 heading:  -47
+2023-11-15 11:08:47|stop_point -  x:  1.174 y: -2.379 z:  0.000 heading:  -47 - moved:  0.574 meters in 7.1s
+2023-11-15 11:08:47|start_point - x:  1.174 y: -2.379 z:  0.000 heading:  -47
+2023-11-15 11:08:49|stop_point -  x:  1.174 y: -2.379 z:  0.000 heading:   72 - moved:  0.007 meters in 2.3s
+2023-11-15 11:08:50|start_point - x:  1.174 y: -2.379 z:  0.000 heading:   72
+2023-11-15 11:09:13|stop_point -  x:  1.822 y: -0.265 z:  0.000 heading:   73 - moved:  2.210 meters in 22.6s
+2023-11-15 11:09:13|start_point - x:  1.822 y: -0.265 z:  0.000 heading:   73
+2023-11-15 11:09:14|stop_point -  x:  1.822 y: -0.265 z:  0.000 heading:  116 - moved:  0.003 meters in 0.8s
+2023-11-15 11:09:15|start_point - x:  1.822 y: -0.265 z:  0.000 heading:  116
+2023-11-15 11:09:16|stop_point -  x:  1.822 y: -0.265 z:  0.000 heading:  170 - moved:  0.003 meters in 1.1s
+2023-11-15 11:09:16|start_point - x:  1.822 y: -0.265 z:  0.000 heading:  170
+2023-11-15 11:09:22|stop_point -  x:  1.397 y: -0.197 z:  0.000 heading:  171 - moved:  0.431 meters in 5.8s
+2023-11-15 11:09:23|start_point - x:  1.397 y: -0.197 z:  0.000 heading:  171
+2023-11-15 11:09:23|stop_point -  x:  1.397 y: -0.197 z:  0.000 heading: -147 - moved:  0.003 meters in 0.9s
+2023-11-15 11:09:24|start_point - x:  1.397 y: -0.197 z:  0.000 heading: -147
+2023-11-15 11:09:25|stop_point -  x:  1.397 y: -0.197 z:  0.000 heading:  -91 - moved:  0.004 meters in 1.2s
+2023-11-15 11:10:19|start_point - x:  1.397 y: -0.197 z:  0.000 heading:  -91
+2023-11-15 11:10:41|stop_point -  x:  1.403 y: -2.242 z:  0.000 heading:  -90 - moved:  2.045 meters in 21.7s
+2023-11-15 11:10:41|start_point - x:  1.403 y: -2.242 z:  0.000 heading:  -90
+2023-11-15 11:10:42|stop_point -  x:  1.403 y: -2.329 z:  0.000 heading:  -90 - moved:  0.087 meters in 1.7s
+2023-11-15 11:10:43|start_point - x:  1.403 y: -2.329 z:  0.000 heading:  -90
+2023-11-15 11:10:45|stop_point -  x:  1.403 y: -2.329 z:  0.000 heading:  179 - moved:  0.005 meters in 1.7s
+2023-11-15 11:10:45|start_point - x:  1.403 y: -2.329 z:  0.000 heading:  179
+2023-11-15 11:10:46|stop_point -  x:  1.403 y: -2.329 z:  0.000 heading:  167 - moved:  0.000 meters in 0.3s
+2023-11-15 11:10:46|start_point - x:  1.403 y: -2.329 z:  0.000 heading:  167
+2023-11-15 11:10:47|stop_point -  x:  1.355 y: -2.318 z:  0.000 heading:  166 - moved:  0.050 meters in 1.1s
+2023-11-15 11:10:48|start_point - x:  1.355 y: -2.318 z:  0.000 heading:  166
+2023-11-15 11:10:49|stop_point -  x:  1.355 y: -2.317 z:  0.000 heading:   85 - moved:  0.009 meters in 1.6s
+2023-11-15 11:10:50|start_point - x:  1.355 y: -2.317 z:  0.000 heading:   85
+2023-11-15 11:11:16|stop_point -  x:  1.559 y:  0.070 z:  0.000 heading:   85 - moved:  2.396 meters in 26.1s
+2023-11-15 11:11:16|start_point - x:  1.559 y:  0.070 z:  0.000 heading:   85
+2023-11-15 11:11:18|stop_point -  x:  1.559 y:  0.070 z:  0.000 heading: -172 - moved:  0.009 meters in 2.0s
+2023-11-15 11:11:19|start_point - x:  1.559 y:  0.070 z:  0.000 heading: -172
+2023-11-15 11:11:20|stop_point -  x:  1.459 y:  0.055 z:  0.000 heading: -171 - moved:  0.101 meters in 1.1s
+2023-11-15 11:11:20|start_point - x:  1.459 y:  0.055 z:  0.000 heading: -171
+2023-11-15 11:11:21|stop_point -  x:  1.459 y:  0.055 z:  0.000 heading: -147 - moved:  0.001 meters in 0.5s
+2023-11-15 11:11:22|start_point - x:  1.459 y:  0.055 z:  0.000 heading: -147
+2023-11-15 11:11:28|stop_point -  x:  0.939 y: -0.281 z:  0.000 heading: -147 - moved:  0.620 meters in 6.5s
+2023-11-15 11:11:28|start_point - x:  0.939 y: -0.281 z:  0.000 heading: -147
+2023-11-15 11:11:29|stop_point -  x:  0.939 y: -0.281 z:  0.000 heading: -103 - moved:  0.003 meters in 0.9s
+2023-11-15 11:11:30|start_point - x:  0.939 y: -0.281 z:  0.000 heading: -103
+2023-11-15 11:11:30|stop_point -  x:  0.934 y: -0.304 z:  0.000 heading: -102 - moved:  0.024 meters in 0.4s
+2023-11-15 11:11:31|start_point - x:  0.934 y: -0.304 z:  0.000 heading: -102
+2023-11-15 11:11:31|stop_point -  x:  0.934 y: -0.304 z:  0.000 heading:  -59 - moved:  0.002 meters in 0.8s
+2023-11-15 11:11:32|start_point - x:  0.934 y: -0.304 z:  0.000 heading:  -59
+2023-11-15 11:11:55|stop_point -  x:  1.992 y: -2.030 z:  0.000 heading:  -58 - moved:  2.023 meters in 22.7s
+2023-11-15 11:11:55|start_point - x:  1.992 y: -2.030 z:  0.000 heading:  -58
+2023-11-15 11:11:55|stop_point -  x:  1.992 y: -2.031 z:  0.000 heading:  -58 - moved:  0.000 meters in 0.1s
+2023-11-15 11:11:55|start_point - x:  1.992 y: -2.031 z:  0.000 heading:  -58
+2023-11-15 11:11:56|stop_point -  x:  1.992 y: -2.031 z:  0.000 heading:  -22 - moved:  0.002 meters in 0.7s
+2023-11-15 11:11:56|start_point - x:  1.992 y: -2.031 z:  0.000 heading:  -22
+2023-11-15 11:11:56|stop_point -  x:  1.992 y: -2.031 z:  0.000 heading:  -21 - moved:  0.000 meters in 0.1s
+2023-11-15 11:11:57|start_point - x:  1.992 y: -2.031 z:  0.000 heading:  -21
+2023-11-15 11:12:00|stop_point -  x:  2.212 y: -2.116 z:  0.000 heading:  -21 - moved:  0.236 meters in 3.8s
+2023-11-15 11:12:01|start_point - x:  2.212 y: -2.116 z:  0.000 heading:  -21
+2023-11-15 11:12:01|stop_point -  x:  2.213 y: -2.116 z:  0.000 heading:  -46 - moved:  0.002 meters in 0.5s
+2023-11-15 11:12:02|start_point - x:  2.213 y: -2.116 z:  0.000 heading:  -46
+2023-11-15 11:12:03|stop_point -  x:  2.213 y: -2.116 z:  0.000 heading:  -84 - moved:  0.003 meters in 0.9s
+2023-11-15 11:12:03|start_point - x:  2.213 y: -2.116 z:  0.000 heading:  -84
+2023-11-15 11:12:05|stop_point -  x:  2.212 y: -2.116 z:  0.000 heading: -142 - moved:  0.004 meters in 1.2s
+2023-11-15 11:12:05|start_point - x:  2.212 y: -2.116 z:  0.000 heading: -142
+2023-11-15 11:12:06|stop_point -  x:  2.212 y: -2.116 z:  0.000 heading: -173 - moved:  0.002 meters in 0.7s
+2023-11-15 11:12:07|start_point - x:  2.212 y: -2.116 z:  0.000 heading: -173
+2023-11-15 11:12:08|stop_point -  x:  2.160 y: -2.122 z:  0.000 heading: -174 - moved:  0.053 meters in 1.1s
+2023-11-15 11:12:08|start_point - x:  2.160 y: -2.122 z:  0.000 heading: -174
+2023-11-15 11:12:09|stop_point -  x:  2.160 y: -2.122 z:  0.000 heading:  123 - moved:  0.004 meters in 1.3s
+2023-11-15 11:12:10|start_point - x:  2.160 y: -2.122 z:  0.000 heading:  123
+2023-11-15 11:12:36|stop_point -  x:  0.884 y: -0.009 z:  0.000 heading:  121 - moved:  2.468 meters in 26.1s
+2023-11-15 11:12:36|start_point - x:  0.884 y: -0.009 z:  0.000 heading:  121
+2023-11-15 11:12:39|stop_point -  x:  0.884 y: -0.009 z:  0.000 heading:  -25 - moved:  0.008 meters in 2.8s
+2023-11-15 11:12:40|start_point - x:  0.884 y: -0.009 z:  0.000 heading:  -25
+2023-11-15 11:12:50|stop_point -  x:  1.550 y: -0.338 z:  0.000 heading:  -26 - moved:  0.743 meters in 10.5s
+2023-11-15 11:12:51|start_point - x:  1.550 y: -0.338 z:  0.000 heading:  -26
+2023-11-15 11:12:51|stop_point -  x:  1.551 y: -0.338 z:  0.000 heading:  -53 - moved:  0.001 meters in 0.6s
+2023-11-15 11:12:52|start_point - x:  1.551 y: -0.339 z:  0.000 heading:  -53
+2023-11-15 11:13:00|stop_point -  x:  2.033 y: -1.002 z:  0.000 heading:  -54 - moved:  0.819 meters in 8.3s
+2023-11-15 11:13:00|start_point - x:  2.033 y: -1.002 z:  0.000 heading:  -54
+2023-11-15 11:13:06|stop_point -  x:  2.348 y: -1.436 z:  0.000 heading:  -54 - moved:  0.535 meters in 5.5s
+2023-11-15 11:13:06|start_point - x:  2.348 y: -1.436 z:  0.000 heading:  -54
+2023-11-15 11:13:12|stop_point -  x:  2.620 y: -1.810 z:  0.000 heading:  -54 - moved:  0.461 meters in 6.6s
+2023-11-15 11:13:12|start_point - x:  2.620 y: -1.810 z:  0.000 heading:  -54
+2023-11-15 11:13:12|stop_point -  x:  2.626 y: -1.819 z:  0.000 heading:  -54 - moved:  0.010 meters in 0.2s
+2023-11-15 11:13:12|start_point - x:  2.626 y: -1.819 z:  0.000 heading:  -54
+2023-11-15 11:13:13|stop_point -  x:  2.626 y: -1.819 z:  0.000 heading:  -54 - moved:  0.000 meters in 0.1s
+2023-11-15 11:13:13|start_point - x:  2.626 y: -1.819 z:  0.000 heading:  -54
+2023-11-15 11:13:15|stop_point -  x:  2.626 y: -1.819 z:  0.000 heading:   77 - moved:  0.010 meters in 2.5s
+2023-11-15 11:13:15|start_point - x:  2.626 y: -1.819 z:  0.000 heading:   77
+2023-11-15 11:13:15|stop_point -  x:  2.626 y: -1.819 z:  0.000 heading:   78 - moved:  0.000 meters in 0.1s
+2023-11-15 11:13:16|start_point - x:  2.626 y: -1.819 z:  0.000 heading:   78
+2023-11-15 11:13:18|stop_point -  x:  2.644 y: -1.733 z:  0.000 heading:   78 - moved:  0.088 meters in 1.8s
+2023-11-15 11:13:18|start_point - x:  2.644 y: -1.733 z:  0.000 heading:   78
+2023-11-15 11:13:19|stop_point -  x:  2.644 y: -1.733 z:  0.000 heading:  106 - moved:  0.002 meters in 0.6s
+2023-11-15 11:13:20|start_point - x:  2.644 y: -1.733 z:  0.000 heading:  106
+2023-11-15 11:13:20|stop_point -  x:  2.645 y: -1.734 z:  0.000 heading:  160 - moved:  0.004 meters in 1.0s
+2023-11-15 11:13:21|start_point - x:  2.644 y: -1.733 z:  0.000 heading:  160
+2023-11-15 11:13:46|stop_point -  x:  0.378 y: -0.933 z:  0.000 heading:  160 - moved:  2.403 meters in 25.4s
+2023-11-15 11:13:47|start_point - x:  0.378 y: -0.933 z:  0.000 heading:  160
+2023-11-15 11:13:47|stop_point -  x:  0.378 y: -0.933 z:  0.000 heading: -168 - moved:  0.002 meters in 0.6s
+2023-11-15 11:13:48|start_point - x:  0.378 y: -0.933 z:  0.000 heading: -168
+2023-11-15 11:13:48|stop_point -  x:  0.366 y: -0.935 z:  0.000 heading: -168 - moved:  0.012 meters in 0.4s
+2023-11-15 11:13:49|start_point - x:  0.366 y: -0.935 z:  0.000 heading: -168
+2023-11-15 11:13:50|stop_point -  x:  0.365 y: -0.935 z:  0.000 heading: -113 - moved:  0.004 meters in 1.1s
+2023-11-15 11:13:51|start_point - x:  0.365 y: -0.935 z:  0.000 heading: -113
+2023-11-15 11:13:52|stop_point -  x:  0.365 y: -0.935 z:  0.000 heading:  -62 - moved:  0.002 meters in 1.0s
+2023-11-15 11:13:52|start_point - x:  0.365 y: -0.935 z:  0.000 heading:  -62
+2023-11-15 11:13:52|stop_point -  x:  0.365 y: -0.935 z:  0.000 heading:  -61 - moved:  0.000 meters in 0.1s
+2023-11-15 11:13:52|start_point - x:  0.365 y: -0.935 z:  0.000 heading:  -61
+2023-11-15 11:14:06|stop_point -  x:  0.900 y: -1.888 z:  0.000 heading:  -61 - moved:  1.093 meters in 13.9s
+2023-11-15 11:14:07|start_point - x:  0.900 y: -1.888 z:  0.000 heading:  -61
+2023-11-15 11:14:08|stop_point -  x:  0.900 y: -1.889 z:  0.000 heading:   -4 - moved:  0.003 meters in 1.1s
+2023-11-15 11:14:08|start_point - x:  0.900 y: -1.889 z:  0.000 heading:   -4
+2023-11-15 11:14:19|stop_point -  x:  1.856 y: -1.947 z:  0.000 heading:   -3 - moved:  0.957 meters in 10.5s
+2023-11-15 11:14:19|start_point - x:  1.856 y: -1.947 z:  0.000 heading:   -3
+2023-11-15 11:14:19|stop_point -  x:  1.856 y: -1.947 z:  0.000 heading:   -3 - moved:  0.001 meters in 0.1s
+2023-11-15 11:14:19|start_point - x:  1.856 y: -1.947 z:  0.000 heading:   -3
+2023-11-15 11:14:21|stop_point -  x:  1.856 y: -1.947 z:  0.000 heading:  111 - moved:  0.010 meters in 2.2s
+2023-11-15 11:14:22|start_point - x:  1.856 y: -1.947 z:  0.000 heading:  111
+2023-11-15 11:14:36|stop_point -  x:  1.395 y: -0.758 z:  0.000 heading:  111 - moved:  1.275 meters in 13.9s
+2023-11-15 11:14:36|start_point - x:  1.395 y: -0.758 z:  0.000 heading:  111
+2023-11-15 11:14:39|stop_point -  x:  1.394 y: -0.758 z:  0.000 heading: -117 - moved:  0.009 meters in 2.4s
+2023-11-15 11:14:39|start_point - x:  1.394 y: -0.758 z:  0.000 heading: -117
+2023-11-15 11:14:39|stop_point -  x:  1.394 y: -0.758 z:  0.000 heading: -118 - moved:  0.000 meters in 0.1s
+2023-11-15 11:14:39|start_point - x:  1.394 y: -0.759 z:  0.000 heading: -118
+2023-11-15 11:14:54|stop_point -  x:  0.771 y: -1.988 z:  0.000 heading: -117 - moved:  1.378 meters in 15.2s
+2023-11-15 11:14:55|start_point - x:  0.771 y: -1.988 z:  0.000 heading: -117
+2023-11-15 11:14:57|stop_point -  x:  0.771 y: -1.988 z:  0.000 heading:  104 - moved:  0.006 meters in 2.7s
+2023-11-15 11:14:58|start_point - x:  0.771 y: -1.988 z:  0.000 heading:  104
+2023-11-15 11:15:09|stop_point -  x:  0.535 y: -1.049 z:  0.000 heading:  104 - moved:  0.968 meters in 11.2s
+2023-11-15 11:15:10|start_point - x:  0.535 y: -1.049 z:  0.000 heading:  104
+2023-11-15 11:15:12|stop_point -  x:  0.535 y: -1.049 z:  0.000 heading:  -22 - moved:  0.006 meters in 2.4s
+2023-11-15 11:15:13|start_point - x:  0.535 y: -1.049 z:  0.000 heading:  -22
+2023-11-15 11:15:30|stop_point -  x:  2.021 y: -1.661 z:  0.000 heading:  -22 - moved:  1.607 meters in 17.3s
+2023-11-15 11:15:30|start_point - x:  2.021 y: -1.661 z:  0.000 heading:  -22
+2023-11-15 11:15:32|stop_point -  x:  2.022 y: -1.661 z:  0.000 heading: -126 - moved:  0.005 meters in 2.0s
+2023-11-15 11:15:33|start_point - x:  2.021 y: -1.661 z:  0.000 heading: -126
+2023-11-15 11:15:41|stop_point -  x:  1.645 y: -2.158 z:  0.000 heading: -127 - moved:  0.622 meters in 7.7s
+2023-11-15 11:15:41|start_point - x:  1.644 y: -2.159 z:  0.000 heading: -127
+2023-11-15 11:15:43|stop_point -  x:  1.644 y: -2.159 z:  0.000 heading:  109 - moved:  0.010 meters in 2.3s
+2023-11-15 11:15:44|start_point - x:  1.644 y: -2.159 z:  0.000 heading:  109
+2023-11-15 11:16:01|stop_point -  x:  1.157 y: -0.649 z:  0.000 heading:  108 - moved:  1.586 meters in 17.3s
+2023-11-15 11:16:02|start_point - x:  1.157 y: -0.649 z:  0.000 heading:  108
+2023-11-15 11:16:04|stop_point -  x:  1.156 y: -0.649 z:  0.000 heading:  -21 - moved:  0.007 meters in 2.4s
+2023-11-15 11:16:05|start_point - x:  1.156 y: -0.649 z:  0.000 heading:  -21
+2023-11-15 11:16:17|stop_point -  x:  2.139 y: -1.048 z:  0.000 heading:  -22 - moved:  1.061 meters in 11.9s
+2023-11-15 11:16:17|start_point - x:  2.139 y: -1.048 z:  0.000 heading:  -22
+2023-11-15 11:16:19|stop_point -  x:  2.139 y: -1.048 z:  0.000 heading: -143 - moved:  0.008 meters in 2.3s
+2023-11-15 11:16:20|start_point - x:  2.138 y: -1.048 z:  0.000 heading: -143
+2023-11-15 11:16:41|stop_point -  x:  0.489 y: -2.234 z:  0.000 heading: -144 - moved:  2.031 meters in 21.1s
+2023-11-15 11:16:41|start_point - x:  0.489 y: -2.234 z:  0.000 heading: -144
+2023-11-15 11:16:41|stop_point -  x:  0.481 y: -2.240 z:  0.000 heading: -144 - moved:  0.009 meters in 0.2s
+2023-11-15 11:16:42|start_point - x:  0.481 y: -2.240 z:  0.000 heading: -144
+2023-11-15 11:16:44|stop_point -  x:  0.481 y: -2.240 z:  0.000 heading:  -37 - moved:  0.007 meters in 2.0s
+2023-11-15 11:16:44|start_point - x:  0.481 y: -2.240 z:  0.000 heading:  -37
+2023-11-15 11:16:44|stop_point -  x:  0.481 y: -2.240 z:  0.000 heading:  -37 - moved:  0.000 meters in 0.1s
+2023-11-15 11:16:44|start_point - x:  0.481 y: -2.240 z:  0.000 heading:  -37
+2023-11-15 11:16:48|stop_point -  x:  0.785 y: -2.469 z:  0.000 heading:  -37 - moved:  0.380 meters in 4.2s
+2023-11-15 11:16:49|start_point - x:  0.788 y: -2.472 z:  0.000 heading:  -37
+2023-11-15 11:16:49|stop_point -  x:  0.792 y: -2.475 z:  0.000 heading:  -37 - moved:  0.006 meters in 0.2s
+2023-11-15 11:16:49|start_point - x:  0.792 y: -2.475 z:  0.000 heading:  -37
+2023-11-15 11:16:50|stop_point -  x:  0.792 y: -2.475 z:  0.000 heading:  -90 - moved:  0.004 meters in 1.1s
+2023-11-15 11:16:51|start_point - x:  0.792 y: -2.475 z:  0.000 heading:  -90
+2023-11-15 11:16:52|stop_point -  x:  0.792 y: -2.475 z:  0.000 heading: -143 - moved:  0.002 meters in 1.0s
+2023-11-15 11:16:53|start_point - x:  0.792 y: -2.475 z:  0.000 heading: -143
+2023-11-15 11:16:57|stop_point -  x:  0.555 y: -2.648 z:  0.000 heading: -144 - moved:  0.293 meters in 4.4s
+2023-11-15 11:16:57|start_point - x:  0.554 y: -2.648 z:  0.000 heading: -144
+2023-11-15 11:17:00|stop_point -  x:  0.554 y: -2.649 z:  0.000 heading:   60 - moved:  0.011 meters in 3.0s
+2023-11-15 11:17:01|start_point - x:  0.554 y: -2.649 z:  0.000 heading:   60
+2023-11-15 11:17:20|stop_point -  x:  1.386 y: -1.261 z:  0.000 heading:   59 - moved:  1.617 meters in 19.6s
+2023-11-15 11:17:21|start_point - x:  1.386 y: -1.261 z:  0.000 heading:   59
+2023-11-15 11:17:21|stop_point -  x:  1.396 y: -1.245 z:  0.000 heading:   59 - moved:  0.018 meters in 0.4s
+2023-11-15 11:17:21|start_point - x:  1.396 y: -1.245 z:  0.000 heading:   59
+2023-11-15 11:17:23|stop_point -  x:  1.396 y: -1.245 z:  0.000 heading:  -11 - moved:  0.006 meters in 1.4s
+2023-11-15 11:17:23|start_point - x:  1.396 y: -1.245 z:  0.000 heading:  -11
+2023-11-15 11:17:36|stop_point -  x:  2.575 y: -1.487 z:  0.000 heading:  -12 - moved:  1.203 meters in 13.2s
+2023-11-15 11:17:37|start_point - x:  2.575 y: -1.487 z:  0.000 heading:  -12
+2023-11-15 11:17:38|stop_point -  x:  2.575 y: -1.487 z:  0.000 heading:   31 - moved:  0.001 meters in 0.9s
+2023-11-15 11:17:38|start_point - x:  2.575 y: -1.487 z:  0.000 heading:   31
+2023-11-15 11:17:38|stop_point -  x:  2.575 y: -1.487 z:  0.000 heading:   31 - moved:  0.000 meters in 0.1s
+2023-11-15 11:17:39|start_point - x:  2.575 y: -1.487 z:  0.000 heading:   31
+2023-11-15 11:17:41|stop_point -  x:  2.575 y: -1.488 z:  0.000 heading:  146 - moved:  0.007 meters in 2.2s
+2023-11-15 11:17:41|start_point - x:  2.575 y: -1.488 z:  0.000 heading:  146
+2023-11-15 11:17:47|stop_point -  x:  2.109 y: -1.181 z:  0.000 heading:  147 - moved:  0.557 meters in 5.6s
+2023-11-15 11:17:47|start_point - x:  2.109 y: -1.181 z:  0.000 heading:  147
+2023-11-15 11:17:52|stop_point -  x:  1.793 y: -0.972 z:  0.000 heading:  147 - moved:  0.378 meters in 4.9s
+2023-11-15 11:17:52|start_point - x:  1.793 y: -0.972 z:  0.000 heading:  147
+2023-11-15 11:17:55|stop_point -  x:  1.792 y: -0.972 z:  0.000 heading:  -76 - moved:  0.011 meters in 2.6s
+2023-11-15 11:17:55|start_point - x:  1.792 y: -0.972 z:  0.000 heading:  -76
+2023-11-15 11:18:13|stop_point -  x:  2.205 y: -2.528 z:  0.000 heading:  -75 - moved:  1.609 meters in 17.2s
+2023-11-15 11:18:13|start_point - x:  2.205 y: -2.528 z:  0.000 heading:  -75
+2023-11-15 11:18:14|stop_point -  x:  2.205 y: -2.528 z:  0.000 heading: -105 - moved:  0.003 meters in 0.6s
+2023-11-15 11:18:14|start_point - x:  2.205 y: -2.528 z:  0.000 heading: -105
+2023-11-15 11:18:14|stop_point -  x:  2.205 y: -2.529 z:  0.000 heading: -106 - moved:  0.000 meters in 0.1s
+2023-11-15 11:18:14|start_point - x:  2.205 y: -2.529 z:  0.000 heading: -106
+2023-11-15 11:18:15|stop_point -  x:  2.204 y: -2.529 z:  0.000 heading: -163 - moved:  0.003 meters in 1.1s
+2023-11-15 11:18:16|start_point - x:  2.204 y: -2.529 z:  0.000 heading: -163
+2023-11-15 11:18:17|stop_point -  x:  2.205 y: -2.529 z:  0.000 heading:  144 - moved:  0.003 meters in 1.0s
+2023-11-15 11:18:18|start_point - x:  2.205 y: -2.529 z:  0.000 heading:  144
+2023-11-15 11:18:30|stop_point -  x:  1.282 y: -1.849 z:  0.000 heading:  143 - moved:  1.146 meters in 12.5s
+2023-11-15 11:18:31|start_point - x:  1.282 y: -1.849 z:  0.000 heading:  143
+2023-11-15 11:18:33|stop_point -  x:  1.282 y: -1.849 z:  0.000 heading:   11 - moved:  0.004 meters in 2.5s
+2023-11-15 11:18:34|start_point - x:  1.282 y: -1.849 z:  0.000 heading:   11
+2023-11-15 11:18:50|stop_point -  x:  2.783 y: -1.562 z:  0.000 heading:   11 - moved:  1.528 meters in 16.4s
+2023-11-15 11:18:50|start_point - x:  2.783 y: -1.562 z:  0.000 heading:   11
+2023-11-15 11:18:50|stop_point -  x:  2.789 y: -1.561 z:  0.000 heading:   11 - moved:  0.005 meters in 0.1s
+2023-11-15 11:18:51|start_point - x:  2.789 y: -1.561 z:  0.000 heading:   11
+2023-11-15 11:18:53|stop_point -  x:  2.789 y: -1.560 z:  0.000 heading: -107 - moved:  0.008 meters in 2.3s
+2023-11-15 11:18:54|start_point - x:  2.789 y: -1.560 z:  0.000 heading: -107
+2023-11-15 11:19:05|stop_point -  x:  2.527 y: -2.406 z:  0.000 heading: -108 - moved:  0.885 meters in 11.2s
+2023-11-15 11:19:05|start_point - x:  2.527 y: -2.406 z:  0.000 heading: -108
+2023-11-15 11:19:07|stop_point -  x:  2.527 y: -2.406 z:  0.000 heading:  160 - moved:  0.006 meters in 1.8s
+2023-11-15 11:19:08|start_point - x:  2.526 y: -2.405 z:  0.000 heading:  160
+2023-11-15 11:19:21|stop_point -  x:  1.353 y: -1.972 z:  0.000 heading:  160 - moved:  1.250 meters in 13.8s
+2023-11-15 11:19:21|start_point - x:  1.353 y: -1.972 z:  0.000 heading:  160
+2023-11-15 11:19:22|stop_point -  x:  1.353 y: -1.972 z:  0.000 heading:  160 - moved:  0.000 meters in 0.1s
+2023-11-15 11:19:22|start_point - x:  1.353 y: -1.972 z:  0.000 heading:  160
+2023-11-15 11:19:24|stop_point -  x:  1.353 y: -1.971 z:  0.000 heading:   30 - moved:  0.010 meters in 2.5s
+2023-11-15 11:19:25|start_point - x:  1.354 y: -1.971 z:  0.000 heading:   30
+2023-11-15 11:19:40|stop_point -  x:  2.569 y: -1.277 z:  0.000 heading:   30 - moved:  1.399 meters in 15.2s
+2023-11-15 11:19:41|start_point - x:  2.569 y: -1.277 z:  0.000 heading:   30
+2023-11-15 11:19:43|stop_point -  x:  2.569 y: -1.277 z:  0.000 heading: -102 - moved:  0.009 meters in 2.5s
+2023-11-15 11:19:44|start_point - x:  2.569 y: -1.277 z:  0.000 heading: -102
+2023-11-15 11:19:58|stop_point -  x:  2.301 y: -2.477 z:  0.000 heading: -103 - moved:  1.228 meters in 14.5s
+2023-11-15 11:19:59|start_point - x:  2.301 y: -2.477 z:  0.000 heading: -103
+2023-11-15 11:20:00|stop_point -  x:  2.301 y: -2.476 z:  0.000 heading:  164 - moved:  0.006 meters in 1.8s
+2023-11-15 11:20:01|start_point - x:  2.301 y: -2.476 z:  0.000 heading:  164
+2023-11-15 11:20:12|stop_point -  x:  1.336 y: -2.180 z:  0.000 heading:  163 - moved:  1.010 meters in 11.2s
+2023-11-15 11:20:13|start_point - x:  1.336 y: -2.180 z:  0.000 heading:  163
+2023-11-15 11:20:14|stop_point -  x:  1.336 y: -2.180 z:  0.000 heading:   89 - moved:  0.005 meters in 1.4s
+2023-11-15 11:20:14|start_point - x:  1.336 y: -2.180 z:  0.000 heading:   89
+2023-11-15 11:20:15|stop_point -  x:  1.335 y: -2.180 z:  0.000 heading:   40 - moved:  0.001 meters in 0.9s
+2023-11-15 11:20:15|start_point - x:  1.335 y: -2.180 z:  0.000 heading:   40
+2023-11-15 11:20:31|stop_point -  x:  2.432 y: -1.293 z:  0.000 heading:   39 - moved:  1.410 meters in 15.2s
+2023-11-15 11:20:31|start_point - x:  2.432 y: -1.293 z:  0.000 heading:   39
+2023-11-15 11:20:32|stop_point -  x:  2.433 y: -1.293 z:  0.000 heading:   11 - moved:  0.003 meters in 0.6s
+2023-11-15 11:20:32|start_point - x:  2.433 y: -1.293 z:  0.000 heading:   11
+2023-11-15 11:20:33|stop_point -  x:  2.432 y: -1.293 z:  0.000 heading:  -38 - moved:  0.003 meters in 1.0s
+2023-11-15 11:20:34|start_point - x:  2.432 y: -1.293 z:  0.000 heading:  -38
+2023-11-15 11:20:35|stop_point -  x:  2.432 y: -1.293 z:  0.000 heading:  -90 - moved:  0.004 meters in 1.1s
+2023-11-15 11:20:36|start_point - x:  2.432 y: -1.294 z:  0.000 heading:  -90
+2023-11-15 11:20:48|stop_point -  x:  2.417 y: -2.369 z:  0.000 heading:  -91 - moved:  1.075 meters in 12.5s
+2023-11-15 11:20:49|start_point - x:  2.417 y: -2.369 z:  0.000 heading:  -91
+2023-11-15 11:20:51|stop_point -  x:  2.417 y: -2.369 z:  0.000 heading:  166 - moved:  0.007 meters in 1.9s
+2023-11-15 11:20:51|start_point - x:  2.416 y: -2.369 z:  0.000 heading:  166
+2023-11-15 11:21:04|stop_point -  x:  1.257 y: -2.067 z:  0.000 heading:  166 - moved:  1.198 meters in 13.2s
+2023-11-15 11:21:05|start_point - x:  1.257 y: -2.067 z:  0.000 heading:  166
+2023-11-15 11:21:07|stop_point -  x:  1.257 y: -2.067 z:  0.000 heading:   35 - moved:  0.007 meters in 2.4s
+2023-11-15 11:21:08|start_point - x:  1.257 y: -2.067 z:  0.000 heading:   35
+2023-11-15 11:21:24|stop_point -  x:  2.470 y: -1.255 z:  0.000 heading:   34 - moved:  1.460 meters in 16.0s
+2023-11-15 11:21:24|start_point - x:  2.470 y: -1.255 z:  0.000 heading:   34
+2023-11-15 11:21:27|stop_point -  x:  2.470 y: -1.255 z:  0.000 heading:  -99 - moved:  0.007 meters in 2.5s
+2023-11-15 11:21:27|start_point - x:  2.470 y: -1.255 z:  0.000 heading:  -99
+2023-11-15 11:21:45|stop_point -  x:  2.209 y: -2.770 z:  0.000 heading: -100 - moved:  1.538 meters in 17.3s
+2023-11-15 11:21:45|start_point - x:  2.209 y: -2.770 z:  0.000 heading: -100
+2023-11-15 11:21:46|stop_point -  x:  2.209 y: -2.770 z:  0.000 heading: -127 - moved:  0.003 meters in 0.7s
+2023-11-15 11:21:46|start_point - x:  2.209 y: -2.770 z:  0.000 heading: -127
+2023-11-15 11:21:51|stop_point -  x:  1.962 y: -3.082 z:  0.000 heading: -128 - moved:  0.398 meters in 5.1s
+2023-11-15 11:21:52|start_point - x:  1.962 y: -3.082 z:  0.000 heading: -128
+2023-11-15 11:21:52|stop_point -  x:  1.962 y: -3.082 z:  0.000 heading:  -97 - moved:  0.004 meters in 0.6s
+2023-11-15 11:21:53|start_point - x:  1.962 y: -3.082 z:  0.000 heading:  -97
+2023-11-15 11:21:54|stop_point -  x:  1.962 y: -3.082 z:  0.000 heading:  -46 - moved:  0.003 meters in 1.0s
+2023-11-15 11:21:55|start_point - x:  1.962 y: -3.082 z:  0.000 heading:  -46
+2023-11-15 11:21:56|stop_point -  x:  1.962 y: -3.082 z:  0.000 heading:    5 - moved:  0.005 meters in 1.0s
+2023-11-15 11:21:56|start_point - x:  1.962 y: -3.082 z:  0.000 heading:    5
+2023-11-15 11:22:00|stop_point -  x:  2.307 y: -3.047 z:  0.000 heading:    6 - moved:  0.347 meters in 3.8s
+2023-11-15 11:22:01|start_point - x:  2.307 y: -3.047 z:  0.000 heading:    6
+2023-11-15 11:22:01|stop_point -  x:  2.307 y: -3.047 z:  0.000 heading:  -32 - moved:  0.003 meters in 0.8s
+2023-11-15 11:22:02|start_point - x:  2.307 y: -3.047 z:  0.000 heading:  -32
+2023-11-15 11:22:03|stop_point -  x:  2.358 y: -3.079 z:  0.000 heading:  -32 - moved:  0.060 meters in 1.0s
+2023-11-15 11:22:03|start_point - x:  2.358 y: -3.079 z:  0.000 heading:  -32
+2023-11-15 11:22:04|stop_point -  x:  2.358 y: -3.079 z:  0.000 heading:  -89 - moved:  0.002 meters in 1.1s
+2023-11-15 11:22:05|start_point - x:  2.358 y: -3.079 z:  0.000 heading:  -89
+2023-11-15 11:22:09|stop_point -  x:  2.361 y: -3.321 z:  0.000 heading:  -89 - moved:  0.241 meters in 3.7s
+2023-11-15 11:22:09|start_point - x:  2.361 y: -3.321 z:  0.000 heading:  -89
+2023-11-15 11:22:09|stop_point -  x:  2.361 y: -3.321 z:  0.000 heading:  -90 - moved:  0.000 meters in 0.1s
+2023-11-15 11:22:09|start_point - x:  2.361 y: -3.321 z:  0.000 heading:  -90
+2023-11-15 11:22:12|stop_point -  x:  2.361 y: -3.321 z:  0.000 heading:  109 - moved:  0.013 meters in 3.0s
+2023-11-15 11:22:13|start_point - x:  2.361 y: -3.321 z:  0.000 heading:  109
+2023-11-15 11:22:33|stop_point -  x:  1.834 y: -1.711 z:  0.000 heading:  108 - moved:  1.693 meters in 19.9s
+2023-11-15 11:22:33|start_point - x:  1.834 y: -1.711 z:  0.000 heading:  108
+2023-11-15 11:22:33|stop_point -  x:  1.834 y: -1.710 z:  0.000 heading:   90 - moved:  0.001 meters in 0.4s
+2023-11-15 11:22:34|start_point - x:  1.834 y: -1.710 z:  0.000 heading:   90
+2023-11-15 11:22:35|stop_point -  x:  1.834 y: -1.711 z:  0.000 heading:   40 - moved:  0.002 meters in 1.0s
+2023-11-15 11:22:35|start_point - x:  1.834 y: -1.711 z:  0.000 heading:   40
+2023-11-15 11:22:35|stop_point -  x:  1.834 y: -1.710 z:  0.000 heading:   39 - moved:  0.000 meters in 0.1s
+2023-11-15 11:22:36|start_point - x:  1.835 y: -1.710 z:  0.000 heading:   39
+2023-11-15 11:22:41|stop_point -  x:  2.253 y: -1.372 z:  0.000 heading:   39 - moved:  0.536 meters in 5.4s
+2023-11-15 11:22:41|start_point - x:  2.253 y: -1.372 z:  0.000 heading:   39
+2023-11-15 11:22:49|stop_point -  x:  2.758 y: -0.964 z:  0.000 heading:   39 - moved:  0.650 meters in 7.8s
+2023-11-15 11:22:49|start_point - x:  2.758 y: -0.964 z:  0.000 heading:   39
+2023-11-15 11:22:52|stop_point -  x:  2.758 y: -0.964 z:  0.000 heading:  180 - moved:  0.006 meters in 2.7s
+2023-11-15 11:22:53|start_point - x:  2.758 y: -0.964 z:  0.000 heading:  180
+2023-11-15 11:23:03|stop_point -  x:  1.862 y: -0.973 z:  0.000 heading: -179 - moved:  0.896 meters in 10.5s
+2023-11-15 11:23:04|start_point - x:  1.862 y: -0.973 z:  0.000 heading: -179
+2023-11-15 11:23:06|stop_point -  x:  1.861 y: -0.973 z:  0.000 heading:  -24 - moved:  0.009 meters in 2.9s
+2023-11-15 11:23:07|start_point - x:  1.861 y: -0.973 z:  0.000 heading:  -24
+2023-11-15 11:23:26|stop_point -  x:  3.509 y: -1.695 z:  0.000 heading:  -23 - moved:  1.799 meters in 19.3s
+2023-11-15 11:23:27|start_point - x:  3.509 y: -1.695 z:  0.000 heading:  -23
+2023-11-15 11:23:29|stop_point -  x:  3.510 y: -1.695 z:  0.000 heading:  109 - moved:  0.011 meters in 2.5s
+2023-11-15 11:23:30|start_point - x:  3.510 y: -1.695 z:  0.000 heading:  109
+2023-11-15 11:23:36|stop_point -  x:  3.359 y: -1.280 z:  0.000 heading:  110 - moved:  0.442 meters in 5.8s
+2023-11-15 11:23:36|start_point - x:  3.359 y: -1.280 z:  0.000 heading:  110
+2023-11-15 11:23:37|stop_point -  x:  3.358 y: -1.279 z:  0.000 heading:  135 - moved:  0.001 meters in 0.5s
+2023-11-15 11:23:37|start_point - x:  3.358 y: -1.279 z:  0.000 heading:  135
+2023-11-15 11:23:38|stop_point -  x:  3.319 y: -1.241 z:  0.000 heading:  136 - moved:  0.055 meters in 1.1s
+2023-11-15 11:23:39|start_point - x:  3.319 y: -1.241 z:  0.000 heading:  136
+2023-11-15 11:23:41|stop_point -  x:  3.318 y: -1.241 z:  0.000 heading: -126 - moved:  0.009 meters in 1.9s
+2023-11-15 11:23:41|start_point - x:  3.318 y: -1.241 z:  0.000 heading: -126
+2023-11-15 11:24:00|stop_point -  x:  2.327 y: -2.663 z:  0.000 heading: -125 - moved:  1.732 meters in 18.6s
+2023-11-15 11:24:00|start_point - x:  2.327 y: -2.663 z:  0.000 heading: -125
+2023-11-15 11:24:00|stop_point -  x:  2.327 y: -2.663 z:  0.000 heading: -125 - moved:  0.000 meters in 0.1s
+2023-11-15 11:24:00|start_point - x:  2.327 y: -2.663 z:  0.000 heading: -125
+2023-11-15 11:24:02|stop_point -  x:  2.326 y: -2.663 z:  0.000 heading:   -3 - moved:  0.009 meters in 2.3s
+2023-11-15 11:24:03|start_point - x:  2.326 y: -2.663 z:  0.000 heading:   -3
+2023-11-15 11:24:03|stop_point -  x:  2.326 y: -2.663 z:  0.000 heading:   -2 - moved:  0.000 meters in 0.1s
+2023-11-15 11:24:03|start_point - x:  2.326 y: -2.663 z:  0.000 heading:   -2
+2023-11-15 11:24:03|stop_point -  x:  2.326 y: -2.663 z:  0.000 heading:   -2 - moved:  0.001 meters in 0.1s
+2023-11-15 11:24:03|start_point - x:  2.326 y: -2.663 z:  0.000 heading:   -2
+2023-11-15 11:24:03|stop_point -  x:  2.326 y: -2.663 z:  0.000 heading:   -3 - moved:  0.000 meters in 0.1s
+2023-11-15 11:24:03|start_point - x:  2.327 y: -2.663 z:  0.000 heading:   -3
+2023-11-15 11:24:14|stop_point -  x:  3.305 y: -2.694 z:  0.000 heading:   -2 - moved:  0.980 meters in 10.6s
+2023-11-15 11:24:14|start_point - x:  3.305 y: -2.694 z:  0.000 heading:   -2
+2023-11-15 11:24:15|stop_point -  x:  3.305 y: -2.694 z:  0.000 heading:  -50 - moved:  0.003 meters in 0.9s
+2023-11-15 11:24:16|start_point - x:  3.305 y: -2.694 z:  0.000 heading:  -50
+2023-11-15 11:24:16|stop_point -  x:  3.305 y: -2.694 z:  0.000 heading:  -96 - moved:  0.003 meters in 0.9s
+2023-11-15 11:24:16|start_point - x:  3.305 y: -2.694 z:  0.000 heading:  -96
+2023-11-15 11:24:17|stop_point -  x:  3.305 y: -2.694 z:  0.000 heading:  -96 - moved:  0.000 meters in 0.1s
+2023-11-15 11:24:17|start_point - x:  3.305 y: -2.694 z:  0.000 heading:  -96
+2023-11-15 11:24:23|stop_point -  x:  3.255 y: -3.132 z:  0.000 heading:  -97 - moved:  0.441 meters in 5.8s
+2023-11-15 11:24:23|start_point - x:  3.255 y: -3.132 z:  0.000 heading:  -97
+2023-11-15 11:24:26|stop_point -  x:  3.255 y: -3.132 z:  0.000 heading:   41 - moved:  0.010 meters in 2.6s
+2023-11-15 11:24:26|start_point - x:  3.255 y: -3.132 z:  0.000 heading:   41
+2023-11-15 11:24:31|stop_point -  x:  3.540 y: -2.879 z:  0.000 heading:   42 - moved:  0.381 meters in 5.1s
+2023-11-15 11:24:32|start_point - x:  3.540 y: -2.879 z:  0.000 heading:   42
+2023-11-15 11:24:34|stop_point -  x:  3.540 y: -2.879 z:  0.000 heading:  -57 - moved:  0.005 meters in 1.9s
+2023-11-15 11:24:34|start_point - x:  3.540 y: -2.879 z:  0.000 heading:  -57
+2023-11-15 11:24:37|stop_point -  x:  3.614 y: -3.001 z:  0.000 heading:  -59 - moved:  0.142 meters in 2.4s
+2023-11-15 11:24:37|start_point - x:  3.614 y: -3.001 z:  0.000 heading:  -59
+2023-11-15 11:24:40|stop_point -  x:  3.614 y: -3.001 z:  0.000 heading:   81 - moved:  0.008 meters in 2.7s
+2023-11-15 11:24:40|start_point - x:  3.614 y: -3.001 z:  0.000 heading:   81
+2023-11-15 11:24:42|stop_point -  x:  3.627 y: -2.908 z:  0.000 heading:   82 - moved:  0.094 meters in 1.7s
+2023-11-15 11:24:42|start_point - x:  3.627 y: -2.908 z:  0.000 heading:   82
+2023-11-15 11:24:42|stop_point -  x:  3.627 y: -2.907 z:  0.000 heading:   82 - moved:  0.000 meters in 0.1s
+2023-11-15 11:24:43|start_point - x:  3.627 y: -2.907 z:  0.000 heading:   82
+2023-11-15 11:24:45|stop_point -  x:  3.627 y: -2.907 z:  0.000 heading: -145 - moved:  0.011 meters in 2.6s
+2023-11-15 11:24:46|start_point - x:  3.627 y: -2.907 z:  0.000 heading: -145
+2023-11-15 11:24:46|stop_point -  x:  3.626 y: -2.908 z:  0.000 heading: -145 - moved:  0.000 meters in 0.1s
+2023-11-15 11:24:46|start_point - x:  3.626 y: -2.908 z:  0.000 heading: -145
+2023-11-15 11:24:51|stop_point -  x:  3.321 y: -3.129 z:  0.000 heading: -144 - moved:  0.376 meters in 5.7s
+2023-11-15 11:24:52|start_point - x:  3.321 y: -3.129 z:  0.000 heading: -144
+2023-11-15 11:24:54|stop_point -  x:  3.321 y: -3.128 z:  0.000 heading:  105 - moved:  0.008 meters in 2.1s
+2023-11-15 11:24:55|start_point - x:  3.321 y: -3.128 z:  0.000 heading:  105
+2023-11-15 11:25:02|stop_point -  x:  3.184 y: -2.606 z:  0.000 heading:  105 - moved:  0.540 meters in 7.8s
+2023-11-15 11:25:03|start_point - x:  3.184 y: -2.606 z:  0.000 heading:  105
+2023-11-15 11:25:04|stop_point -  x:  3.184 y: -2.606 z:  0.000 heading:  148 - moved:  0.002 meters in 0.9s
+2023-11-15 11:25:04|start_point - x:  3.184 y: -2.606 z:  0.000 heading:  148
+2023-11-15 11:25:26|stop_point -  x:  1.427 y: -1.531 z:  0.000 heading:  148 - moved:  2.058 meters in 21.8s
+2023-11-15 11:25:26|start_point - x:  1.427 y: -1.531 z:  0.000 heading:  148
+2023-11-15 11:25:26|stop_point -  x:  1.420 y: -1.527 z:  0.000 heading:  148 - moved:  0.007 meters in 0.2s
+2023-11-15 11:25:26|start_point - x:  1.420 y: -1.527 z:  0.000 heading:  148
+2023-11-15 11:25:26|stop_point -  x:  1.411 y: -1.521 z:  0.000 heading:  148 - moved:  0.009 meters in 0.2s
+2023-11-15 11:25:26|start_point - x:  1.411 y: -1.521 z:  0.000 heading:  148
+2023-11-15 11:25:26|stop_point -  x:  1.408 y: -1.519 z:  0.000 heading:  148 - moved:  0.002 meters in 0.1s
+2023-11-15 11:25:26|start_point - x:  1.408 y: -1.519 z:  0.000 heading:  148
+2023-11-15 11:25:27|stop_point -  x:  1.402 y: -1.516 z:  0.000 heading:  149 - moved:  0.005 meters in 0.1s
+2023-11-15 11:25:27|start_point - x:  1.402 y: -1.516 z:  0.000 heading:  149
+2023-11-15 11:25:27|stop_point -  x:  1.394 y: -1.511 z:  0.000 heading:  148 - moved:  0.010 meters in 0.2s
+2023-11-15 11:25:27|start_point - x:  1.394 y: -1.511 z:  0.000 heading:  148
+2023-11-15 11:25:29|stop_point -  x:  1.394 y: -1.511 z:  0.000 heading:   42 - moved:  0.007 meters in 2.0s
+2023-11-15 11:25:30|start_point - x:  1.394 y: -1.511 z:  0.000 heading:   42
+2023-11-15 11:25:30|stop_point -  x:  1.432 y: -1.477 z:  0.000 heading:   41 - moved:  0.050 meters in 0.5s
+2023-11-15 11:25:30|start_point - x:  1.432 y: -1.477 z:  0.000 heading:   41
+2023-11-15 11:25:36|stop_point -  x:  1.776 y: -1.175 z:  0.000 heading:   41 - moved:  0.456 meters in 5.6s
+2023-11-15 11:25:36|start_point - x:  1.776 y: -1.175 z:  0.000 heading:   41
+2023-11-15 11:25:36|stop_point -  x:  1.778 y: -1.173 z:  0.000 heading:   41 - moved:  0.002 meters in 0.1s
+2023-11-15 11:25:36|start_point - x:  1.780 y: -1.171 z:  0.000 heading:   41
+2023-11-15 11:25:36|stop_point -  x:  1.785 y: -1.167 z:  0.000 heading:   41 - moved:  0.005 meters in 0.1s
+2023-11-15 11:25:37|start_point - x:  1.785 y: -1.167 z:  0.000 heading:   41
+2023-11-15 11:25:39|stop_point -  x:  1.785 y: -1.166 z:  0.000 heading:  -68 - moved:  0.007 meters in 2.1s
+2023-11-15 11:25:39|start_point - x:  1.785 y: -1.166 z:  0.000 heading:  -68
+2023-11-15 11:25:56|stop_point -  x:  2.306 y: -2.492 z:  0.000 heading:  -68 - moved:  1.424 meters in 16.5s
+2023-11-15 11:25:56|start_point - x:  2.306 y: -2.492 z:  0.000 heading:  -68
+2023-11-15 11:25:56|stop_point -  x:  2.306 y: -2.492 z:  0.000 heading:  -69 - moved:  0.001 meters in 0.1s
+2023-11-15 11:25:56|start_point - x:  2.306 y: -2.492 z:  0.000 heading:  -69
+2023-11-15 11:25:56|stop_point -  x:  2.306 y: -2.492 z:  0.000 heading:  -69 - moved:  0.000 meters in 0.1s
+2023-11-15 11:25:56|start_point - x:  2.306 y: -2.492 z:  0.000 heading:  -69
+2023-11-15 11:25:56|stop_point -  x:  2.306 y: -2.492 z:  0.000 heading:  -69 - moved:  0.000 meters in 0.1s
+2023-11-15 11:25:56|start_point - x:  2.306 y: -2.492 z:  0.000 heading:  -69
+2023-11-15 11:25:58|stop_point -  x:  2.306 y: -2.492 z:  0.000 heading:   21 - moved:  0.006 meters in 1.8s
+2023-11-15 11:25:59|start_point - x:  2.306 y: -2.492 z:  0.000 heading:   21
+2023-11-15 11:26:12|stop_point -  x:  3.365 y: -2.062 z:  0.000 heading:   22 - moved:  1.143 meters in 13.2s
+2023-11-15 11:26:12|start_point - x:  3.365 y: -2.062 z:  0.000 heading:   22
+2023-11-15 11:26:12|stop_point -  x:  3.364 y: -2.062 z:  0.000 heading:   22 - moved:  0.000 meters in 0.1s
+2023-11-15 11:26:12|start_point - x:  3.364 y: -2.062 z:  0.000 heading:   22
+2023-11-15 11:26:13|stop_point -  x:  3.365 y: -2.063 z:  0.000 heading:  -34 - moved:  0.003 meters in 1.2s
+2023-11-15 11:26:14|start_point - x:  3.365 y: -2.063 z:  0.000 heading:  -34
+2023-11-15 11:26:15|stop_point -  x:  3.365 y: -2.062 z:  0.000 heading:  -90 - moved:  0.004 meters in 1.1s
+2023-11-15 11:26:16|start_point - x:  3.365 y: -2.062 z:  0.000 heading:  -90
+2023-11-15 11:26:22|stop_point -  x:  3.357 y: -2.571 z:  0.000 heading:  -91 - moved:  0.509 meters in 6.5s
+2023-11-15 11:26:23|start_point - x:  3.357 y: -2.571 z:  0.000 heading:  -91
+2023-11-15 11:26:25|stop_point -  x:  3.357 y: -2.572 z:  0.000 heading:  135 - moved:  0.011 meters in 2.6s
+2023-11-15 11:26:26|start_point - x:  3.357 y: -2.572 z:  0.000 heading:  135
+2023-11-15 11:26:47|stop_point -  x:  1.939 y: -1.116 z:  0.000 heading:  135 - moved:  2.030 meters in 21.2s
+2023-11-15 11:26:47|start_point - x:  1.939 y: -1.116 z:  0.000 heading:  135
+2023-11-15 11:26:48|stop_point -  x:  1.889 y: -1.065 z:  0.000 heading:  134 - moved:  0.071 meters in 1.4s
+2023-11-15 11:26:49|start_point - x:  1.889 y: -1.065 z:  0.000 heading:  134
+2023-11-15 11:26:51|stop_point -  x:  1.889 y: -1.065 z:  0.000 heading: -124 - moved:  0.006 meters in 2.0s
+2023-11-15 11:26:51|start_point - x:  1.889 y: -1.065 z:  0.000 heading: -124
+2023-11-15 11:27:01|stop_point -  x:  1.486 y: -1.675 z:  0.000 heading: -123 - moved:  0.732 meters in 9.2s
+2023-11-15 11:27:01|start_point - x:  1.486 y: -1.675 z:  0.000 heading: -123
+2023-11-15 11:27:03|stop_point -  x:  1.486 y: -1.676 z:  0.000 heading:  -31 - moved:  0.004 meters in 1.7s
+2023-11-15 11:27:03|start_point - x:  1.486 y: -1.676 z:  0.000 heading:  -31
+2023-11-15 11:27:10|stop_point -  x:  1.935 y: -1.936 z:  0.000 heading:  -30 - moved:  0.518 meters in 7.1s
+2023-11-15 11:27:11|start_point - x:  1.935 y: -1.936 z:  0.000 heading:  -30
+2023-11-15 11:27:13|stop_point -  x:  2.026 y: -1.989 z:  0.000 heading:  -31 - moved:  0.105 meters in 1.7s
+2023-11-15 11:27:13|start_point - x:  2.026 y: -1.989 z:  0.000 heading:  -31
+2023-11-15 11:27:14|stop_point -  x:  2.027 y: -1.989 z:  0.000 heading:   17 - moved:  0.005 meters in 1.0s
+2023-11-15 11:27:15|start_point - x:  2.027 y: -1.989 z:  0.000 heading:   17
+2023-11-15 11:27:30|stop_point -  x:  3.344 y: -1.583 z:  0.000 heading:   17 - moved:  1.378 meters in 15.2s
+2023-11-15 11:27:31|start_point - x:  3.344 y: -1.583 z:  0.000 heading:   17
+2023-11-15 11:27:31|stop_point -  x:  3.344 y: -1.583 z:  0.000 heading:   -7 - moved:  0.003 meters in 0.5s
+2023-11-15 11:27:32|start_point - x:  3.344 y: -1.583 z:  0.000 heading:   -7
+2023-11-15 11:27:33|stop_point -  x:  3.344 y: -1.583 z:  0.000 heading:  -48 - moved:  0.005 meters in 0.8s
+2023-11-15 11:27:33|start_point - x:  3.344 y: -1.583 z:  0.000 heading:  -48
+2023-11-15 11:27:34|stop_point -  x:  3.344 y: -1.583 z:  0.000 heading:  -96 - moved:  0.003 meters in 1.0s
+2023-11-15 11:27:35|start_point - x:  3.344 y: -1.583 z:  0.000 heading:  -96
+2023-11-15 11:27:45|stop_point -  x:  3.245 y: -2.384 z:  0.000 heading:  -97 - moved:  0.806 meters in 9.8s
+2023-11-15 11:27:45|start_point - x:  3.245 y: -2.384 z:  0.000 heading:  -97
+2023-11-15 11:27:48|stop_point -  x:  3.245 y: -2.384 z:  0.000 heading:  113 - moved:  0.012 meters in 2.9s
+2023-11-15 11:27:49|start_point - x:  3.245 y: -2.384 z:  0.000 heading:  113
+2023-11-15 11:28:12|stop_point -  x:  2.461 y: -0.486 z:  0.000 heading:  113 - moved:  2.052 meters in 23.3s
+2023-11-15 11:28:12|start_point - x:  2.461 y: -0.486 z:  0.000 heading:  113
+2023-11-15 11:28:16|stop_point -  x:  2.461 y: -0.487 z:  0.000 heading:  -54 - moved:  0.008 meters in 3.2s
+2023-11-15 11:28:16|start_point - x:  2.461 y: -0.487 z:  0.000 heading:  -54
+2023-11-15 11:28:17|stop_point -  x:  2.461 y: -0.486 z:  0.000 heading: -107 - moved:  0.004 meters in 1.0s
+2023-11-15 11:28:18|start_point - x:  2.461 y: -0.487 z:  0.000 heading: -107
+2023-11-15 11:28:37|stop_point -  x:  1.906 y: -2.192 z:  0.000 heading: -108 - moved:  1.793 meters in 19.2s
+2023-11-15 11:28:37|start_point - x:  1.906 y: -2.192 z:  0.000 heading: -108
+2023-11-15 11:28:40|stop_point -  x:  1.906 y: -2.193 z:  0.000 heading:  118 - moved:  0.006 meters in 2.6s
+2023-11-15 11:28:41|start_point - x:  1.906 y: -2.193 z:  0.000 heading:  118
+2023-11-15 11:28:52|stop_point -  x:  1.434 y: -1.265 z:  0.000 heading:  117 - moved:  1.041 meters in 11.9s
+2023-11-15 11:28:53|start_point - x:  1.434 y: -1.265 z:  0.000 heading:  117
+2023-11-15 11:28:56|stop_point -  x:  1.434 y: -1.265 z:  0.000 heading:  -96 - moved:  0.012 meters in 2.8s
+2023-11-15 11:28:56|start_point - x:  1.434 y: -1.265 z:  0.000 heading:  -96
+2023-11-15 11:29:06|stop_point -  x:  1.361 y: -2.051 z:  0.000 heading:  -95 - moved:  0.789 meters in 9.8s
+2023-11-15 11:29:06|start_point - x:  1.361 y: -2.051 z:  0.000 heading:  -95
+2023-11-15 11:29:08|stop_point -  x:  1.361 y: -2.052 z:  0.000 heading:   -7 - moved:  0.003 meters in 1.7s
+2023-11-15 11:29:09|start_point - x:  1.361 y: -2.052 z:  0.000 heading:   -7
+2023-11-15 11:29:10|stop_point -  x:  1.426 y: -2.060 z:  0.000 heading:   -7 - moved:  0.065 meters in 1.0s
+2023-11-15 11:29:10|start_point - x:  1.426 y: -2.060 z:  0.000 heading:   -7
+2023-11-15 11:29:11|stop_point -  x:  1.427 y: -2.060 z:  0.000 heading:   23 - moved:  0.001 meters in 0.7s
+2023-11-15 11:29:11|start_point - x:  1.427 y: -2.060 z:  0.000 heading:   23
+2023-11-15 11:29:39|stop_point -  x:  3.669 y: -1.084 z:  0.000 heading:   23 - moved:  2.444 meters in 27.3s
+2023-11-15 11:29:39|start_point - x:  3.669 y: -1.084 z:  0.000 heading:   23
+2023-11-15 11:29:39|stop_point -  x:  3.668 y: -1.084 z:  0.000 heading:   24 - moved:  0.000 meters in 0.1s
+2023-11-15 11:29:39|start_point - x:  3.668 y: -1.084 z:  0.000 heading:   24
+2023-11-15 11:29:42|stop_point -  x:  3.669 y: -1.084 z:  0.000 heading:  154 - moved:  0.010 meters in 2.5s
+2023-11-15 11:29:42|start_point - x:  3.669 y: -1.084 z:  0.000 heading:  154
+2023-11-15 11:29:47|stop_point -  x:  3.392 y: -0.958 z:  0.000 heading:  156 - moved:  0.303 meters in 4.4s
+2023-11-15 11:29:47|start_point - x:  3.392 y: -0.958 z:  0.000 heading:  156
+2023-11-15 11:29:47|stop_point -  x:  3.392 y: -0.958 z:  0.000 heading:  155 - moved:  0.000 meters in 0.1s
+2023-11-15 11:29:47|start_point - x:  3.392 y: -0.958 z:  0.000 heading:  155
+2023-11-15 11:29:48|stop_point -  x:  3.392 y: -0.957 z:  0.000 heading: -178 - moved:  0.002 meters in 0.5s
+2023-11-15 11:29:48|start_point - x:  3.392 y: -0.957 z:  0.000 heading: -178
+2023-11-15 11:29:50|stop_point -  x:  3.392 y: -0.958 z:  0.000 heading:  -79 - moved:  0.009 meters in 1.9s
+2023-11-15 11:29:51|start_point - x:  3.392 y: -0.958 z:  0.000 heading:  -79
+2023-11-15 11:29:56|stop_point -  x:  3.475 y: -1.339 z:  0.000 heading:  -78 - moved:  0.390 meters in 5.8s
+2023-11-15 11:29:57|start_point - x:  3.475 y: -1.339 z:  0.000 heading:  -78
+2023-11-15 11:29:57|stop_point -  x:  3.475 y: -1.339 z:  0.000 heading:  -78 - moved:  0.001 meters in 0.1s
+2023-11-15 11:29:57|start_point - x:  3.475 y: -1.339 z:  0.000 heading:  -78
+2023-11-15 11:29:58|stop_point -  x:  3.475 y: -1.340 z:  0.000 heading: -107 - moved:  0.002 meters in 0.7s
+2023-11-15 11:29:58|start_point - x:  3.475 y: -1.340 z:  0.000 heading: -107
+2023-11-15 11:29:59|stop_point -  x:  3.475 y: -1.339 z:  0.000 heading: -157 - moved:  0.003 meters in 1.0s
+2023-11-15 11:30:00|start_point - x:  3.475 y: -1.339 z:  0.000 heading: -157
+2023-11-15 11:30:23|stop_point -  x:  1.474 y: -2.184 z:  0.000 heading: -157 - moved:  2.171 meters in 23.3s
+2023-11-15 11:30:23|start_point - x:  1.474 y: -2.184 z:  0.000 heading: -157
+2023-11-15 11:30:23|stop_point -  x:  1.473 y: -2.184 z:  0.000 heading: -157 - moved:  0.000 meters in 0.1s
+2023-11-15 11:30:23|start_point - x:  1.473 y: -2.184 z:  0.000 heading: -157
+2023-11-15 11:30:23|stop_point -  x:  1.474 y: -2.184 z:  0.000 heading: -158 - moved:  0.000 meters in 0.1s
+2023-11-15 11:30:24|start_point - x:  1.474 y: -2.184 z:  0.000 heading: -158
+2023-11-15 11:30:25|stop_point -  x:  1.473 y: -2.184 z:  0.000 heading:  -68 - moved:  0.004 meters in 1.8s
+2023-11-15 11:30:25|start_point - x:  1.473 y: -2.184 z:  0.000 heading:  -68
+2023-11-15 11:30:25|stop_point -  x:  1.473 y: -2.184 z:  0.000 heading:  -68 - moved:  0.000 meters in 0.1s
+2023-11-15 11:30:26|start_point - x:  1.473 y: -2.184 z:  0.000 heading:  -68
+2023-11-15 11:30:26|stop_point -  x:  1.473 y: -2.184 z:  0.000 heading:  -68 - moved:  0.000 meters in 0.1s
+2023-11-15 11:30:26|start_point - x:  1.473 y: -2.184 z:  0.000 heading:  -68
+2023-11-15 11:30:32|stop_point -  x:  1.674 y: -2.663 z:  0.000 heading:  -67 - moved:  0.519 meters in 6.3s
+2023-11-15 11:30:32|start_point - x:  1.674 y: -2.663 z:  0.000 heading:  -67
+2023-11-15 11:30:33|stop_point -  x:  1.691 y: -2.703 z:  0.000 heading:  -67 - moved:  0.043 meters in 0.9s
+2023-11-15 11:30:33|start_point - x:  1.691 y: -2.703 z:  0.000 heading:  -67
+2023-11-15 11:30:36|stop_point -  x:  1.691 y: -2.703 z:  0.000 heading:   58 - moved:  0.008 meters in 2.4s
+2023-11-15 11:30:36|start_point - x:  1.691 y: -2.703 z:  0.000 heading:   58
+2023-11-15 11:31:03|stop_point -  x:  2.926 y: -0.606 z:  0.000 heading:   59 - moved:  2.433 meters in 26.7s
+2023-11-15 11:31:03|start_point - x:  2.926 y: -0.606 z:  0.000 heading:   59
+2023-11-15 11:31:05|stop_point -  x:  2.926 y: -0.606 z:  0.000 heading:  137 - moved:  0.004 meters in 1.6s
+2023-11-15 11:31:06|start_point - x:  2.926 y: -0.606 z:  0.000 heading:  137
+2023-11-15 11:31:12|stop_point -  x:  2.616 y: -0.324 z:  0.000 heading:  138 - moved:  0.418 meters in 6.4s
+2023-11-15 11:31:12|start_point - x:  2.615 y: -0.324 z:  0.000 heading:  138
+2023-11-15 11:31:12|stop_point -  x:  2.616 y: -0.324 z:  0.000 heading:  138 - moved:  0.000 meters in 0.1s
+2023-11-15 11:31:12|start_point - x:  2.616 y: -0.324 z:  0.000 heading:  138
+2023-11-15 11:31:14|stop_point -  x:  2.615 y: -0.325 z:  0.000 heading:   60 - moved:  0.005 meters in 1.5s
+2023-11-15 11:31:15|start_point - x:  2.615 y: -0.325 z:  0.000 heading:   60
+2023-11-15 11:31:16|stop_point -  x:  2.663 y: -0.243 z:  0.000 heading:   60 - moved:  0.095 meters in 1.7s
+2023-11-15 11:31:16|start_point - x:  2.663 y: -0.243 z:  0.000 heading:   60
+2023-11-15 11:31:16|stop_point -  x:  2.663 y: -0.243 z:  0.000 heading:   59 - moved:  0.000 meters in 0.1s
+2023-11-15 11:31:17|start_point - x:  2.663 y: -0.243 z:  0.000 heading:   59
+2023-11-15 11:31:19|stop_point -  x:  2.664 y: -0.243 z:  0.000 heading: -161 - moved:  0.012 meters in 2.7s
+2023-11-15 11:31:19|start_point - x:  2.664 y: -0.243 z:  0.000 heading: -161
+2023-11-15 11:31:20|stop_point -  x:  2.663 y: -0.243 z:  0.000 heading: -161 - moved:  0.000 meters in 0.1s
+2023-11-15 11:31:20|start_point - x:  2.663 y: -0.243 z:  0.000 heading: -161
+2023-11-15 11:31:20|stop_point -  x:  2.664 y: -0.243 z:  0.000 heading: -161 - moved:  0.001 meters in 0.1s
+2023-11-15 11:31:20|start_point - x:  2.664 y: -0.243 z:  0.000 heading: -161
+2023-11-15 11:31:20|stop_point -  x:  2.663 y: -0.243 z:  0.000 heading: -161 - moved:  0.000 meters in 0.1s
+2023-11-15 11:31:20|start_point - x:  2.663 y: -0.243 z:  0.000 heading: -161
+2023-11-15 11:31:22|stop_point -  x:  2.578 y: -0.273 z:  0.000 heading: -161 - moved:  0.090 meters in 1.7s
+2023-11-15 11:31:22|start_point - x:  2.578 y: -0.273 z:  0.000 heading: -161
+2023-11-15 11:31:25|stop_point -  x:  2.577 y: -0.273 z:  0.000 heading:  -18 - moved:  0.011 meters in 2.7s
+2023-11-15 11:31:25|start_point - x:  2.577 y: -0.273 z:  0.000 heading:  -18
+2023-11-15 11:31:25|stop_point -  x:  2.584 y: -0.275 z:  0.000 heading:  -17 - moved:  0.006 meters in 0.2s
+2023-11-15 11:31:25|start_point - x:  2.584 y: -0.275 z:  0.000 heading:  -17
+2023-11-15 11:31:28|stop_point -  x:  2.755 y: -0.326 z:  0.000 heading:  -17 - moved:  0.179 meters in 2.9s
+2023-11-15 11:31:29|start_point - x:  2.755 y: -0.326 z:  0.000 heading:  -17
+2023-11-15 11:31:30|stop_point -  x:  2.755 y: -0.326 z:  0.000 heading:  -59 - moved:  0.003 meters in 0.9s
+2023-11-15 11:31:30|start_point - x:  2.755 y: -0.326 z:  0.000 heading:  -59
+2023-11-15 11:31:38|stop_point -  x:  2.996 y: -0.737 z:  0.000 heading:  -60 - moved:  0.477 meters in 7.8s
+2023-11-15 11:31:38|start_point - x:  2.996 y: -0.737 z:  0.000 heading:  -60
+2023-11-15 11:31:40|stop_point -  x:  2.996 y: -0.737 z:  0.000 heading: -117 - moved:  0.005 meters in 1.3s
+2023-11-15 11:31:40|start_point - x:  2.996 y: -0.737 z:  0.000 heading: -117
+2023-11-15 11:32:02|stop_point -  x:  2.030 y: -2.552 z:  0.000 heading: -118 - moved:  2.056 meters in 21.7s
+2023-11-15 11:32:02|start_point - x:  2.030 y: -2.552 z:  0.000 heading: -118
+2023-11-15 11:32:03|stop_point -  x:  2.012 y: -2.587 z:  0.000 heading: -118 - moved:  0.039 meters in 0.8s
+2023-11-15 11:32:03|start_point - x:  2.012 y: -2.587 z:  0.000 heading: -118
+2023-11-15 11:32:05|stop_point -  x:  2.012 y: -2.588 z:  0.000 heading:   -8 - moved:  0.006 meters in 2.1s
+2023-11-15 11:32:06|start_point - x:  2.012 y: -2.588 z:  0.000 heading:   -8
+2023-11-15 11:32:16|stop_point -  x:  2.857 y: -2.688 z:  0.000 heading:   -7 - moved:  0.851 meters in 10.4s
+2023-11-15 11:32:17|start_point - x:  2.857 y: -2.688 z:  0.000 heading:   -7
+2023-11-15 11:32:18|stop_point -  x:  2.858 y: -2.688 z:  0.000 heading:   86 - moved:  0.003 meters in 1.8s
+2023-11-15 11:32:19|start_point - x:  2.858 y: -2.688 z:  0.000 heading:   86
+2023-11-15 11:32:20|stop_point -  x:  2.858 y: -2.688 z:  0.000 heading:  134 - moved:  0.001 meters in 1.0s
+2023-11-15 11:32:21|start_point - x:  2.858 y: -2.688 z:  0.000 heading:  134
+2023-11-15 11:32:26|stop_point -  x:  2.455 y: -2.282 z:  0.000 heading:  135 - moved:  0.570 meters in 5.7s
+2023-11-15 11:32:27|start_point - x:  2.455 y: -2.282 z:  0.000 heading:  135
+2023-11-15 11:32:40|stop_point -  x:  1.611 y: -1.430 z:  0.000 heading:  134 - moved:  1.199 meters in 13.2s
+2023-11-15 11:32:40|start_point - x:  1.611 y: -1.430 z:  0.000 heading:  134
+2023-11-15 11:32:40|stop_point -  x:  1.602 y: -1.421 z:  0.000 heading:  134 - moved:  0.012 meters in 0.3s
+2023-11-15 11:32:40|start_point - x:  1.602 y: -1.421 z:  0.000 heading:  134
+2023-11-15 11:32:43|stop_point -  x:  1.602 y: -1.421 z:  0.000 heading:   -1 - moved:  0.009 meters in 2.6s
+2023-11-15 11:32:43|start_point - x:  1.602 y: -1.421 z:  0.000 heading:   -1
+2023-11-15 11:32:57|stop_point -  x:  2.836 y: -1.452 z:  0.000 heading:   -2 - moved:  1.234 meters in 13.8s
+2023-11-15 11:32:58|start_point - x:  2.836 y: -1.452 z:  0.000 heading:   -2
+2023-11-15 11:33:00|stop_point -  x:  2.835 y: -1.452 z:  0.000 heading: -138 - moved:  0.009 meters in 2.5s
+2023-11-15 11:33:01|start_point - x:  2.835 y: -1.453 z:  0.000 heading: -138
+2023-11-15 11:33:17|stop_point -  x:  1.708 y: -2.453 z:  0.000 heading: -139 - moved:  1.506 meters in 16.4s
+2023-11-15 11:33:17|start_point - x:  1.708 y: -2.453 z:  0.000 heading: -139
+2023-11-15 11:33:17|stop_point -  x:  1.708 y: -2.453 z:  0.000 heading: -138 - moved:  0.001 meters in 0.1s
+2023-11-15 11:33:18|start_point - x:  1.708 y: -2.453 z:  0.000 heading: -138
+2023-11-15 11:33:19|stop_point -  x:  1.708 y: -2.453 z:  0.000 heading:  173 - moved:  0.003 meters in 1.0s
+2023-11-15 11:33:19|start_point - x:  1.708 y: -2.453 z:  0.000 heading:  173
+2023-11-15 11:33:21|stop_point -  x:  1.708 y: -2.453 z:  0.000 heading:  115 - moved:  0.002 meters in 1.2s
+2023-11-15 11:33:21|start_point - x:  1.708 y: -2.453 z:  0.000 heading:  115
+2023-11-15 11:33:29|stop_point -  x:  1.461 y: -1.902 z:  0.000 heading:  114 - moved:  0.603 meters in 7.8s
+2023-11-15 11:33:29|start_point - x:  1.461 y: -1.902 z:  0.000 heading:  114
+2023-11-15 11:33:31|stop_point -  x:  1.462 y: -1.903 z:  0.000 heading:   -1 - moved:  0.006 meters in 2.2s
+2023-11-15 11:33:32|start_point - x:  1.462 y: -1.903 z:  0.000 heading:   -1
+2023-11-15 11:33:41|stop_point -  x:  2.388 y: -1.935 z:  0.000 heading:   -1 - moved:  0.927 meters in 9.4s
