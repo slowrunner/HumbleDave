@@ -14,6 +14,9 @@
 #    - original detection algorithm allowed bot to get too close to a side wall
 #    - changed obstacle detection to include right and left side distance to allow wandering closer to wallss
 #      (original with 0.8m distance_to_walls tended to stay in central area of playground
+#    - New algorithm allows closer to wall wandering, BUT forward obstacles roughly the width of robot may not be cleared well
+#    - New algorithm when boxed in can cause left/right/left/right oscillation when moving forward after rotation would work well
+#    - Added TTS begin, forward, and rotating announcements
 
 from random import random
 
@@ -46,7 +49,7 @@ i_back = NUM_RANGES - 1
 
 # Start slowing down at two times distance from wall
 # SLOWING_FACTOR = (2.0 * distance_from_wall) / MAX_SPEED  # (2*0.35)/0.1 = 7
-SLOWING_FACTOR = (1.25 * distance_from_wall) / MAX_SPEED  # (2*0.35)/0.1 = 7
+SLOWING_FACTOR = (1.5 * distance_from_wall) / MAX_SPEED  # (1.5*0.35)/0.15 = 3.5
 
 class Subscriber(Node):
 
@@ -261,39 +264,63 @@ def rotate_until_clear(subscriber, publisher, command):
     if subscriber.left_forward_distance < subscriber.right_forward_distance and \
        min(subscriber.left_forward_distance, subscriber.forward_distance, subscriber.right_forward_distance, \
            subscriber.left_distance, subscriber.right_distance ) < distance_from_wall :  
-        while min(subscriber.left_forward_distance, subscriber.forward_distance, subscriber_right_forward_distance, \
+        while min(subscriber.left_forward_distance, subscriber.forward_distance, subscriber.right_forward_distance, \
                   subscriber.left_distance, subscriber.right_distance)  < distance_from_wall:
             rclpy.spin_once(subscriber)
-            command.angular.z = -1.1 + (random()*0.3)
+            if subscriber.right_distance < distance_from_wall:
+                cw_ccw = 1   # turn left even though wall angles away 
+            else:
+                cw_ccw = -1
+            command.angular.z = cw_ccw * (1.1 - (random()*0.3))
             publisher.publisher_.publish(command)
-            publisher.get_logger().info("Rotating right...")
+            if cw_ccw > 0:
+                phrase = "Rotating left, wall on right..."
+            else:
+                phrase = "Rotating right..."
+            publisher.get_logger().info(phrase)
+
+
 
     # if the robot has away to left wall ahead
     if subscriber.left_forward_distance > subscriber.right_forward_distance and \
        min(subscriber.left_forward_distance, subscriber.forward_distance, subscriber.right_forward_distance, \
            subscriber.left_distance, subscriber.right_distance ) < distance_from_wall :  
-        while min(subscriber.left_forward_distance, subscriber.forward_distance, subscriber_right_forward_distance, \
+        while min(subscriber.left_forward_distance, subscriber.forward_distance, subscriber.right_forward_distance, \
                   subscriber.left_distance, subscriber.right_distance)  < distance_from_wall:
             rclpy.spin_once(subscriber)
-            command.angular.z = 1.1 + (random()*0.3)
+            if subscriber.left_distance < distance_from_wall:
+                cw_ccw = -1   # turn righteven though wall angles away 
+            else:
+                cw_ccw = 1
+            command.angular.z = cw_ccw * (1.1 - (random()*0.3))
             publisher.publisher_.publish(command)
-            publisher.get_logger().info("Rotating left...")
+            if cw_ccw > 0:
+                phrase = "Rotating left..."
+            else:
+                phrase = "Rotating right, wall on left..."
+            publisher.get_logger().info(phrase)
+
 
     else:  # wall is either exactly in front, or is on right, left or right and left!!  Catch all - turn till something opens up.
         turn_cnt = 0
-        while min(subscriber.left_forward_distance, subscriber.forward_distance, subscriber_right_forward_distance, \
+        while min(subscriber.left_forward_distance, subscriber.forward_distance, subscriber.right_forward_distance, \
                   subscriber.left_distance, subscriber.right_distance)  < distance_from_wall:
             rclpy.spin_once(subscriber)
             turn_cnt += 1
             if turn_cnt < 100:
-                cw_ccw = 1 if random() < 0.5 else -1
-                command.angular.z = cw_ccw * 1.1 - (random()*0.3)
+                if subscriber.left_distance < distance_from_wall:
+                    cw_ccw = -1  # turn right
+                else:
+                    cw_ccw = 1   # turn left
+                command.angular.z = cw_ccw * (1.1 - (random()*0.3))
                 publisher.publisher_.publish(command)
-                if cw > 0:
+                if cw_ccw > 0:
                     phrase = "Rotating left..."
                 else:
                     phrase = "Rotating right..."
                 publisher.get_logger().info(phrase)
+
+
             else:
                 command = reset_commands(command)
                 publisher.publisher_.publish(command)
