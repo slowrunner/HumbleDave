@@ -7,5 +7,5 @@ echo -e "\n*** ros2 launch nav2_bringup navigation_launch.py"
 ros2 launch nav2_bringup navigation_launch.py
 
 # Start Nav2 with local params_file
-# echo -e "\n*** ros2 launch nav2_bringup navigation_launch.py 'params_file:=/home/ubuntu/HumbleDave/ros2ws/my_nav2_params.yaml'"
-# ros2 launch nav2_bringup navigation_launch.py 'params_file:=/home/ubuntu/HumbleDave/ros2ws/my_nav2_params.yaml'
+# echo -e "\n*** ros2 launch nav2_bringup navigation_launch.py params_file:=/home/ubuntu/HumbleDave/ros2ws/my_nav2_params.yaml"
+ros2 launch nav2_bringup navigation_launch.py params_file:=/home/ubuntu/HumbleDave/ros2ws/my_nav2_params.yaml
