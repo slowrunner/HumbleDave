@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+
+# FILE: first_test.py
+# REF: https://pypi.org/project/imusensor/
+#
+# My mod to overwrite print results on one line
+
 import os
 import sys
 import time

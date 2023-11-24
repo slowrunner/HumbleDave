@@ -1,5 +1,9 @@
 MPU9250 For Raspberry Pi4 GoPiGo3 Robot Humble Dave
 
+
+REF:  https://pypi.org/project/imusensor/
+GIT: https://github.com/niru-5/imusensor  (with examples)
+
 * Install
 
 pip3 install imusensor easydict
@@ -12,7 +16,7 @@ sudo i2cdetect -y
 
 should see 68 in the list
 
-* first_test.py
+* first_test.py  (my mod to overwrite result on one line)
 #!/usr/bin/env python3
 
 import os
