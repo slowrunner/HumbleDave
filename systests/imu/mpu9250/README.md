@@ -6,8 +6,8 @@ GIT: https://github.com/niru-5/imusensor  (with examples)
 
 * Install
 
-pip3 install imusensor easydict
-(installs to user site dist packages)
+The pypi version is not up to date with the GitHub version
+(pip3 install imusensor  -- installs to user site dist packages)
 
 
 * Check if present
@@ -43,3 +43,14 @@ while True:
 	time.sleep(0.1)
 
 # ------ EOF
+
+
+* ----- ROS2 Driver
+
+sudo apt install libi2c-dev
+
+cd ros2ws/src
+git clone https://github.com/hiwad-aziz/ros2_mpu9250_driver.git
+
+rebuild.sh
+

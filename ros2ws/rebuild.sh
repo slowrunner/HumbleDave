@@ -33,6 +33,9 @@ colcon build --allow-overriding ros2_gopigo3_msg --symlink-install
 # echo "** colcon build --symlink-install --packages-select scan_client"
 # colcon build --symlink-install --packages-select scan_client
 
+# echo "** colcon build --symlink-install --packages-select mpu9250driver"
+# colcon build --symlink-install --packages-select mpu9250driver
+
 echo -e "\n*** . install/setup.bash"
 . install/setup.bash
 

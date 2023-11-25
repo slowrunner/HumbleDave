@@ -18,6 +18,10 @@ killall ultrasonic_ranger
 echo -e "\n*** Killing imu_sensor ***"
 killall imu_sensor
 
+echo -e "\n*** Killing mpu9250 IMU sensor ***"
+killall mpu9250driver
+
+
 echo -e "\n*** Kill LiDAR node ***"
 killall ydlidar_ros2_driver_node
 
