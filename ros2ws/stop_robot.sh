@@ -34,6 +34,7 @@ killall libcamera_jpg_pub
 killall odometer
 killall async_slam_toolbox_node
 killall sync_slam_toolbox_node
+killall localization_slam_toolbox_node
 
 # Use when these are set up as lifecycle nodes
 # ros2 lifecycle set gopigo3_node shutdown
