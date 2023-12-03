@@ -6,14 +6,14 @@
 #
 # Note: bc scale=x only works for division!
 #
-logfile="/home/ubuntu/HumbleDave/odom.log"
+logfile="/home/ubuntu/HumbleDave/ros2ws/odometer.log"
 echo "ROS2 ODOMETRY STATS"
 
 # echo "(Cleaning life.log first)"
 # /home/pi/rosbot-on-gopigo3/cleanlifelog.py
 echo " "
 declare -i catchupSegmentss=0
-totalTravel=`(awk -F'travel:' '{sum+=sqrt($2^2)}END{printf "%.1f", sum;}' $logfile)`
+totalTravel=`(awk -F'moved:' '{sum+=sqrt($2^2)}END{printf "%.1f", sum;}' $logfile)`
 totalTravelFt=`(echo "scale=1; ($totalTravel / 0.3048)" | bc)`
 echo "Total Travel: " $totalTravel "m" $totalTravelFt "ft"
 # totalRotate=`(awk -F'rotation:' '{sum+=sqrt($2^2)}END{printf "%.1f", sum;}' wheel.log)`
