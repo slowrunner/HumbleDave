@@ -1,0 +1,4 @@
+ROS2 ODOMETRY STATS
+ 
+Total Travel:  3311.8 m 10865.4 ft
+Total Motion:  0.0 sec 0 hrs

@@ -1,0 +1,12 @@
+WHEEL STATS
+(Cleaning life.log first)
+Read in /home/ubuntu/HumbleDave/life.log
+lines: 177
+lastline: 2024-04-15 08:33|------------ boot ------------
+
+File not changed
+ 
+Total Travel:  3255.8 m 10681.7 ft
+Total Rotate:  267700.6 deg 743.6 revolutions
+Total Motion:  28833.7 sec 8.009 hrs
+Total Life:  1940.3 hrs   percentInMotion: .41

@@ -1,0 +1,12 @@
+TOTAL LIFE STATISTICS
+(Cleaning life.log first)
+Read in /home/ubuntu/HumbleDave/life.log
+lines: 177
+lastline: 2024-04-15 08:33|------------ boot ------------
+
+File not changed
+ 
+Total Life:  1940.35 hrs (since June 10, 2021)
+Sessions (boot):  23
+Average Session:  84.3 hrs
+Safety Shutdowns:  2
