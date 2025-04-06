@@ -81,3 +81,4 @@ ROSbot Specs:
 - Total Cost: 
 
 - First "Life": June 2021 
+
