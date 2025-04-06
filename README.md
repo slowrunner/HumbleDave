@@ -1,11 +1,7 @@
 # HumbleDave
+Reincarnating ROSbot Dave (rosbot-on-gopigo3) atop ROS2 Humble and Ubuntu 22.04 (ROS2-GoPiGo3)
 
-2025-04-03: REINCARNATING HUMBLE DAVE due to Pi5 I2C failure on GoPi5Go  
-
-Originally a reincarnation of ROSbot Dave (rosbot-on-gopigo3) atop  
-ROS2 Humble and Ubuntu 22.04 (ROS2-GoPiGo3)  
-
-**Autonomous ROS2 home robot based on GoPiGo3 and Raspberry Pi 4**
+**Autonomous ROS2 home robot based on GoPiGo3 and RaspberryPi**
 
 
 <img src="https://github.com/slowrunner/HumbleDave/blob/main/Dave_LFQtr.jpg" width="378" height="504" />
@@ -41,7 +37,11 @@ ROSbot Specs:
   
 - Sensors (Added):
   * YDLIDAR X4 - 360 degrees, 12cm-10m range on half degree increment, ~8Hz scanning
-  * MPU9250 Inertial Measurement Unit  
+  * DI Distance Sensor (VL53L0X Infrared Time-Of-Flight)
+    25 deg beam width, About 4% accuracy to 7.5 feet (2.3m) 
+    Mounted on Tilt/Pan
+  * Pi-Camera v1.3
+  * MPU9250 Inertial Measurement Unit
     also provides ambient temperature 
   
 - Actuators/Effectors (GoPiGo3 Intrinsic)
@@ -51,15 +51,15 @@ ROSbot Specs:
   * Tri-color Battery Voltage Indicator
 
 - Actuators/Effectors 
+  * ModRobotics Servo Kit
   * USB audio+power speaker
   
 - Available GoPiGo3 Ports
-  * I2C (left): MPU9250  
-  * I2C (right): Unused  
-  * Grove Analog/Digital I/O AD1: Unused  
-  * Grove Analog/Digital I/O AD2: Unused  
-  * SERVO1: Unused  
-  * SERVO2: Unused  
+  * I2C: Distance Sensor
+  * I2C: Unused
+  * Grove Analog/Digital I/O AD1: Unused
+  * Grove Analog/Digital I/O AD2: Unused 
+  * SERVO1: Pan Servo
 
 - Power Source: ModRobotics 3000mAH 11.1v Rechargeable Battery
   * 12.6v to protection circuit cutoff at 8.1-8.4v! 
@@ -81,5 +81,3 @@ ROSbot Specs:
 - Total Cost: 
 
 - First "Life": June 2021 
-- First "EOL": Dec 2023
-- Reincarnated: Apr 2025
